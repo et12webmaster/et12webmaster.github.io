@@ -1,0 +1,107 @@
+<html>
+
+<!-- Mirrored from www.baitec.buenosaires.gob.ar/areas/educacion/escuelas/escuelas/media/tecnica/tecnica12/lat.htm by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 04 May 2020 21:31:56 GMT -->
+<head>
+<title>Pagina Indice</title>
+</head>
+<body background="fm.jpg" bgcolor="#000000">
+<script language="JavaScript">
+<!--
+
+//	var appName = navigator.appName;
+    var appVersion = parseInt(navigator.appVersion);
+	if (appVersion >= 4) { 
+		oldbutton = "";
+		var init	= false;
+		var counter	= 0;
+		var no_imgs	= new Array ();
+		var mo_imgs	= new Array ();
+	}
+function initialise (imageSrc, num, mode) {
+	if (appVersion < 4) return; 
+	if (mode == "no")	{
+		no_imgs[num]		= new Image ();
+		no_imgs[num].src	= imageSrc;
+	}
+	else	{
+		mo_imgs[num]		= new Image ();
+		mo_imgs[num].src	= imageSrc;
+	}
+}
+
+function flipImage (imageName, imageSrc, num, mode) {
+	if (appVersion < 4) return;
+	if (mode == "no")	{
+		var str	= no_imgs [num];
+		if ((""+str) == "undefined")
+			initialise (imageSrc, num, mode);
+		document[imageName].src = no_imgs[num].src;
+	}
+	else {
+		var str	= no_imgs [num];
+		if ((""+str) == "undefined")
+			initialise (imageSrc, num, mode);
+		document[imageName].src = mo_imgs[num].src;
+	}
+	//document[imageName].src = eval(imageName+".src");
+}
+
+function doSearch() {
+	var search = document.search.elements[10].value;
+	if (search == "")	return false;
+	var counter	= 6, pos	= 0, prev_pos	= 0;
+	while	((pos = search .indexOf (' ', prev_pos)) > -1 && counter < 9)	{
+		document.search.elements[counter++].value = search .substring (prev_pos, pos).toLowerCase();
+		prev_pos	= pos + 1;
+	}
+	document.search.elements[counter].value = search .substring (prev_pos);
+	return true;
+	//document.search.submit();
+}
+
+//------>
+
+</script>
+<table border="0">
+<tr>
+<td width="80"><center><img src="esc.gif" width="41" height="31"></center></td>
+</tr>
+</table>
+<table border="0">
+    <tr>
+        <td width="40"><a href="princi.html" target="principal"
+        onmouseout="flipImage(&quot;button1&quot;, &quot;mbj1.jpg&quot;, 2 + 1, &quot;no&quot;)"
+        onmouseover="flipImage(&quot;button1&quot;, &quot;mb1.jpg&quot;, 2 + 1, &quot;mo&quot;)"><img
+        src="mbj1.jpg" border="0" width="77" height="33"
+        name="button1"></a><a href="datos.html" target="principal"
+        onmouseout="flipImage(&quot;button2&quot;, &quot;mbj2.jpg&quot;, 2 + 2, &quot;no&quot;)"
+        onmouseover="flipImage(&quot;button2&quot;, &quot;mb2.jpg&quot;, 2 + 2, &quot;mo&quot;)"><img
+        src="mbj2.jpg" border="0" width="77" height="33"
+        name="button2"></a><a href="comuni.html" target="principal"
+        onmouseout="flipImage(&quot;button3&quot;, &quot;mbj3.jpg&quot;, 2 + 3, &quot;no&quot;)"
+        onmouseover="flipImage(&quot;button3&quot;, &quot;mb3.jpg&quot;, 2 + 3, &quot;mo&quot;)"><img
+        src="mbj3.jpg" border="0" width="77" height="33"
+        name="button3"></a><a href="estruct.html" target="principal"
+        onmouseout="flipImage(&quot;button4&quot;, &quot;mbj4.jpg&quot;, 2 + 4, &quot;no&quot;)"
+        onmouseover="flipImage(&quot;button4&quot;, &quot;mb4.jpg&quot;, 2 + 4, &quot;mo&quot;)"><img
+        src="mbj4.jpg" border="0" width="77" height="33"
+        name="button4"></a><a href="pei.html" target="principal"
+        onmouseout="flipImage(&quot;button5&quot;, &quot;mbj5.jpg&quot;, 2 + 5, &quot;no&quot;)"
+        onmouseover="flipImage(&quot;button5&quot;, &quot;mb5.jpg&quot;, 2 + 5, &quot;mo&quot;)"><img
+        src="mbj5.jpg" border="0" width="77" height="33"
+        name="button5"></a><a href="fotos.html" target="principal"
+        onmouseout="flipImage(&quot;button7&quot;, &quot;mbj7.jpg&quot;, 2 + 7, &quot;no&quot;)"
+        onmouseover="flipImage(&quot;button7&quot;, &quot;mb7.jpg&quot;, 2 + 7, &quot;mo&quot;)"><img
+        src="mbj7.jpg" border="0" width="77" height="33"
+        name="button7"></a><a href="primaria1.html" target="principal"
+        onmouseout="flipImage(&quot;button9&quot;, &quot;mbj9.jpg&quot;, 2 + 9, &quot;no&quot;)"
+        onmouseover="flipImage(&quot;button9&quot;, &quot;mb9.jpg&quot;, 2 + 9, &quot;mo&quot;)"><img
+        src="mbj9.jpg" border="0" width="77" height="33"
+        name="button9"></a>
+ </td>
+    </tr>
+</table>
+</body>
+
+<!-- Mirrored from www.baitec.buenosaires.gob.ar/areas/educacion/escuelas/escuelas/media/tecnica/tecnica12/lat.htm by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 04 May 2020 21:32:00 GMT -->
+</html>

@@ -1,0 +1,86 @@
+<html>
+
+<head>
+<meta http-equiv="Content-Type"
+content="text/html; charset=iso-8859-1">
+<meta name="GENERATOR" content="Microsoft FrontPage Express 2.0">
+<title>Presentacion</title>
+</head>
+
+<body bgcolor="#000000" text="#FFFFFF" link="#0000FF"
+vlink="#EE82EE"><CENTER>
+GOBIERNO DE LA CIUDAD DE BUENOS AIRES<BR>SECRETARIA DE EDUCACION</CENTER>
+<h2 align="center"><script language="JavaScript">
+<!--
+
+//	var appName = navigator.appName;
+    var appVersion = parseInt(navigator.appVersion);
+	if (appVersion >= 4) { 
+		oldbutton = "";
+		var init	= false;
+		var counter	= 0;
+		var no_imgs	= new Array ();
+		var mo_imgs	= new Array ();
+	}
+function initialise (imageSrc, num, mode) {
+	if (appVersion < 4) return; 
+	if (mode == "no")	{
+		no_imgs[num]		= new Image ();
+		no_imgs[num].src	= imageSrc;
+	}
+	else	{
+		mo_imgs[num]		= new Image ();
+		mo_imgs[num].src	= imageSrc;
+	}
+}
+
+function flipImage (imageName, imageSrc, num, mode) {
+	if (appVersion < 4) return;
+	if (mode == "no")	{
+		var str	= no_imgs [num];
+		if ((""+str) == "undefined")
+			initialise (imageSrc, num, mode);
+		document[imageName].src = no_imgs[num].src;
+	}
+	else {
+		var str	= no_imgs [num];
+		if ((""+str) == "undefined")
+			initialise (imageSrc, num, mode);
+		document[imageName].src = mo_imgs[num].src;
+	}
+	//document[imageName].src = eval(imageName+".src");
+}
+
+function doSearch() {
+	var search = document.search.elements[10].value;
+	if (search == "")	return false;
+	var counter	= 6, pos	= 0, prev_pos	= 0;
+	while	((pos = search .indexOf (' ', prev_pos)) > -1 && counter < 9)	{
+		document.search.elements[counter++].value = search .substring (prev_pos, pos).toLowerCase();
+		prev_pos	= pos + 1;
+	}
+	document.search.elements[counter].value = search .substring (prev_pos);
+	return true;
+	//document.search.submit();
+}
+
+//------>
+
+</script><img
+src="titulo.gif" width="444" height="90"></h2>
+
+<p align="center"><font size="5" COLOR=#FF0000>&quot;LIBERTADOR GENERAL 
+JOSÉ DE SAN MARTÍN&quot;</font></p>
+
+<p align="center"><applet code="Lake.class" align="baseline"
+width="118" height="200"><param name="image" value="esc.jpg"></applet></p>
+
+
+
+<p align="right"><br><br><br><br><font color="#FFFFFF" size="2"><b><i>Esta pagina
+se ve mejor con resolución 1024 x 768</i></b></font></p>
+ 
+
+<p>&nbsp;</p>
+</body>
+</html>
