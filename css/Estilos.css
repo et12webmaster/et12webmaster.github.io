@@ -521,7 +521,8 @@ ul li a {
 	background-color: #263238;
 	padding: 30px;
 	color:#fff;
-font-family: 'Montserrat', sans-serif;
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
 }
 .footer p{
 	font-size: 1.09em!important;
