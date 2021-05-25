@@ -598,6 +598,11 @@ margin-top: -60px !important;
 
 }
 
-.instaColor{
+#fbIco, #instaIco {
+  margin-left: 5px;
+  margin-right: 5px;  
+}
+
+#instaIco{
   color: #e75ac9;
 }
