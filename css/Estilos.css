@@ -602,8 +602,13 @@ margin-top: -60px !important;
 #fbIco, #instaIco {
   margin-left: 5px;
   margin-right: 5px;  
+  text-decoration: none;
 }
 
 #instaIco{
   color: #e75ac9;
+}
+
+#instaIco:hover{
+  color: #8f387c;
 }
