@@ -17,7 +17,8 @@
   <link rel="stylesheet" href="css/material.min.css">
   <link rel="stylesheet" href="css/poncho.css">
   <script src="https://kit.fontawesome.com/d4219031e2.js" crossorigin="anonymous"></script>
-  <script src="js/footer.js" type="text/javascript" defer></script>
+  <script src="js/componentes/componenteNavBar.js" type="text/javascript" defer></script>
+  <script src="js/componentes/componenteFooter.js" type="text/javascript" defer></script>
   <!-- Global site tag (gtag.js) - Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-153543945-1"></script>
   <script>
@@ -68,60 +69,7 @@
 </head>
 
 <body data-spy="scroll" data-target=".navbar" data-offset="50">
-  <div id="wrapper">
-    <div class="overlay"></div>
-    <nav class="barra sombras" id="menu">
-      <span class="title" id="titlenav">Inscripciones</span>
-    </nav>
-    <nav class="navbar navbar-inverse navbar-fixed-top" id="sidebar-wrapper" role="navigation">
-      <ul class="nav sidebar-nav">
-        <li class="sidebar-brand">
-          <div>
-            <a href="index.html" style="z-index:-99!important;"> <img class="Logo" src="imgs/et12.png" width="90"> </a>
-          </div>
-        </li>
-
-        <!-- <li class="main">
-                <a>Institución</a>
-            </li> -->
-        <li class="submenu">
-          <a href="autoridades.html">Autoridades</a>
-        </li>
-        <li class="submenu">
-          <a href="historia.html">Historia</a>
-        </li>
-        <li class="submenu">
-          <a href="convivencia.html">Convivencia</a>
-        </li>
-        <!-- <li class="submenu">
-              <a href="http://et12intranet.000webhostapp.com/VerMas.php">Centro de Novedades</a>
-            </li> -->
-        <!-- <li class="main">
-                <a>Alumnos</a>
-            </li> -->
-        <li class="submenu">
-          <a href="especialidades.html">Especialidades</a>
-        </li>
-        <li class="submenu">
-          <a href="inscripcion.html">Inscripciones</a>
-        </li>
-        <!-- <li class="main">
-                <a>Infraestructura</a>
-            </li> -->
-        <li class="submenu">
-          <a href="radio.html">Radio</a>
-        </li>
-      </ul>
-    </nav>
-
-    <div id="hamburgesa">
-      <button type="button" class="hamburger is-closed" data-toggle="offcanvas" style="z-index:9999!important;">
-        <span class="hamb-top"></span>
-        <span class="hamb-middle"></span>
-        <span class="hamb-bottom"></span>
-      </button>
-    </div>
-  </div>
+  <nav-component></nav-component>
 
   <div class="barra2"></div>
   <main role="main">
