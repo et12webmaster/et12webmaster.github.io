@@ -1,14 +1,14 @@
 class BarraNavegacion extends HTMLElement {
-    constructor() {
-      super();
-    }
-  
-    connectedCallback() {
-        this.innerHTML = `
+  constructor() {
+    super();
+  }
+
+  connectedCallback() {
+    this.innerHTML = `
 <div id="wrapper">
     <div class="overlay"></div>
     <nav class="barra" id="menu">
-      <span class="notitle" id="titlenav">Escuela Técnica N°12</span>
+      <span class="notitle" id="titlenav">E.T. N°12 Lib. Gral. Jose de San Martín</span>
     </nav>
     <nav class="navbar navbar-inverse navbar-fixed-top" id="sidebar-wrapper" role="navigation">
       <ul class="nav sidebar-nav">
@@ -60,6 +60,6 @@ class BarraNavegacion extends HTMLElement {
     </div>
   </div>
   `;
-}
+  }
 }
 customElements.define('nav-component', BarraNavegacion);
