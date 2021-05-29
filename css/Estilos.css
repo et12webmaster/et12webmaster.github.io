@@ -251,9 +251,9 @@ header{
 position: relative!important;
 }
 .title{
-  font-size: 20px!important;
+  font-size: 19px!important;
   color:#fff;
-  padding: 70px;
+  padding: 60px 0px 60px 56px;
 	transition: all 300ms;
 	-webkit-user-select: none;
 		 -moz-user-select: none;
