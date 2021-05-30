@@ -1,4 +1,5 @@
 const contenedor = document.getElementById("idContenedor");
+const idPresentacion = "#presentacion";
 
 function agregarCambio(unTitulo, unaUrl, unaFechaIso, unasDescripciones) {
   var cambio = {
@@ -16,9 +17,8 @@ function agregarCambio(unTitulo, unaUrl, unaFechaIso, unasDescripciones) {
       return cambio.titulo + " (" + this.fechaLocal() + ")";
     }
   }
-  console.log("titulo con fecha: " + cambio.tituloConFecha());
+  if (cambio.urlRelease == "") cambio.urlRelease = idPresentacion;
 
-  console.log("A punto de crear div del changelog")
   const eleDiv = document.createElement("div");
   eleDiv.appendChild(armarTitulo(cambio));
   eleDiv.appendChild(armarListaCambios(cambio.descripciones));
@@ -32,7 +32,8 @@ function armarTitulo(cambio){
   const eleLinkTitulo = document.createElement("a")
   const tituloTxt = document.createTextNode(cambio.tituloConFecha());
   eleLinkTitulo.appendChild(tituloTxt);
-  eleLinkTitulo.title = "Link Github Release " + cambio.tituloConFecha();
+  eleLinkTitulo.title = (cambio.urlRelease != idPresentacion) ? "Link Github Release " + cambio.tituloConFecha()
+    : "Inicio";
   eleLinkTitulo.href = cambio.urlRelease;
   eleTitulo.appendChild(eleLinkTitulo);
   return eleTitulo;
@@ -55,3 +56,9 @@ function armarElementoLista(descripcion){
 
 agregarCambio("v2.1", "https://github.com/et12webmaster/et12webmaster.github.io/releases/tag/2.1", "2021-05-29",
   ["Componentes html comunes a todas las paginas se implementaron como componentes reutilizables en js.", "Se corrigieron algunos errores.", "Minificación de librerías."]);
+
+agregarCambio("v2.1", "", "2018-07-25",
+  ["Implementación de sitio estático responsive"]);
+
+agregarCambio("1.0", "", "2007-06-15",
+  ["Primera versión del sitio con php en un hosting gratutio, si sabes buscar capaz encuentres algo."])
