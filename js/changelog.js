@@ -142,7 +142,8 @@ const jonathanVelazquez = new Colaborador("Jonathan", "Velazquez", "Docente de C
 // INVOCACIÓN CAMBIOS
 
 /*agregarCambio("v2.x", "...", "2021-05-31",
-  [new DescripcionColaboracion("Corrección responsive changelog", [luisDuran, jonathanVelazquez])]
+  [new DescripcionColaboracion("Implementación hoja de estilos para especialidades.", [luisDuran]),
+  new DescripcionColaboracion("Corrección responsive changelog", [luisDuran, jonathanVelazquez])]
 );*/
 
 agregarCambio("v2.2", "https://github.com/et12webmaster/et12webmaster.github.io/releases/tag/2.2", "2021-05-31",

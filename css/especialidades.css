@@ -1,0 +1,39 @@
+@media screen and (min-width: 701px) {
+  .comp {
+    background-image: url('../imgs/computacion.svg') !important;
+  }
+}
+
+@media screen and (max-width: 700px) {
+  .comp {
+    background-image: url('../imgs/computacion700.svg') !important;
+  }
+}
+
+@media screen and (min-width: 701px) {
+  .electro {
+    background-image: url('../imgs/electronica.svg') !important;
+  }
+}
+
+@media screen and (max-width: 700px) {
+  .electro {
+    background-image: url('../imgs/electronica700.svg') !important;
+  }
+}
+
+@media screen and (min-width: 701px) {
+  .electri {
+    background-image: url('../imgs/electricidad.svg') !important;
+  }
+}
+
+@media screen and (max-width: 700px) {
+  .electri {
+    background-image: url('../imgs/electricidad700.svg') !important;
+  }
+}
+
+.divBoton{
+  text-align: center;
+}
