@@ -140,6 +140,13 @@ const danielUmiri = new Colaborador("Daniel", "Umiri", "Egresado Computacion 201
 const jonathanVelazquez = new Colaborador("Jonathan", "Velazquez", "Docente de Computación", "https://github.com/jonathanvgms", "https://avatars.githubusercontent.com/u/7192115?v=4");
 
 // INVOCACIÓN CAMBIOS
+
+/*agregarCambio("v2.3", "...", "2021-05-31",
+  [new DescripcionColaboracion("Implementación hoja de estilos para especialidades.", [luisDuran]),
+  new DescripcionColaboracion("Corrección menu desplegable", [agustinSantich]),
+  new DescripcionColaboracion("Corrección responsive changelog", [luisDuran, jonathanVelazquez])]
+);*/
+
 agregarCambio("v2.2", "https://github.com/et12webmaster/et12webmaster.github.io/releases/tag/2.2", "2021-05-31",
   [new DescripcionColaboracion("Agregada página de changelog.", [luisDuran]),
   new DescripcionColaboracion("Componentes JS de Cambios y Colaboradores.", [luisDuran])]
