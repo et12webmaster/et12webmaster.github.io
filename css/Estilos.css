@@ -599,7 +599,7 @@ margin-top: -60px !important;
 
 }
 
-#fbIco, #instaIco {
+#fbIco, #instaIco, #githubIco {
   margin-left: 5px;
   margin-right: 5px;  
   text-decoration: none;
@@ -611,4 +611,8 @@ margin-top: -60px !important;
 
 #instaIco:hover{
   color: #8f387c;
+}
+
+#githubIco{
+  color: #6e5494;
 }
