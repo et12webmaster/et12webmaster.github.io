@@ -1,5 +1,56 @@
+// DEFINICIÓN DE CONSTANTES CLASES Y FUNCIONES
 const contenedor = document.getElementById("idContenedor");
 const idPresentacion = "#presentacion";
+const idColaboradores = "#colaboradores";
+
+class Colaborador {
+  constructor(nombre, apellido, descripcion, url, urlImagen){
+    this.nombre = nombre;
+    this.apellido = apellido;
+    this.descripcion = descripcion;
+    this.url = url;
+    this.urlImagen = urlImagen;
+  }
+  idString(){
+    return "#" + this.nombre + this.apellido;
+  }
+  nombreApellido(){
+    return this.nombre + " " + this.apellido;
+  }
+  generarCodigo(){
+    const eleDiv = document.createElement("div");
+  }
+  linkAId(){
+    return `<a href="` + this.idString() + `" title="` + this.nombreApellido() + `">` + this.nombreApellido() + `</a>`;
+  }
+  elementoLinkLocal(){
+    return crearElementoLink(this.nombreApellido(), this.idString(), this.nombreApellido());
+  }
+
+}
+
+class DescripcionColaboracion {
+  constructor(descripcion, colaboradores){
+    this.descripcion = descripcion;
+    this.colaboradores = colaboradores;
+  }
+  generarCodigoItem(){
+    const eleItem = document.createElement("li");
+    const eleP = document.createElement("p");
+    eleP.innerHTML = this.descripcion + this.generarCodigoColabores();
+    eleItem.appendChild(eleP);
+    console.log("contenido elemento: " + eleItem.innerHTML);
+    return eleItem;
+  }
+  generarCodigoColabores(){
+    var cadena = "(" + this.colaboradores[0].linkAId();
+    for (var i = 1; i<this.colaboradores.length;i++){
+      cadena +=  ", " + this.colaboradores[i].linkAId();
+    }
+    return cadena + ")";
+  }
+  
+}
 
 function agregarCambio(unTitulo, unaUrl, unaFechaIso, unasDescripciones) {
   var cambio = {
@@ -15,7 +66,12 @@ function agregarCambio(unTitulo, unaUrl, unaFechaIso, unasDescripciones) {
     },
     tituloConFecha: function(){
       return cambio.titulo + " (" + this.fechaLocal() + ")";
+    },
+    tituloLinkSeguro(){
+      return (cambio.urlRelease != idPresentacion) ? "Link Github Release " + cambio.tituloConFecha()
+      : "Inicio"
     }
+    
   }
   if (cambio.urlRelease == "") cambio.urlRelease = idPresentacion;
 
@@ -29,21 +85,15 @@ function agregarCambio(unTitulo, unaUrl, unaFechaIso, unasDescripciones) {
 
 function armarTitulo(cambio){
   const eleTitulo = document.createElement("h4");
-  const eleLinkTitulo = document.createElement("a")
-  const tituloTxt = document.createTextNode(cambio.tituloConFecha());
-  eleLinkTitulo.appendChild(tituloTxt);
-  eleLinkTitulo.title = (cambio.urlRelease != idPresentacion) ? "Link Github Release " + cambio.tituloConFecha()
-    : "Inicio";
-  eleLinkTitulo.href = cambio.urlRelease;
-  eleTitulo.appendChild(eleLinkTitulo);
+  eleTitulo.appendChild(crearElementoLink(cambio.tituloLinkSeguro(), cambio.urlRelease, cambio.titulo));
   return eleTitulo;
 }
 
 function armarListaCambios(descripciones){
-    const eleLista = document.createElement("ul");
+    const eleLista = document.createElement("ol");
     var i;
     for (i = 0; i < descripciones.length; i++) {
-        eleLista.appendChild(armarElementoLista(descripciones[i]));
+        eleLista.appendChild(descripciones[i].generarCodigoItem());
     }
     return eleLista;
 }
@@ -54,11 +104,30 @@ function armarElementoLista(descripcion){
     return eleItem;
 }
 
+function crearElementoLink(titulo, link, texto){
+  const eleLinkTitulo = document.createElement("a")
+  const tituloTxt = document.createTextNode(texto);
+  eleLinkTitulo.appendChild(tituloTxt);
+  eleLinkTitulo.title = titulo;
+  eleLinkTitulo.href = link;
+  return eleLinkTitulo;
+}
+
+// INSTANCIAS DE COLABORADORES
+const luisDuran = new Colaborador("Luis", "Duran", "Docente de Computación", "https://github.com/luchoxx87", "https://avatars.githubusercontent.com/u/26579253?v=4");
+const agustinSantich = new Colaborador("Agustin", "Santich", "Egresado computación 2018", "https://github.com/AgusstinnS", "https://avatars.githubusercontent.com/u/29802627?v=4");
+const jonathanVelazquez = new Colaborador("Jonathan", "Velazquez", "Docente de Computación", "https://github.com/jonathanvgms", "https://avatars.githubusercontent.com/u/7192115?v=4");
+
+// INVOCACIÓN CAMBIOS
 agregarCambio("v2.1", "https://github.com/et12webmaster/et12webmaster.github.io/releases/tag/2.1", "2021-05-29",
-  ["Componentes html comunes a todas las paginas se implementaron como componentes reutilizables en js.", "Se corrigieron algunos errores.", "Minificación de librerías."]);
+  [new DescripcionColaboracion("Implementación de componentes reutilizables en js.", [luisDuran]),
+  new DescripcionColaboracion("Se corrigieron algunos errores.", [luisDuran, jonathanVelazquez]),
+  new DescripcionColaboracion("Minificación de librerías.", [jonathanVelazquez])]
+);
 
-agregarCambio("v2.1", "", "2018-07-25",
-  ["Implementación de sitio estático responsive"]);
+agregarCambio("v2.0", "", "2018-07-25",
+  [new DescripcionColaboracion("Implementación de sitio estático responsive.", [agustinSantich])]
+);
 
-agregarCambio("1.0", "", "2007-06-15",
-  ["Primera versión del sitio con php en un hosting gratutio, si sabes buscar capaz encuentres algo."])
+/*agregarCambio("1.0", "", "2007-06-15",
+  ["Primera versión del sitio con php en un hosting gratuito, si sabes buscar capaz encuentres algo."])
