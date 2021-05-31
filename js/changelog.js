@@ -135,7 +135,7 @@ function crearElementoLink(titulo, link, texto){
 
 // INSTANCIAS DE COLABORADORES
 const luisDuran = new Colaborador("Luis", "Duran", "Docente de Computación", "https://github.com/luchoxx87", "https://avatars.githubusercontent.com/u/26579253?v=4");
-const agustinSantich = new Colaborador("Agustin", "Santich", "Egresado computación 2018", "https://github.com/AgusstinnS", "https://avatars.githubusercontent.com/u/29802627?v=4");
+const agustinSantich = new Colaborador("Agustin", "Santich", "Egresado Computación 2018", "https://github.com/AgusstinnS", "https://avatars.githubusercontent.com/u/29802627?v=4");
 const danielUmiri = new Colaborador("Daniel", "Umiri", "Egresado Computacion 2018", "#DanielUmiri", "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png");
 const jonathanVelazquez = new Colaborador("Jonathan", "Velazquez", "Docente de Computación", "https://github.com/jonathanvgms", "https://avatars.githubusercontent.com/u/7192115?v=4");
 
