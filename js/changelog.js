@@ -1,7 +1,7 @@
 // DEFINICIÓN DE CONSTANTES CLASES Y FUNCIONES
 const contenedor = document.getElementById("idContenedor");
 const idPresentacion = "#presentacion";
-const idColaboradores = "#colaboradores";
+const idColaboradores = "colaboradores";
 
 class Colaborador {
   constructor(nombre, apellido, descripcion, url, urlImagen){
@@ -18,13 +18,29 @@ class Colaborador {
     return this.nombre + " " + this.apellido;
   }
   generarCodigo(){
+    const eleContenedor = document.getElementById(idColaboradores);
     const eleDiv = document.createElement("div");
+    const codigo =`
+      <div class="thumbnail">
+      <img class="imgColaborador" id= "` + this.nombre+this.apellido + `" src="`+ this.urlImagen + `" alt="`+ this.nombreApellido() +`">
+      <div class="caption tarjeta">
+        <h3>` + this.linkUrl() + `</h3>
+        <p>` + this.descripcion + `</p>          
+      </div>
+      </div>
+    `;
+    eleDiv.innerHTML = codigo;
+    eleDiv.classList.add("col-sm-8", "col-md-4");
+    eleContenedor.appendChild(eleDiv);
   }
   linkAId(){
     return `<a href="` + this.idString() + `" title="` + this.nombreApellido() + `">` + this.nombreApellido() + `</a>`;
   }
   elementoLinkLocal(){
     return crearElementoLink(this.nombreApellido(), this.idString(), this.nombreApellido());
+  }
+  linkUrl(){
+    return `<a href="` + this.url + `" title="` + this.nombreApellido() + `">` + this.nombreApellido() + `</a>`;
   }
 
 }
@@ -130,4 +146,7 @@ agregarCambio("v2.0", "", "2018-07-25",
 );
 
 /*agregarCambio("1.0", "", "2007-06-15",
-  ["Primera versión del sitio con php en un hosting gratuito, si sabes buscar capaz encuentres algo."])
+  ["Primera versión del sitio con php en un hosting gratuito, si sabes buscar capaz encuentres algo."])*/
+luisDuran.generarCodigo();
+agustinSantich.generarCodigo();
+jonathanVelazquez.generarCodigo();
