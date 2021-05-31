@@ -30,7 +30,7 @@ class Colaborador {
       </div>
     `;
     eleDiv.innerHTML = codigo;
-    eleDiv.classList.add("col-sm-8", "col-md-4");
+    eleDiv.classList.add("col-xs-12", "col-sm-6","col-md-4");
     eleContenedor.appendChild(eleDiv);
   }
   linkAId(){
