@@ -141,8 +141,9 @@ const jonathanVelazquez = new Colaborador("Jonathan", "Velazquez", "Docente de C
 
 // INVOCACIÓN CAMBIOS
 
-/*agregarCambio("v2.x", "...", "2021-05-31",
+/*agregarCambio("v2.3", "...", "2021-05-31",
   [new DescripcionColaboracion("Implementación hoja de estilos para especialidades.", [luisDuran]),
+  new DescripcionColaboracion("Corrección menu desplegable", [agustinSantich]),
   new DescripcionColaboracion("Corrección responsive changelog", [luisDuran, jonathanVelazquez])]
 );*/
 
