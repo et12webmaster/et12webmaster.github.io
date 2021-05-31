@@ -59,11 +59,15 @@ class DescripcionColaboracion {
     return eleItem;
   }
   generarCodigoColabores(){
-    var cadena = "(" + this.colaboradores[0].linkAId();
-    for (var i = 1; i<this.colaboradores.length;i++){
-      cadena +=  ", " + this.colaboradores[i].linkAId();
+    var cadena = "";
+    if (this.colaboradores.length != 0){
+      cadena = "(" + this.colaboradores[0].linkAId();
+      for (var i = 1; i<this.colaboradores.length; i++){
+        cadena +=  ", " + this.colaboradores[i].linkAId();
+      }
+    cadena += ")";
     }
-    return cadena + ")";
+    return cadena;
   }
   
 }
@@ -132,6 +136,7 @@ function crearElementoLink(titulo, link, texto){
 // INSTANCIAS DE COLABORADORES
 const luisDuran = new Colaborador("Luis", "Duran", "Docente de Computación", "https://github.com/luchoxx87", "https://avatars.githubusercontent.com/u/26579253?v=4");
 const agustinSantich = new Colaborador("Agustin", "Santich", "Egresado computación 2018", "https://github.com/AgusstinnS", "https://avatars.githubusercontent.com/u/29802627?v=4");
+const danielUmiri = new Colaborador("Daniel", "Umiri", "Egresado Computacion 2018", "#DanielUmiri", "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png");
 const jonathanVelazquez = new Colaborador("Jonathan", "Velazquez", "Docente de Computación", "https://github.com/jonathanvgms", "https://avatars.githubusercontent.com/u/7192115?v=4");
 
 // INVOCACIÓN CAMBIOS
@@ -142,11 +147,13 @@ agregarCambio("v2.1", "https://github.com/et12webmaster/et12webmaster.github.io/
 );
 
 agregarCambio("v2.0", "", "2018-07-25",
-  [new DescripcionColaboracion("Implementación de sitio estático responsive.", [agustinSantich])]
+  [new DescripcionColaboracion("Implementación de sitio estático responsive.", [agustinSantich, danielUmiri])]
 );
 
-/*agregarCambio("1.0", "", "2007-06-15",
-  ["Primera versión del sitio con php en un hosting gratuito, si sabes buscar capaz encuentres algo."])*/
+agregarCambio("1.0", "", "2007-06-15",
+  [new DescripcionColaboracion("Primera versión del sitio con php en un hosting gratuito, si sabes buscar capaz encuentres algo.", [])]
+);
 luisDuran.generarCodigo();
 agustinSantich.generarCodigo();
+danielUmiri.generarCodigo();
 jonathanVelazquez.generarCodigo();
