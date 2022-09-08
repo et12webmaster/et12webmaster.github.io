@@ -90,6 +90,7 @@ th{
 .arrow:hover{
 	color: #00c0ff;
 }
+
 .row p{
   font-weight: 400;
 }
@@ -112,8 +113,6 @@ body,
     -o-transition: all 0.5s ease;
     transition: all 0.5s ease;
 }
-
-
 #wrapper.toggled {
     padding-left: 220px;
 }
@@ -340,7 +339,6 @@ cursor:default;
 	height: 55px;
 	left:0;
 	width:100%;
-
 }
 .sombras{
 	box-shadow: 	0 2px 2px 0 rgba(0,0,0,.14), 0 3px 1px -2px rgba(0,0,0,.2), 0 1px 5px 0 rgba(0,0,0,.12);
@@ -510,48 +508,65 @@ ul li a {
 		background-color: rgba(0,0,0,.5);
     z-index: 99;
 }
-.info{
+.info {
 	font-size: 14px!important;
 }
-.descargar{
+.descargar {
 	background-color: #2979FF!important;
 	color: #fff;
 }
-.footer{
+.footer {
+  width: 100%;
 	background-color: #263238;
-	padding: 30px;
 	color:#fff;
   font-family: 'Montserrat', sans-serif;
-  text-align: center;
+  padding: 10px;
 }
-.footer p{
-	font-size: 1.09em!important;
-font-family: 'Montserrat', sans-serif!important;
+.footer table {
+  width: 100%;
 }
-.vermas{
+.footer-col1 {
+  width: 60%;
+}
+.footer-col2 {
+  width: 40%;
+}
+.footer-info {
+  text-align: left;
+  font-size: 1em;
+  color: rgb(255, 255, 255);
+}
+.footer-icon-block {
+  text-align: right;
+}
+.footer-icon {
+  font-size: 3em;
+}
+
+.vermas {
 	color: #2979FF!important;
 	color: #fff;
 	font-size: 16px !important;
-margin-bottom: 20px !important;
-margin-top: -60px !important;
+  margin-bottom: 20px !important;
+  margin-top: -60px !important;
 }
-.secciones{
+.secciones {
 	margin-bottom: 80px;
 }
-.contacto{
+.contacto {
 	background-color:  #4a88f4;
 	width: 100%;
 	color: #fff;
 	padding: 10px;
 	padding-bottom: 40px;
 }
-.contactotext{
+.contactotext {
 	padding-top: 50px;
 	font-size: 17px!important;
 	line-height: 30px;
-	  font-weight: 500!important;
+	font-weight: 500!important;
 }
-.capa{
+.capa {
 	position: absolute;
     top: 0;
     left: 0;
@@ -574,15 +589,14 @@ margin-top: -60px !important;
               transform: translate3d(-50%,-50%,0);
 }
 
-@media screen and (min-width: 701px) {
+@media screen and (max-width: 950px) {
 	.banner h1 {
-	    font-size: 50px;
+	    font-size: 35px;
 	    font-weight: 400;
 	    margin: 0;
 	    padding: 0;
 	}
 }
-
 @media screen and (max-width: 700px) {
 	.banner h1 {
 	    font-size: 25px;
@@ -590,29 +604,64 @@ margin-top: -60px !important;
 	    margin: 0;
 	    padding: 0;
 	}
+  .footer-info{
+    font-size: 0.9em;
+  }
+  .footer-icon{
+    font-size: 2.5em;
+  }
 }
-.carousel-control{
+@media screen and (max-width: 455px) {
+  .footer-col1{
+    width: 72%;
+  }
+  .footer-col2{
+    width: 28%;
+  }
+  .footer-icon-block{
+    text-align: center;
+  }
+}
+@media screen and (max-width: 383px) {
+  .footer-col1{
+    width: 75%;
+  }
+  .footer-col2{
+    width: 25%;
+  }
+  .footer-icon{
+    font-size: 2.2em !important;
+  }
+  .footer-info{
+    font-size: 0.75em;
+  }
+}
+
+.carousel-control {
 	z-index: 5;
 }
-.esp li{
+.esp li {
 	line-height: 29px;
 
 }
 
 #fbIco, #instaIco, #githubIco {
   margin-left: 5px;
-  margin-right: 5px;  
+  margin-right: 5px;
   text-decoration: none;
 }
 
-#instaIco{
+#instaIco {
   color: #e75ac9;
 }
 
-#instaIco:hover{
+#instaIco:hover {
   color: #8f387c;
 }
 
-#githubIco{
+#githubIco {
   color: #6e5494;
+}
+#githubIco:hover {
+  color: #5d467c;
 }
