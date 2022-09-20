@@ -564,10 +564,8 @@ ul li a {
 	margin-bottom: 80px;
 }
 .contacto {
-	background-color:  #4a88f4;
 	width: 100%;
-	color: #fff;
-	padding: 10px;
+	color: #000;
 	padding-bottom: 40px;
 }
 .contactotext {
@@ -680,4 +678,29 @@ ul li a {
   .pre-row{
     
   }
+}
+
+.vinculo{
+  color: #2196F3;
+}
+.aaaa{
+  padding-left: 50px;
+  padding-right: 10px;
+}
+
+.footer-contacto{
+  height: 100%;
+  width: 100%;
+  padding: 10px;
+  text-align: center;
+}
+.a1{
+  padding-right: 10%;
+}
+.a2{
+  padding-left: 5%;
+  padding-right: 5%;
+}
+.a3{
+  padding-left: 10%;
 }
