@@ -97,6 +97,7 @@ th{
 .row li{
   font-weight: 400;
 }
+
 body,
 
 .nav .open > a,
@@ -521,6 +522,8 @@ ul li a {
 	color:#fff;
   font-family: 'Montserrat', sans-serif;
   padding: 10px;
+  position: absolute;
+  bottom: 0;
 }
 .footer table {
   width: 100%;
@@ -541,6 +544,13 @@ ul li a {
 }
 .footer-icon {
   font-size: 3em;
+}
+.pre-footer{
+  height: 100px !important;
+}
+.pre-row{
+  height: 0px;
+  background-color: #8f387c;
 }
 
 .vermas {
@@ -664,4 +674,10 @@ ul li a {
 }
 #githubIco:hover {
   color: #5d467c;
+}
+
+@media (min-height: 974px) {
+  .pre-row{
+    
+  }
 }
