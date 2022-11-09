@@ -1,13 +1,12 @@
-h1, h2, h3, h4, h5{
+h1, h2, h3, h4, h5 {
 	font-family: 'Montserrat', sans-serif!important;
 }
 
-body{
-	background-color:#153952 !important;
-    position: relative;
-    overflow-x: hidden;
-font-family: 'Montserrat', sans-serif!important;
-  color: rgb(255, 255, 255) !important;
+body {
+  position: relative;
+  overflow-x: hidden;
+  font-family: 'Montserrat', sans-serif!important;
+  color: #000 !important;
 }
 
 .page-sidebar .nav-pills > li.active > a, .page-sidebar .nav-pills > li.active > a:hover, .page-sidebar .nav-pills > li.active > a:focus{
@@ -45,7 +44,7 @@ font-family: 'Montserrat', sans-serif!important;
 .volver{
   text-align: right;
   position: fixed;
-  z-index:9999999;
+  z-index: 9999999;
   bottom: 10;
   right: 13;
   width: auto;
