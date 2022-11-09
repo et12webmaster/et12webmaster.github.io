@@ -43,7 +43,7 @@ class BarraNavegacion extends HTMLElement {
           <a href="inscripcion.html">Inscripciones</a>
         </li>
         <li class="submenu">
-          <a href="https://www.tec12radio.com/" target="_blank">Radio</a>
+          <a href="https://www.tec12radio.com/" target="_blank">Radio &nbsp &nbsp<i class="fa fa-external-link"></i></a>
         </li>
       </ul>
     </nav>

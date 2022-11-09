@@ -13,8 +13,8 @@ class Footer extends HTMLElement {
                             <div class="footer-info">
                                 Av.Del Libertador 238 - CABA (1001)<br>
                                 Tel: 4327-3942 / 4328-4433 <br>
-                                Mail institucional: <a href="mailto:det_12_de1@bue.edu.ar?subject=Mail via web: ">det_12_de1@bue.edu.ar</a> <br>
-                                <b>Toda la información de contacto <a href="contacto.html"> aquí </a> </b>
+                                Mail institucional: <a href="mailto:det_12_de1@bue.edu.ar?subject=Mail via web: " class="footer-link">det_12_de1@bue.edu.ar</a> <br>
+                                <b> Toda la información de contacto <a href="contacto.html" class="footer-link"> <b> aquí </b> </a> </b>
                             </div>
                         </div>
                     </td>
