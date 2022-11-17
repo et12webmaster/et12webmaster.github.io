@@ -24,19 +24,23 @@ class BarraNavegacion extends HTMLElement {
         </li>
 
         <li class="submenu">
-          <a href="historia.html">Historia</a>
+          <a href="autoridades.html">Autoridades</a>
         </li>
 
         <li class="submenu">
           <a href="convivencia.html">Convivencia</a>
         </li>
-        
-        <li class="submenu">
-          <a href="autoridades.html">Autoridades</a>
-        </li>
 
         <li class="submenu">
           <a href="inscripcion.html">Inscripciones</a>
+        </li>
+
+        <li class="submenu">
+          <a href="historia.html">Historia</a>
+        </li>
+
+        <li class="submenu">
+          <a href="contacto.html">Contacto</a>
         </li>
 
         <li class="submenu">
