@@ -33,6 +33,7 @@ Para correr el sitio con los _drafts_ visibles.
 ## Construido con 🛠️
 
 * [Visual Studio Code](https://code.visualstudio.com/#alt-downloads) - Editor de código.
+* [Relearn](https://mcshelby.github.io/hugo-theme-relearn/) - Tema de Hugo
 
 ## Wiki 📖
 
