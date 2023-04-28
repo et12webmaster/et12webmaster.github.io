@@ -1,0 +1,9 @@
+baseURL = 'http://et12.edu.ar/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+[module]
+[[module.imports]]
+  path = 'github.com/McShelby/hugo-theme-relearn'
+
+[params]
+  themeVariant = [ "auto", "red" , "relearn-light", "relearn-dark"]
