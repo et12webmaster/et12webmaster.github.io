@@ -16,6 +16,7 @@ Lista de estudiantes para este proyecto
 1. Brian
 
 [Google](https://www.google.com/?hl=es)
+
 ![AAH](https://i.pinimg.com/originals/a1/44/79/a14479fad7d0065e8e763421545000c1.png)
 ## Título
 ### Subtítulo
@@ -33,7 +34,3 @@ Al texto en Markdown puedes añadirle formato como **negrita** o *cursiva* de un
 |-|-|
 | gg| Gatito|
 | Paragraph | Text |
-
-
-'
-'
