@@ -7,3 +7,20 @@ title = 'My New Hugo Site'
 
 [params]
   themeVariant = [ "auto", "red" , "relearn-light", "relearn-dark"]
+
+  [[menu.shortcuts]]
+name = "<i class='fab fa-fw fa-github'></i> GitHub repo"
+identifier = "ds"
+url = "https://github.com/et12webmaster/et12webmaster.github.io"
+weight = 10
+
+[[menu.shortcuts]]
+name = "<i class='fab fa-brands fa-facebook'></i> Facebook"
+url = "https://www.facebook.com/jose.desanmartin.927"
+weight = 11
+
+[[menu.shortcuts]]
+name = "<i class='fab fa-brands fa-instagram'></i> Instagram"
+identifier = "hugodoc"
+url = "https://www.instagram.com/escuelatec12/"
+weight = 20
