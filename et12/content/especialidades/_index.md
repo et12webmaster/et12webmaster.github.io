@@ -5,4 +5,4 @@ title = "Especialidades"
 
 ## Computación
 
-aaaaa   
+aaaaa
