@@ -7,3 +7,4 @@ title = 'My New Hugo Site'
 
 [params]
   themeVariant = [ "auto", "red" , "relearn-light", "relearn-dark"]
+
