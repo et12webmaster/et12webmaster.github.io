@@ -1,5 +1,4 @@
 +++
-archetype = "chapter"
 title = "Contacto"
 +++
 

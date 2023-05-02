@@ -1,5 +1,4 @@
 +++
-archetype = "chapter"
 title = "Inscripciones"
 +++
 
@@ -25,11 +24,14 @@ Les damos la bienvenida a todos los nuevos ingresantes a nuestra escuela.
 ### Previo a la inscripción:
 
 - Para poder realizar la inscripción, hay que tener una cuenta de correo electrónico (e-mail) porque en esa cuenta recibirá todos los mensajes del sistema. Si no tiene correo electrónico, debe crearse una (ver al final de estas recomendaciones).
+
 - Entrar a la página de inscripción:
 (ingrese link)
+
 - Para la inscripción hay que “registrarse”. Una vez ingresado a la página de inscripción, completar los datos de “Registrate”. No olvidar tildar la opción “Aceptar la política de privacidad”. Al final presionar “Registrarse” (abajo a la derecha).
 Luego ingresar a la cuenta de correo electrónico que se indicó en “Registrate”. Leer el correo que llega de “inscripcionenlinea”. En ese mensaje se indica una contraseña que habrá que recordar ó anotar (ó copiar   CTROL+ C). Esa será la clave de acceso que se le solicitará más adelante.
 Completar con la cuenta de correo electrónico y con la “contraseña” ó “clave de acceso” que asignaron en el mensaje de correo. Luego presionar “Ingresar” (abajo a la izquierda).
+
 - Se abrirá una nueva página de dice “Ingresá tu nueva contraseña”:
 En “contraseña actual” colocar la contraseña o clave de acceso que nos asignaron en el mensaje de correo (no se verá, porque es secreta, a cambio se verán asteriscos “********”)
 Luego elegir una nueva contraseña o clave de acceso: la nueva contraseña debe tener como mínimo 8 caracteres, al menos una mayúscula, una minúscula y un número. Esta clave debe recordarse (anotarla en algún lugar para tenerla siempre a mano) ya que cuando se la escriba no podrá visualizarse, se verán asteriscos “*******”.
@@ -68,32 +70,32 @@ Hay que completar:
 
 - Completar todos los datos que tienen (*) ya que no se podrá seguir si no se completan por ser obligatorios.
 
-– Domicilio del aspirante: completar todos los datos que tengan (*) porque son obligatorios
+- Domicilio del aspirante: completar todos los datos que tengan (*) porque son obligatorios
 
-* Calle y nº: hay que escribir el nombre según figura en el listado del sistema. Por tal motivo, cuando se escribe parte o todo el nombre de la calle, sugiere debajo el nombre según lo tiene registrado (por ejemplo:  si uno escribe “jujuy” aparecen 2 opciones y hay que elegir la que corresponda y hacer click en ella). Luego se coloca el número del domicilio.
+- Calle y nº: hay que escribir el nombre según figura en el listado del sistema. Por tal motivo, cuando se escribe parte o todo el nombre de la calle, sugiere debajo el nombre según lo tiene registrado (por ejemplo:  si uno escribe “jujuy” aparecen 2 opciones y hay que elegir la que corresponda y hacer click en ella). Luego se coloca el número del domicilio.
 
-* Completar los demás datos
+- Completar los demás datos
 
-* Presionar “Guardar y continuar”
+- Presionar “Guardar y continuar”
 
-–  Datos del Adulto Responsable: completar todos los datos y al finalizar presionar “Guardar y continuar”.
+- Datos del Adulto Responsable: completar todos los datos y al finalizar presionar “Guardar y continuar”.
 
-–  Datos Adicionales:
+- Datos Adicionales:
 
 Se realizan una serie de preguntar que, según la respuesta, podría influir en la asignación de la vacante (por ejemplo:  si tiene hermanos en alguna escuela donde Ud. quisiera inscribirlo,  tiene la vacante asegurada en esa escuela. Si es docente de la escuela donde quiere inscribirlo, también tiene asegurada la vacante, etc.
 
-–  Pre-inscripciones vinculadas:
+- Pre-inscripciones vinculadas:
 
 Trata de determinar si en este acto se inscribió a 1º año a algún familiar directo (por ejemplo: si inscribe a 2 hermanos a primer año y quiere que ambos concurran a la misma escuela
 
-Al final presionar “Guardar y Continuar”
+- Al final presionar “Guardar y Continuar”
 
 Selección de Escuelas:
 Una vez completados todos los datos de las pantallas anteriores, aparecerá una pantalla que dice:
 
 “En esta pantalla, se te ofrecerán opciones de escuelas en función de la información cargada. Podés agregar otras escuelas según tu preferencia y ordenarlas, pero recordá que la asignación de vacantes se realizará de acuerdo a las reglas de asignación publicadas en el sitio web de Inscripción en Línea”. Presionar “Cerrar”.
 
-–  Selección de Escuelas:
+- Selección de Escuelas:
 
 El sistema asigna 5 escuelas, que según entiende, por algunos de los datos antes cargos, correspondería a su elección.
 
