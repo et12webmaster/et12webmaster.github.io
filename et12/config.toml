@@ -6,7 +6,7 @@ title = 'ET12 D1'
   path = 'github.com/McShelby/hugo-theme-relearn'
 
 [params]
-  themeVariant = [ "auto", "red" , "relearn-light", "relearn-dark", "blue"]
+  themeVariant = [ "auto", "red" , "relearn-light", "relearn-dark", "blue", "green"]
 
 [[menu.shortcuts]]
 name = "<i class='fab fa-brands fa-github'></i> GitHub repo"
