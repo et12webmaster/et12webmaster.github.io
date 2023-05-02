@@ -4,6 +4,7 @@ title = 'ET12 D1'
 [module]
 [[module.imports]]
   path = 'github.com/McShelby/hugo-theme-relearn'
+  
 
 [params]
   themeVariant = [ "auto", "red" , "relearn-light", "relearn-dark", "blue", "green"]
