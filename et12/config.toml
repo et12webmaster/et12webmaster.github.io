@@ -24,5 +24,9 @@ weight = 11
 name = "<i class='fab fa-brands fa-facebook'></i> Facebook"
 identifier = "hugodoc"
 url = "https://www.facebook.com/jose.desanmartin.927"
-target = "_blank"
 weight = 20
+
+[[menu.shortcuts]]
+name = "<i class='fas fa-tags'></i> Tags"
+url = "/tags"
+weight = 30
