@@ -1,6 +1,8 @@
+<link rel="stylesheet" type="text/css" href="/css/autoridades.css">
 {{range $.Site.Data.autoridades.autoridades}}
-<div>
+<div>    
     <h5>{{.titulo}} {{.nombre}} {{.apellido}}</h5>
     <p>{{.cargo}}</p>
 </div>
 {{end}}
+<source src="/css/autoridades.css"/>
