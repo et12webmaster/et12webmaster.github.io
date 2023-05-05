@@ -2,6 +2,16 @@
 title = "Historia"
 +++
 
+
+{{<historia>}}
+
+
+
+
+
+
+
+
 ### 1935
 En el Boletín Oficial del 27 de septiembre de 1935 se publica la ley 12.234 que en su art. 1º decía "Créase en la Capital Federal cuatro escuelas de oficios para la formación de obreros destinados a las industrias del hierro, de la madera, de la electricidad y de la edificación , las que estarán ubicadas en la siguiente forma: escuelas de industrias del hierro, en el barrio de Barracas; de industrias de la madera, en San Cristóbal; de industrias edilicias, en Flores y de industrias eléctricas en Puerto Nuevo." Así mismo en el art. 3º decía" La enseñanza en estas escuelas deberá comprender, además de la parte practica y técnica correspondiente al aprendizaje de cada oficio, las siguientes asignaturas de cultura general".
 
