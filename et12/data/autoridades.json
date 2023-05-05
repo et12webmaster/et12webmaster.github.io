@@ -1,0 +1,66 @@
+{
+  "autoridades": [
+    {
+      "cargo": "Rector",
+      "titulo": "Prof.",
+      "nombre": "Pablo",
+      "apellido": "Climent"
+    },
+    {
+      "cargo": "Vicerrector",
+      "titulo": "Prof.",
+      "nombre": "Carlos ",
+      "apellido": "Salvarrey"
+    },
+    {
+      "cargo": "Vicerrector",
+      "titulo": "Prof.",
+      "nombre": "Carlos ",
+      "apellido": "Salvarrey"
+    },
+    {
+      "cargo": "Regente T.Mañana",
+      "titulo": "Prof.",
+      "nombre": "Gabriela",
+      "apellido": "Simone"
+    },
+    {
+      "cargo": "Regente T.Tarde",
+      "titulo": "Prof.",
+      "nombre": "Daniel",
+      "apellido": "Campero"
+    },
+    {
+      "cargo": "Regente T.Noche",
+      "titulo": "Prof.",
+      "nombre": "Julio",
+      "apellido": "García"
+    },
+    {
+      "cargo": "Sub-Regente",
+      "titulo": "Prof.",
+      "nombre": "Carlos",
+      "apellido": "Elli"
+    },
+    {
+      "cargo": "Jefe Gral. Ens. Prácticas",
+      "titulo": "Prof.",
+      "nombre": "Jose",
+      "apellido": "Czernochivsky"
+    },
+    {
+      "cargo": "Secretario",
+      "titulo": "",
+      "nombre": "Sergio",
+      "apellido": "Sarmientos"
+    },
+    {
+      "cargo": "Pro Secretaria",
+      "titulo": "",
+      "nombre": "Claudia",
+      "apellido": "Falcon"
+    }
+  
+  
+  ]
+}
