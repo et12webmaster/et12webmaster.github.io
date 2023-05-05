@@ -18,7 +18,7 @@ git clone https://github.com/et12webmaster/et12webmaster.github.io
 ### Pre-requisitos 📋
 
 - Golang (Go) 1.20.3 - [Descargar](https://go.dev/dl)
-- Hugo Extended - [Instalacion](src/Fulbo12.Core.Persistencia.EFC/README.md#preparando-el-entorno)
+- Hugo Extended - [Instalación](https://gohugo.io/installation)
 
 ## Despliegue 📦
 
