@@ -1,112 +1,92 @@
 {
-    "historia": [
-      {
-        "año": "1935",
-        "imagen": null,
-        "historia": "En el Boletín Oficial del 27 de septiembre de 1935 se publica la ley 12.234 que en su art. 1º decía \"Créase en la Capital Federal cuatro escuelas de oficios para la formación de obreros destinados a las industrias del hierro, de la madera, de la electricidad y de la edificación , las que estarán ubicadas en la siguiente forma: escuelas de industrias del hierro, en el barrio de Barracas; de industrias de la madera, en San Cristóbal; de industrias edilicias, en Flores y de industrias eléctricas en Puerto Nuevo.\" Así mismo en el art. 3º decía La enseñanza en estas escuelas deberá comprender, además de la parte practica y técnica correspondiente al aprendizaje de cada oficio, las siguientes asignaturas de cultura general."
-      },
-      {
-        "año": "1936",
-        "imagen": "/imgs/historia/tinto.jpg",
-        "historia": "[Tintorería Pratt, lugar actual de la Escuela, a principio de siglo] Así nacía la que se llamaría Escuela Técnica de Oficios Nº3 y que comenzaría sus actividades en marzo de 1936 en el subsuelo de la escuela Otto Krause, donde funciono provisoriamente, siendo el Director fundador. el Ing. Pedro G. Fossatt Los primeros cursos que se dictan tienen una duración de tres años mas un cuarto año de perfeccionamiento en la especialidad electricidad, obreros electricistas, instaladores de usinas y de comunicaciones y cinematografía. Obteniéndose un titulo de Obrero calificado y Certificado de capataz."
-      },
-      {
-        "año": "1938",
-        "imagen": "/imgs/historia/esc1.jpg",
-        "historia": "[Fachada Original de la Escuela] Una de las prioridades de los primeros años fue la búsqueda de un lugar de funcionamiento, de acuerdo a la ley de creación en la zona de Puerto Nuevo- Retiro, que se concreto gracias a la donación por parte de la Sra. María L. Prat de Louit del predio de la Av. Del Libertador 238, que ocupaba desde principios de siglo una tintorería, que fue transformado y adaptado para que allí desde 1938 funcionara la escuela."
-      },
-      {
-        "año": "1944",
-        "historia": "En 1944 se incorpora la especialidad Telecomunicaciones, otorgándose el certificado de Experto y Radio Operador Mayor encargado de estación"
-      },
-      {
-        "año": "1946",
-        "historia": "Por el Decreto 34.277/45 se modifica el nombre de la escuela por el de: Escuela Industria Monotecnica Nº3 y en 1946 se crea la especialidad Radiocomunicaciones de tres años y un cuarto optativo, otorgándose certificado de Radioperador principal"
-      },
-      {
-        "año": "1948",
-        "historia": "Dos nuevos cambios en la denominación de la escuela se producirían durante el año 1948 que serian trascendentes en la historia del establecimiento, por Decreto19.379/48 se cambia la designación por la de Escuela Industrial de la Nación Nº 7 (industrias Eléctricas) y posteriormente a pedido de la Asociación Cooperadora se dicta el Dto26.639/48, que entre sus considerandos dice: \"Que la designación de los establecimientos de enseñanza con el nombre de los próceres es motivo valioso para cimentar en el espíritu del educando el amor por los hombres de nuestra historia y por las cosas de nuestra patria\" \"Que los patronos bajo cuya advocación se coloquen las escuelas, han de servir con su ejemplo como guía orientadora de nuestra juventud\" \"Que al cumplirse el 98 aniversario de la muerte del General Don José de San Martín, juzgase propicio consagrar a su memoria imperecedera una de las Escuelas Industriales de la Nación, porque el prócer puede ser considerado uno de los más eminentes precursores de la enseñanza en la parte resolutiva el Presidente de la Nación en el articulo 1º Decreta Designase con el nombre de General José de San Martín a la Escuela Industrial de la Nación Nº7 (Industrias Eléctricas)\""
-      },
-      {
-        "año": "1950",
-        "historia": "En el año 1950 se inicia el curso de 3 años de radioperadores, otorgándose el titulo de radiotelegrafista"
-      },
-      {
-        "año": "1952",
-        "historia": "En el año 1952 por el Dto. 2164/52 ocurriría otro hito importante en la historia del establecimiento, al crearse el ciclo básico de 3 años y el ciclo superior de 3 años de las especialidades Electricidad y telecomunicaciones, otorgándose los diplomas de Electrotécnico y Técnico en Telecomunicaciones. Afines de la década el edificio sufre importantes reformas al construirse un nuevo sector de aulas, laboratorios y talleres."
-      },
-      {
-        "año": "1953",
-        "historia": "En el año 1953 se jubila el Ing. Fossatti, dejando una institución consolidada y en su remplazo asume la Dirección de la Escuela el Prof. Valentín López"
-      },
-      {
-        "año": "1961",
-        "historia": "Con la creación del Consejo Nacional de Educación Técnica, según la Resol. V-399C/61 el 13 /0//61 se produce un nuevo cambio de denominación pasándose a llamar Escuela Nacional de Educación Técnica (i) Nº7 Gral. José de San Martín conservando ese nombre hasta el año 1964 en que por Resol. 1196 pasa a denominarse Escuela Nacional de Educación Técnica Nº7 Libertador Gral. José de san Martín."
-      },
-      {
-        "año": "1963",
-        "historia": "Entre mediados de la década de los años cincuenta y mediados de los sesenta el establecimiento alcanza unos de los momentos de máximo nivel entre las instituciones pares, en 1963 se jubila el entonces Director y asume la Dirección el Ing. Horacio Vidal"
-      },
-      {
-        "año": "1966",
-        "imagen": "/imgs/historia/patio.jpg",
-        "historia": "[Interior de la Escuela original] En el año 1966 el Conet, ante la repetición en los números de las escuelas, al pasar a denominarse todas ENET,decide renumerarlas según el orden cronológico de creación por ciudad pasando la nuestra a designarse ENET Nº 12 de Cap. Libertador General José de San Martín"
-      },
-      {
-        "año": "1967",
-        "historia": "En 1967 se produce un nuevo cambio en la Dirección, reemplazándolo al Ing Vidal el Prof. Marcos Trapani. El crecimiento de la matricula y el progresivo deterioro del edificio comienza a ser un problema angustiante que motiva el inicio de gestiones para poder construir un nuevo edificio, se crea una comisión entre el personal para lograr tal fin, y se presenta un proyecto elaborado por el Ing. Contartesi y el Prof. Suarez, que es incluido en el plan de obras CONET-BID, por ello en 1970 la escuela se traslada provisoriamente a la sede de Lavalle 1681"
-      },
-      {
-        "año": "1979",
-        "imagen": "/imgs/historia/suarez.jpg",
-        "historia": "[Prof. José E. Suarez] En este marco la Institución sufre un proceso de decadencia que culmina con la designación del Cte. Gral. Luis P. Devoto como interventor, quien luego en el año 1979 es designado Director, cargo que ocupa hasta el año 1980 El 15 de noviembre de 1979 se inaugura el nuevo edificio en el solar histórico de la Av. del Libertador 238 y con el periodo escolar de 1980 se inician las actividades en el actual edificio Así mismo en ese año es designado Director"
-      },
-      {
-        "año": "1980",
-        "historia": "1980 seria un año de trascendentes cambios para la escuela, nuevo edificio, nueva Dirección y un cambio en la currícula producido por la fusión de los ciclos superiores de la ENET Nº19 y la ENET Nº 12 y la perdida del ciclo básico. Estos cambios generarían un periodo de transición tras el cual comenzaría una lenta recuperación del prestigio de la institución bajo la conducción del Prof. Suarez quien se jubila luego de una dilatada trayectoria en la escuela, siendo sucedido en 1983 por el Prof. Humberto del Valle Pacheco Milessi."
-      },
-      {
-        "año": "1987",
-        "historia": "Los importantes avances en la tecnología obligan a una adecuación del perfil de la curricula de la especialidad electricidad, incorporándole los contenidos correspondientes a las aplicaciones de electrónica industrial modificándose a partir de 1987 el titulo de la especialidad por el de Electrotecnico c/o Electrónica Industrial según Resol."
-      },
-      {
-        "año": "1988",
-        "historia": "En el ciclo lectivo de 1988 se da por terminada la experiencia de escuela de ciclo superior y nuevamente se dicta el ciclo completo desde el básico al superior"
-      },
-      {
-        "año": "1993",
-        "historia": "A partir de 1993 ante el crecimiento del uso de las computadoras se crea la especialidad computación, otorgándose el titulo de Técnico en Computación"
-      },
-      {
-        "año": "1994",
-        "historia": "En 1994 se disuelve el CONET pasando las escuelas a la órbita de la Municipalidad de la Ciudad de Buenos Aires, cambiando la designación de la escuela el 01/09/94 por el de Escuela Municipal de Educación Técnica Nº8 D E 1º Lib. Gral. José de San Martín según Resol. 1505-01/94, denominación que cambiaría nuevamente el 18/09/96 según el Dto. 158 GCBA, por el de Escuela Técnica Nº 12 Lib. Gral. José de San Martín."
-      },
-      {
-        "año": "1996",
-        "historia": "En el año 1996 fallece, luego de una prolongada enfermedad, el entonces Director Prof. Pacheco Milessi y es sucedido por el Ing. Juan Manuel Cazaban Debat. Durante este periodo lectivo se crean los cursos nocturnos de formación de Operarios Instaladores y de operadores de PC"
-      },
-      {
-        "año": "Hoy",
-        "historia": "Pasaron ochenta y un años desde aquel lejano marzo de 1936 cuando un grupo de docentes no dudaron en emprender el desafío que hoy es la Escuela Técnica Nº 12 Lib. Gral. José de San Martín, durante esos años muchos aciertos, muchos golpes, muchos momentos de alegría y de tristeza y la memoria de aquellos docentes que dejaron su impronta, jalonaron una historia al servicio de la educación que hoy nos enorgullece y compromete a quienes formamos la comunidad educativa"
-      }
-    
-    ]
+  "historia": [
+    {
+      "año": "1935",
+      "historia": "En el Boletín Oficial del 27 de septiembre de 1935 se publica la ley 12.234 que en su art. 1º decía \"Créase en la Capital Federal cuatro escuelas de oficios para la formación de obreros destinados a las industrias del hierro, de la madera, de la electricidad y de la edificación , las que estarán ubicadas en la siguiente forma: escuelas de industrias del hierro, en el barrio de Barracas; de industrias de la madera, en San Cristóbal; de industrias edilicias, en Flores y de industrias eléctricas en Puerto Nuevo.\" Así mismo en el art. 3º decía La enseñanza en estas escuelas deberá comprender, además de la parte practica y técnica correspondiente al aprendizaje de cada oficio, las siguientes asignaturas de cultura general."
+    },
+    {
+      "año": "1936",
+      "imagen": "/imgs/historia/tinto.jpg",
+      "historia": "[Tintorería Pratt, lugar actual de la Escuela, a principio de siglo] Así nacía la que se llamaría Escuela Técnica de Oficios Nº3 y que comenzaría sus actividades en marzo de 1936 en el subsuelo de la escuela Otto Krause, donde funciono provisoriamente, siendo el Director fundador. el Ing. Pedro G. Fossatt Los primeros cursos que se dictan tienen una duración de tres años mas un cuarto año de perfeccionamiento en la especialidad electricidad, obreros electricistas, instaladores de usinas y de comunicaciones y cinematografía. Obteniéndose un titulo de Obrero calificado y Certificado de capataz."
+    },
+    {
+      "año": "1938",
+      "imagen": "/imgs/historia/esc1.jpg",
+      "historia": "[Fachada Original de la Escuela] Una de las prioridades de los primeros años fue la búsqueda de un lugar de funcionamiento, de acuerdo a la ley de creación en la zona de Puerto Nuevo- Retiro, que se concreto gracias a la donación por parte de la Sra. María L. Prat de Louit del predio de la Av. Del Libertador 238, que ocupaba desde principios de siglo una tintorería, que fue transformado y adaptado para que allí desde 1938 funcionara la escuela."
+    },
+    {
+      "año": "1944",
+      "historia": "En 1944 se incorpora la especialidad Telecomunicaciones, otorgándose el certificado de Experto y Radio Operador Mayor encargado de estación"
+    },
+    {
+      "año": "1946",
+      "historia": "Por el Decreto 34.277/45 se modifica el nombre de la escuela por el de: Escuela Industria Monotecnica Nº3 y en 1946 se crea la especialidad Radiocomunicaciones de tres años y un cuarto optativo, otorgándose certificado de Radioperador principal"
+    },
+    {
+      "año": "1948",
+      "historia": "Dos nuevos cambios en la denominación de la escuela se producirían durante el año 1948 que serian trascendentes en la historia del establecimiento, por Decreto19.379/48 se cambia la designación por la de Escuela Industrial de la Nación Nº 7 (industrias Eléctricas) y posteriormente a pedido de la Asociación Cooperadora se dicta el Dto26.639/48, que entre sus considerandos dice: \"Que la designación de los establecimientos de enseñanza con el nombre de los próceres es motivo valioso para cimentar en el espíritu del educando el amor por los hombres de nuestra historia y por las cosas de nuestra patria\" \"Que los patronos bajo cuya advocación se coloquen las escuelas, han de servir con su ejemplo como guía orientadora de nuestra juventud\" \"Que al cumplirse el 98 aniversario de la muerte del General Don José de San Martín, juzgase propicio consagrar a su memoria imperecedera una de las Escuelas Industriales de la Nación, porque el prócer puede ser considerado uno de los más eminentes precursores de la enseñanza en la parte resolutiva el Presidente de la Nación en el articulo 1º Decreta Designase con el nombre de General José de San Martín a la Escuela Industrial de la Nación Nº7 (Industrias Eléctricas)\""
+    },
+    {
+      "año": "1950",
+      "historia": "En el año 1950 se inicia el curso de 3 años de radioperadores, otorgándose el titulo de radiotelegrafista"
+    },
+    {
+      "año": "1952",
+      "historia": "En el año 1952 por el Dto. 2164/52 ocurriría otro hito importante en la historia del establecimiento, al crearse el ciclo básico de 3 años y el ciclo superior de 3 años de las especialidades Electricidad y telecomunicaciones, otorgándose los diplomas de Electrotécnico y Técnico en Telecomunicaciones. Afines de la década el edificio sufre importantes reformas al construirse un nuevo sector de aulas, laboratorios y talleres."
+    },
+    {
+      "año": "1953",
+      "historia": "En el año 1953 se jubila el Ing. Fossatti, dejando una institución consolidada y en su remplazo asume la Dirección de la Escuela el Prof. Valentín López"
+    },
+    {
+      "año": "1961",
+      "historia": "Con la creación del Consejo Nacional de Educación Técnica, según la Resol. V-399C/61 el 13 /0//61 se produce un nuevo cambio de denominación pasándose a llamar Escuela Nacional de Educación Técnica (i) Nº7 Gral. José de San Martín conservando ese nombre hasta el año 1964 en que por Resol. 1196 pasa a denominarse Escuela Nacional de Educación Técnica Nº7 Libertador Gral. José de san Martín."
+    },
+    {
+      "año": "1963",
+      "historia": "Entre mediados de la década de los años cincuenta y mediados de los sesenta el establecimiento alcanza unos de los momentos de máximo nivel entre las instituciones pares, en 1963 se jubila el entonces Director y asume la Dirección el Ing. Horacio Vidal"
+    },
+    {
+      "año": "1966",
+      "imagen": "/imgs/historia/patio.jpg",
+      "historia": "[Interior de la Escuela original] En el año 1966 el Conet, ante la repetición en los números de las escuelas, al pasar a denominarse todas ENET,decide renumerarlas según el orden cronológico de creación por ciudad pasando la nuestra a designarse ENET Nº 12 de Cap. Libertador General José de San Martín"
+    },
+    {
+      "año": "1967",
+      "historia": "En 1967 se produce un nuevo cambio en la Dirección, reemplazándolo al Ing Vidal el Prof. Marcos Trapani. El crecimiento de la matricula y el progresivo deterioro del edificio comienza a ser un problema angustiante que motiva el inicio de gestiones para poder construir un nuevo edificio, se crea una comisión entre el personal para lograr tal fin, y se presenta un proyecto elaborado por el Ing. Contartesi y el Prof. Suarez, que es incluido en el plan de obras CONET-BID, por ello en 1970 la escuela se traslada provisoriamente a la sede de Lavalle 1681"
+    },
+    {
+      "año": "1979",
+      "imagen": "/imgs/historia/suarez.jpg",
+      "historia": "[Prof. José E. Suarez] En este marco la Institución sufre un proceso de decadencia que culmina con la designación del Cte. Gral. Luis P. Devoto como interventor, quien luego en el año 1979 es designado Director, cargo que ocupa hasta el año 1980 El 15 de noviembre de 1979 se inaugura el nuevo edificio en el solar histórico de la Av. del Libertador 238 y con el periodo escolar de 1980 se inician las actividades en el actual edificio Así mismo en ese año es designado Director"
+    },
+    {
+      "año": "1980",
+      "historia": "1980 seria un año de trascendentes cambios para la escuela, nuevo edificio, nueva Dirección y un cambio en la currícula producido por la fusión de los ciclos superiores de la ENET Nº19 y la ENET Nº 12 y la perdida del ciclo básico. Estos cambios generarían un periodo de transición tras el cual comenzaría una lenta recuperación del prestigio de la institución bajo la conducción del Prof. Suarez quien se jubila luego de una dilatada trayectoria en la escuela, siendo sucedido en 1983 por el Prof. Humberto del Valle Pacheco Milessi."
+    },
+    {
+      "año": "1987",
+      "historia": "Los importantes avances en la tecnología obligan a una adecuación del perfil de la curricula de la especialidad electricidad, incorporándole los contenidos correspondientes a las aplicaciones de electrónica industrial modificándose a partir de 1987 el titulo de la especialidad por el de Electrotecnico c/o Electrónica Industrial según Resol."
+    },
+    {
+      "año": "1988",
+      "historia": "En el ciclo lectivo de 1988 se da por terminada la experiencia de escuela de ciclo superior y nuevamente se dicta el ciclo completo desde el básico al superior"
+    },
+    {
+      "año": "1993",
+      "historia": "A partir de 1993 ante el crecimiento del uso de las computadoras se crea la especialidad computación, otorgándose el titulo de Técnico en Computación"
+    },
+    {
+      "año": "1994",
+      "historia": "En 1994 se disuelve el CONET pasando las escuelas a la órbita de la Municipalidad de la Ciudad de Buenos Aires, cambiando la designación de la escuela el 01/09/94 por el de Escuela Municipal de Educación Técnica Nº8 D E 1º Lib. Gral. José de San Martín según Resol. 1505-01/94, denominación que cambiaría nuevamente el 18/09/96 según el Dto. 158 GCBA, por el de Escuela Técnica Nº 12 Lib. Gral. José de San Martín."
+    },
+    {
+      "año": "1996",
+      "historia": "En el año 1996 fallece, luego de una prolongada enfermedad, el entonces Director Prof. Pacheco Milessi y es sucedido por el Ing. Juan Manuel Cazaban Debat. Durante este periodo lectivo se crean los cursos nocturnos de formación de Operarios Instaladores y de operadores de PC"
+    },
+    {
+      "año": "Hoy",
+      "historia": "Pasaron casi noventa años desde aquel lejano marzo de 1936 cuando un grupo de docentes no dudaron en emprender el desafío que hoy es la Escuela Técnica Nº 12 Lib. Gral. José de San Martín, durante esos años muchos aciertos, muchos golpes, muchos momentos de alegría y de tristeza y la memoria de aquellos docentes que dejaron su impronta, jalonaron una historia al servicio de la educación que hoy nos enorgullece y compromete a quienes formamos la comunidad educativa"
+    }
+  ]
 }
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
