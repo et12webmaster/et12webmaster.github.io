@@ -1,11 +1,9 @@
-<link rel="stylesheet" type="text/css" href="/css/historia.css">
 {{range $.Site.Data.historia.historia}}
 <div>    
     <h5>{{.año}}</h5>
     <p>{{.historia}}</p>
-    {{ if and (.imagen) (not (eq .imagen "null")) }}
-        <img src="{{ .historia.tinto.jpg }}" alt="Imagen">
+    {{if .imagen}}
+    <img src="{{ .imagen }}" alt="Imagen del año {{ .año }}" style width="300" height="auto">
 {{ end }}
 </div>
 {{end}}
-<source src="/css/historia.css"/>
