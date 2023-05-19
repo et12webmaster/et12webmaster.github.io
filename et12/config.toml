@@ -4,12 +4,14 @@ title = 'ET12'
 [module]
 [[module.imports]]
   path = 'github.com/McShelby/hugo-theme-relearn'
+  
+
 
 [params]
-  themeVariant = [ "auto", "red" , "relearn-light", "relearn-dark"]
+  themeVariant = [ "auto", "red" , "relearn-light", "relearn-dark", "blue", "green"]
 
 [[menu.shortcuts]]
-name = "<i class='fab fa-fw fa-github'></i> GitHub repo"
+name = "<i class='fab fa-brands fa-github'></i> GitHub repo"
 identifier = "ds"
 url = "https://github.com/et12webmaster/et12webmaster.github.io"
 weight = 10
