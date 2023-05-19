@@ -1,5 +1,4 @@
 +++
-archetype = "chapter"
 title = "Contacto"
 +++
 
@@ -12,4 +11,4 @@ title = "Contacto"
 - Telefax: 4328-9421
 
 
-{{<mapita}}
+{{<mapita>}}
