@@ -1,0 +1,23 @@
+{
+    "abanderados": [
+      {
+        "mencion": "Abanderado",
+        "nombre": "Milagros Belen",
+        "apellido": "Miranda",
+        "curso":"6°2°"
+      },
+      {
+        "mencion": "1° Escolta",
+        "nombre": "Silvano Junior",
+        "apellido": "Herrera Mercado",
+        "curso":"6°5°"
+      },
+      {
+        "mencion": "2° Escolta",
+        "nombre": "Facundo",
+        "apellido": "Ramos",
+        "curso":"5°2°"
+      }
+      
+    ]
+  }
