@@ -2,6 +2,7 @@
 title: "Electronica"
 date: 2023-04-25T16:36:33-03:00
 ---
+![](/imgs/electronica700.svg)
 
 El Técnico en Electrónica de Nivel Secundario será capaz de:
 
