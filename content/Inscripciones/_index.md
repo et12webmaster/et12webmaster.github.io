@@ -149,3 +149,5 @@ Al final, suele haber un opción que dice “Acepto las Condiciones …” y pue
 
 Al final, si falta algún dato que se considera obligatorio completar, el sistema se lo indicará.
 
+{{<compartir>}}
+
