@@ -8,7 +8,7 @@ title = 'ET12'
 
 
 [params]
-  themeVariant = [ "auto", "red" , "relearn-light", "relearn-dark", "blue", "green"]
+  themeVariant = [ "relearn-light", "relearn-dark", 'Oficial', 'Argentina']
 
 [[menu.shortcuts]]
 name = "<i class='fab fa-brands fa-github'></i> GitHub repo"
