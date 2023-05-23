@@ -3,6 +3,8 @@ title: "Electricidad"
 date: 2023-04-25T16:36:41-03:00
 ---
 
+![](/imgs/electricidad700.svg)
+
 El Técnico en Electricidad de Nivel Secundario será capaz de:
 
 - Realizar el proyecto, diseño y cálculo de instalaciones eléctricas para iluminación, señalamiento, comando y fuerza motriz, generación y/o transformación de energía; líneas de alimentación y/o distribución de energía eléctrica; instalaciones de automatización y control programas de mantenimiento.
