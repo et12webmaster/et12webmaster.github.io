@@ -12,3 +12,5 @@ title = "Contacto"
 
 
 {{<mapita>}}
+
+{{<compartir>}}
