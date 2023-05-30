@@ -4,3 +4,5 @@ title = "Historia"
 
 
 {{<historia>}}
+
+{{<compartir>}}
