@@ -3,7 +3,7 @@
   "frontMatter.content.pageFolders": [
     {
       "title": "content",
-      "path": "[[workspace]]/et12/content"
+      "path": "[[workspace]]/content"
     }
   ],
   "frontMatter.content.publicFolder": "static",

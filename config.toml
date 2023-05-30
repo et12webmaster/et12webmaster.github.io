@@ -1,12 +1,10 @@
-baseURL = 'http://et12.edu.ar/'
+baseURL = 'https://et12.edu.ar/'
 languageCode = 'en-us'
 title = 'ET12'
 [module]
 [[module.imports]]
   path = 'github.com/McShelby/hugo-theme-relearn'
   
-
-
 [params]
   themeVariant = [ "relearn-light", "relearn-dark", 'Oficial', 'Argentina']
 
