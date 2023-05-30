@@ -1,12 +1,16 @@
 baseURL = 'https://et12.edu.ar/'
 languageCode = 'en-us'
+defaultContentLanguage = 'es'
 title = 'ET12'
+
 [module]
 [[module.imports]]
   path = 'github.com/McShelby/hugo-theme-relearn'
   
 [params]
-  themeVariant = [ "relearn-light", "relearn-dark", 'Oficial', 'Argentina']
+  themeVariant = [  'Oficial',"relearn-light", "relearn-dark", 'Argentina']
+
+
 
 [[menu.shortcuts]]
 name = "<i class='fab fa-brands fa-github'></i> GitHub repo"
