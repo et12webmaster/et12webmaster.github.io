@@ -2,8 +2,7 @@
 title: "Computacion"
 date: 2023-04-25T16:34:18-03:00
 ---
-![](/imgs/computacion700.svg)
-
+{{< figure src="/imgs/computacion700.svg" width="150%" >}}
 El Técnico en Computación de Nivel Secundario será capaz de:
 
 - Proyectar, producir, adaptar, implantar y mantener aplicaciones informáticas.
