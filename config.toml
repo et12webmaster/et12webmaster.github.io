@@ -6,11 +6,11 @@ title = 'ET12'
 [module]
 [[module.imports]]
   path = 'github.com/McShelby/hugo-theme-relearn'
-  
+
+
+
 [params]
   themeVariant = [  'Oficial',"relearn-light", "relearn-dark", 'Argentina']
-
-
 
 [[menu.shortcuts]]
 name = "<i class='fab fa-brands fa-github'></i> GitHub repo"
