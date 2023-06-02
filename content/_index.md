@@ -7,3 +7,4 @@
 |![Texto alternativo](/imgs/Especialidades200.png)|![Texto alternativo](/imgs/Historia200.png)|![Texto alternativo](/imgs/Reglamento200.png)|
 
 {{<compartir>}}
+

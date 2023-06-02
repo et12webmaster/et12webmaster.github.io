@@ -1,0 +1,70 @@
+{
+    "changelog": [
+      {
+        "nombre": "Luis",
+        "apellido": "Duran",
+        "cargo": "Encargado de Computacion",
+        "imagen":""
+      },
+      {
+        "nombre": "Facundo",
+        "apellido": "Recalde",
+        "cargo": "Contribuidor",
+        "imagen":""
+      },
+      {
+        "nombre": "Jacky",
+        "apellido": "Huaman",
+        "cargo": "Contribuidor",
+        "imagen":""
+      },
+      {
+        "nombre": "Tomas",
+        "apellido": "Terrile",
+        "cargo": "Contribuidor",
+        "imagen":"https://avatars.githubusercontent.com/u/104148472?v=4"
+      },
+      {
+        "nombre": "Brian",
+        "apellido": "Coria",
+        "cargo": "Contribuidor",
+        "imagen":""
+      },
+      {
+        "nombre": "Evelyn",
+        "apellido": "Siles",
+        "cargo": "Contribuidor",
+        "imagen":""
+      },
+      {
+        "nombre": "Gonzalo",
+        "apellido": "Arancibia",
+        "cargo": "Contribuidor",
+        "imagen":""
+      },
+      {
+        "nombre": "Fernando",
+        "apellido": "Vasquez",
+        "cargo": "Contribuidor",
+        "imagen":""
+      },
+      {
+        "nombre": "Nayla",
+        "apellido": "Juarez",
+        "cargo": "Contribuidor",
+        "imagen":""
+      },
+      {
+        "nombre": "Matias",
+        "apellido": "Huanca",
+        "cargo": "Contribuidor",
+        "imagen":""
+      },
+      {
+        "nombre": "Quoka",
+        "apellido": "Siles",
+        "cargo": "Contribuidor",
+        "imagen":""
+      }
+    ]
+  }
