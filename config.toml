@@ -28,3 +28,8 @@ name = "<i class='fab fa-brands fa-instagram'></i> Instagram"
 identifier = "hugodoc"
 url = "https://www.instagram.com/escuelatec12/"
 weight = 20
+
+[[menu.shortcuts]]
+name = "<i class='fas fa-tags'></i> Tags"
+url = "/tags"
+taxonomies = ["tag"]
