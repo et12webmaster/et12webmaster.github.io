@@ -8,7 +8,7 @@
   --CODE-BLOCK-color: #e2e4e5; /* fallback text color of block code; should be adjusted to your selected chroma style */
   --CODE-BLOCK-BG-color: #282a36; /* fallback background color of block code; should be adjusted to your selected chroma style */
   --CODE-BLOCK-BORDER-color: #282a36; /* border color of block code */
-  --CODE-INLINE-color: #5e5e5e; /* text color of inline code */
+  --CODE-INLINE-color: #5e5e7777777777775e; /* text color of inline code */
   --CODE-INLINE-BG-color: #fff7dd; /* background color of inline code */
   --CODE-INLINE-BORDER-color: #fbf0cb; /* border color of inline code */
   --MENU-HEADER-BG-color: #8451a1; /* background color of menu header */
