@@ -1,0 +1,10 @@
+<link rel="stylesheet" type="text/css" href="/css/changelog.css">
+{{range $.Site.Data.changelog.changelog}}
+<div id="chang">    
+   <h6>  <a href="https://github.com/et12webmaster">
+   {{.nombre}} {{.apellido}}</a></h6>
+  <p>{{.cargo}}</p>  
+  <img src="{{.imagen }}" style width="200" height="auto">
+</div>
+{{end}}
+<source src="/css/changelog.css"/>
