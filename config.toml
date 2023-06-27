@@ -2,6 +2,7 @@ baseURL = 'https://et12.edu.ar/'
 languageCode = 'en-us'
 defaultContentLanguage = 'es'
 title = 'ET12'
+googleAnalytics = '367796390'
 
 [module]
 [[module.imports]]
