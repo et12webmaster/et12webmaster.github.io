@@ -1,23 +1,24 @@
 :root {
-  --MAIN-LINK-color: #eef5f6; /* link color of content */
-  --MAIN-LINK-HOVER-color: #f8e6e6; /* hoverd link color of content */
-  --MAIN-BG-color: #772a53; /* background color of content */
-  --MAIN-TITLES-TEXT-color: #fbf3f3; /* text color of h2-h6 titles and transparent box titles */
-  --MAIN-TITLES-H1-color: #f5ebeb; /* text color of h1 titles */
+  --MAIN-LINK-color: #ffffff; /* link color of content */
+  --MAIN-LINK-HOVER-color: #6d0033; /* hoverd link color of content */
+  --MAIN-BG-color: #2e2e2e; /* background color of content */
+  --MAIN-TITLES-TEXT-color: #ffffff; /* text color of h2-h6 titles and transparent box titles */
+  --MAIN-TITLES-H1-color: #ffffff; /* text color of h1 titles */
+  --MAIN-TEXT-color: rgb(255, 255, 255); /* text color of content and h1 titles */
   --CODE-BLOCK-color: #e3eff5; /* fallback text color of block code; should be adjusted to your selected chroma style */
   --CODE-BLOCK-BG-color: #1c3291; /* fallback background color of block code; should be adjusted to your selected chroma style */
   --CODE-BLOCK-BORDER-color: #303f96; /* border color of block code */
-  --CODE-INLINE-color: #140808; /* text color of inline code */
+  --CODE-INLINE-color: #ffffff; /* text color of inline code */
   --CODE-INLINE-BG-color: #eedddd; /* background color of inline code */
   --CODE-INLINE-BORDER-color: #c0a240; /* border color of inline code */
-  --MENU-HEADER-BG-color: #772a53; /* background color of menu header */
+  --MENU-HEADER-BG-color: #6d0033; /* background color of menu header */
   --MENU-HEADER-BORDER-color: #faf5f5; /* separator color of menu header */
   --MENU-HOME-LINK-color: #000000; /* home button color if configured */
   --MENU-HOME-LINK-HOVER-color: #000000; /* hoverd home button color if configured */
   --MENU-SEARCH-color: #070707; /* text and icon color of search box */
   --MENU-SEARCH-BG-color: #f7f7f7; /* background color of search box */
   --MENU-SEARCH-BORDER-color: #915eae; /* border color of search box */
-  --MENU-SECTIONS-BG-color: #322a38; /* background of the menu; this is NOT just a color value but can be a complete CSS background definition including gradients, etc. */
+  --MENU-SECTIONS-BG-color: #6d0033; /* background of the menu; this is NOT just a color value but can be a complete CSS background definition including gradients, etc. */
   --MENU-SECTIONS-ACTIVE-BG-color: #251f29; /* background color of the active menu section */
   --MENU-SECTIONS-LINK-color: #fefefe; /* link color of menu topics */
   --MENU-SECTIONS-LINK-HOVER-color: #170505; /* hoverd link color of menu topics */
@@ -27,5 +28,5 @@
   --MENU-VISITED-color: #00bdf3; /* icon color of visited menu topics if configured */
   --BOX-CAPTION-color: rgba( 255, 255, 255, 1 ); /* text color of colored box titles */
   --BOX-BG-color: rgba( 255, 255, 255, .833 ); /* background color of colored boxes */
-  --BOX-TEXT-color: rgba( 16, 16, 16, 1 ); /* text color of colored box content */
+  --BOX-TEXT-color: rgb(255, 245, 245); /* text color of colored box content */
 }
