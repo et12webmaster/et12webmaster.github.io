@@ -1,12 +1,12 @@
 :root {
-  --MAIN-LINK-color: #58bbfc; /* link color of content */
+  --MAIN-LINK-color: #8637a5; /* link color of content */
   --MAIN-LINK-HOVER-color: #f8e6e6; /* hoverd link color of content */
-  --MAIN-BG-color: #9380b7; /* background color of content */
-  --MAIN-TITLES-TEXT-color: #f2fff7; /* text color of h2-h6 titles and transparent box titles */
-  --MAIN-TITLES-H1-color: #f5ebeb; /* text color of h1 titles */
-  --CODE-BLOCK-color: #e3eff5; /* fallback text color of block code; should be adjusted to your selected chroma style */
-  --CODE-BLOCK-BG-color: #1c3291; /* fallback background color of block code; should be adjusted to your selected chroma style */
-  --CODE-BLOCK-BORDER-color: #303f96; /* border color of block code */
+  --MAIN-BG-color: #dfdfdf ; /* background color of content */
+  --MAIN-TITLES-TEXT-color: #000000; /* text color of h2-h6 titles and transparent box titles */
+  --MAIN-TITLES-H1-color: #000000; /* text color of h1 titles */
+  --CODE-BLOCK-color: #000000; /* fallback text color of block code; should be adjusted to your selected chroma style */
+  --CODE-BLOCK-BG-color: #dfdfdf; /* fallback background color of block code; should be adjusted to your selected chroma style */
+  --CODE-BLOCK-BORDER-color: #dbdffa; /* border color of block code */
   --CODE-INLINE-color: #140808; /* text color of inline code */
   --CODE-INLINE-BG-color: #eedddd; /* background color of inline code */
   --CODE-INLINE-BORDER-color: #c0a240; /* border color of inline code */
@@ -20,11 +20,11 @@
   --MENU-SECTIONS-BG-color: #200c30; /* background of the menu; this is NOT just a color value but can be a complete CSS background definition including gradients, etc. */
   --MENU-SECTIONS-ACTIVE-BG-color: #251f29; /* background color of the active menu section */
   --MENU-SECTIONS-LINK-color: #fefefe; /* link color of menu topics */
-  --MENU-SECTIONS-LINK-HOVER-color: #170505; /* hoverd link color of menu topics */
+  --MENU-SECTIONS-LINK-HOVER-color: #ffffff; /* hoverd link color of menu topics */
   --MENU-SECTION-ACTIVE-CATEGORY-color: #777777; /* text color of the displayed menu topic */
   --MENU-SECTION-ACTIVE-CATEGORY-BG-color: #efebf7; /* background color of the displayed menu topic */
   --MENU-SECTION-HR-color: #2a232f; /* separator color of menu footer */
-  --MENU-VISITED-color: #00bdf3; /* icon color of visited menu topics if configured */
+  --MENU-VISITED-color: #ffffff; /* icon color of visited menu topics if configured */
   --BOX-CAPTION-color: rgba( 255, 255, 255, 1 ); /* text color of colored box titles */
   --BOX-BG-color: rgba( 255, 255, 255, .833 ); /* background color of colored boxes */
   --BOX-TEXT-color: rgba( 16, 16, 16, 1 ); /* text color of colored box content */
