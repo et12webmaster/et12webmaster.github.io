@@ -19,7 +19,7 @@
   --MENU-SEARCH-BG-color: #f7f7f7; /* background color of search box */
   --MENU-SEARCH-BORDER-color: #915eae; /* border color of search box */
   --MENU-SECTIONS-BG-color: #6d0033; /* background of the menu; this is NOT just a color value but can be a complete CSS background definition including gradients, etc. */
-  --MENU-SECTIONS-ACTIVE-BG-color: #251f29; /* background color of the active menu section */
+  --MENU-SECTIONS-ACTIVE-BG-color: #7a375b; /* background color of the active menu section */
   --MENU-SECTIONS-LINK-color: #fefefe; /* link color of menu topics */
   --MENU-SECTIONS-LINK-HOVER-color: #170505; /* hoverd link color of menu topics */
   --MENU-SECTION-ACTIVE-CATEGORY-color: #777777; /* text color of the displayed menu topic */

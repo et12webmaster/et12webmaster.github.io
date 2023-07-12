@@ -20,7 +20,7 @@
   --MENU-SECTIONS-BG-color: #200c30; /* background of the menu; this is NOT just a color value but can be a complete CSS background definition including gradients, etc. */
   --MENU-SECTIONS-ACTIVE-BG-color: #251f29; /* background color of the active menu section */
   --MENU-SECTIONS-LINK-color: #fefefe; /* link color of menu topics */
-  --MENU-SECTIONS-LINK-HOVER-color: #170505; /* hoverd link color of menu topics */
+  --MENU-SECTIONS-LINK-HOVER-color: #ffffff; /* hoverd link color of menu topics */
   --MENU-SECTION-ACTIVE-CATEGORY-color: #777777; /* text color of the displayed menu topic */
   --MENU-SECTION-ACTIVE-CATEGORY-BG-color: #efebf7; /* background color of the displayed menu topic */
   --MENU-SECTION-HR-color: #2a232f; /* separator color of menu footer */

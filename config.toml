@@ -11,7 +11,7 @@ googleAnalytics = '367796390'
 
 
 [params]
-  themeVariant = [ "relearn-light", "relearn-dark", 'Oficial', 'Argentina', 'Oficial-Oscuro','Oficial-Claro']
+  themeVariant = [  'Claro','Oscuro']
 
 [[menu.shortcuts]]
 name = "<i class='fab fa-brands fa-github'></i> GitHub repo"
