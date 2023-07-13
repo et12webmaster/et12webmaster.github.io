@@ -40,3 +40,6 @@ taxonomies = ["tag"]
 name = "changelog"
 url = "/changelog.md"
 weight = 20
+
+[markup.goldmark.renderer]
+unsafe = true
