@@ -1,6 +1,6 @@
 :root {
   --MAIN-LINK-color: #8637a5; /* link color of content */
-  --MAIN-LINK-HOVER-color: #f8e6e6; /* hoverd link color of content */
+  --MAIN-LINK-HOVER-color: #2f1643; /* hoverd link color of content */
   --MAIN-BG-color: #dfdfdf ; /* background color of content */
   --MAIN-TITLES-TEXT-color: #000000; /* text color of h2-h6 titles and transparent box titles */
   --MAIN-TITLES-H1-color: #000000; /* text color of h1 titles */
@@ -21,7 +21,7 @@
   --MENU-SECTIONS-ACTIVE-BG-color: #251f29; /* background color of the active menu section */
   --MENU-SECTIONS-LINK-color: #fefefe; /* link color of menu topics */
   --MENU-SECTIONS-LINK-HOVER-color: #ffffff; /* hoverd link color of menu topics */
-  --MENU-SECTION-ACTIVE-CATEGORY-color: #777777; /* text color of the displayed menu topic */
+  --MENU-SECTION-ACTIVE-CATEGORY-color: #000000; /* text color of the displayed menu topic */
   --MENU-SECTION-ACTIVE-CATEGORY-BG-color: #efebf7; /* background color of the displayed menu topic */
   --MENU-SECTION-HR-color: #2a232f; /* separator color of menu footer */
   --MENU-VISITED-color: #ffffff; /* icon color of visited menu topics if configured */
