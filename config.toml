@@ -2,7 +2,7 @@ baseURL = 'https://et12.edu.ar/'
 languageCode = 'en-us'
 defaultContentLanguage = 'es'
 title = 'ET12'
-googleAnalytics = '367796390'
+googleAnalytics = 'G-367796390'
 
 [module]
 [[module.imports]]
@@ -12,6 +12,7 @@ googleAnalytics = '367796390'
 
 [params]
   themeVariant = [  'Claro','Oscuro']
+  collapsibleMenu = true
 
 [[menu.shortcuts]]
 name = "<i class='fab fa-brands fa-github'></i> GitHub repo"
