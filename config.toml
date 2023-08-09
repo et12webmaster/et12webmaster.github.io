@@ -8,10 +8,8 @@ googleAnalytics = 'G-367796390'
 [[module.imports]]
   path = 'github.com/McShelby/hugo-theme-relearn'
 
-
-
 [params]
-  themeVariant = [  'Claro','Oscuro']
+  themeVariantAuto = ['Claro','Oscuro']
   collapsibleMenu = true
 
 [[menu.shortcuts]]
@@ -40,6 +38,11 @@ taxonomies = ["tag"]
 [[menu.shortcuts]]
 name = "changelog"
 url = "/changelog.md"
+weight = 20
+
+[[menu.shortcuts]]
+name = "<i class='fa-solid fa-microphone-lines'></i> Nuestra Radio"
+url = "https://www.tec12radio.com/"
 weight = 20
 
 [markup.goldmark.renderer]

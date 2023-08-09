@@ -148,6 +148,3 @@ Suele haber una imagen que muestra números  o letras, y piden que uno la escrib
 Al final, suele haber un opción que dice “Acepto las Condiciones …” y puede tener un cuadrado donde hay que hacer un click con el mouse (tildar la opción)
 
 Al final, si falta algún dato que se considera obligatorio completar, el sistema se lo indicará.
-
-{{<compartir>}}
-

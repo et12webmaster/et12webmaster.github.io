@@ -19,5 +19,3 @@ No importa si eres principiante o ya tienes experiencia en voleibol, nuestro equ
 En resumen, en este apartado de nuestra página del colegio encontrarás todo lo que necesitas saber sobre nuestro equipo de voleibol. Te invitamos a explorar más sobre sus logros, conocer a nuestros jugadores destacados y sumarte a esta emocionante disciplina deportiva.
 
 ¡Únete a nosotros y descubre la pasión por el voleibol en nuestro colegio!
-
-{{<compartir>}}

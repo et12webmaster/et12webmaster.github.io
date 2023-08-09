@@ -11,5 +11,3 @@ La especialidad de electrónica se centra en la comprensión y aplicación de ci
 En el ámbito de la computación, nuestros estudiantes se sumergen en el fascinante mundo de la programación, la arquitectura de computadoras y la seguridad informática. A través de proyectos desafiantes y colaborativos, desarrollan habilidades en la creación de software, el análisis de datos y la resolución de problemas complejos en el entorno digital.
 
 En la Escuela ET12, estamos comprometidos con el desarrollo integral de nuestros estudiantes, preparándolos para enfrentar los desafíos y aprovechar las oportunidades en el ámbito laboral y académico. Nuestras especialidades proporcionan una base sólida para una carrera exitosa en campos en constante evolución y demanda.
-
-{{<compartir>}}
