@@ -9,7 +9,7 @@ googleAnalytics = 'G-367796390'
   path = 'github.com/McShelby/hugo-theme-relearn'
 
 [params]
-  themeVariantAuto = ['Claro','Oscuro']
+  themeVariant = ['auto','Claro','Oscuro']
   collapsibleMenu = true
 
 [[menu.shortcuts]]
