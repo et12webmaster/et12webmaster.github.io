@@ -3,43 +3,51 @@ title: "Changelog"
 date: 2023-06-2T16:34:18-03:00
 hidden: true
 ---
-Historial de Releases de nuestra página web.
+## v3
+* Actualización del changelog ([Matias Huanca](#MatiasHuanca) , [Fernando Vasquez]( #FernandoVasquez) , [Facundo Recalde]( #FacundoRecalde) ,[Brian Coria]( #BrianCoria) )
 
+* Cambio y diseño de hojas de estilo, actualización de temas ([Gonzalo Arancibia]( #GonzaloArancibia) , [Jacky Huaman]( #JackyHuaman) , [Evelyn Siles]( #EvelynSiles), [Armin Mercado]( #ArminMercado))
 
----
+* Lectura de datos dinamicos de archivos estructurados(.json) ([Fernando Vasquez]( #FernandoVasquez),[Facundo Recalde]( #FacundoRecalde), [Tomás Terrile]( #TomasTerrile))
+
+* Implementacion de Shortcodes, Partials y Layouts ([Fernando Vasquez]( #FernandoVasquez), [Facundo Recalde]( #FacundoRecalde), [Armin Mercado]( #ArminMercado), [Nayla Juarez]( #NaylaJuarez))
+
+* Actualizacion de las secciones ([Tomás Terrile]( #TomasTerrile), [Nayla Juarez]( #NaylaJuarez), [Armin Mercado]( #ArminMercado), [Brian Coria]( #BrianCoria), [Gonzalo Arancibia]( #GonzaloArancibia))
+
+* Diseño de baners ([Inti Irahola]( #IntiIrahola))
+
 
 
 ## v2.2.1
-- Corrección menú desplegable (Agustín Santich)
-- Corrección responsive del changelog (Luis Duran, Jonathan Velázquez)
-- Implementación de hoja de estilos para especialidades (Luis Duran)
+* Corrección menu desplegable. ([Agustin Santich]( #AgustinSantich))
 
+* Corrección responsive changelog. ([Luis Duran](#LuisDuran), [Jonathan Velazquez](#JonathanVelazquez))
+
+* Implementación hoja de estilos para especialidades. ([Luis Duran](#LuisDuran))
 
 ## v2.2
-- Agregada página de changelog (Luis Duran)
-- Componentes JS de Cambios y Colaboradores (Luis Duran)
+* Agregada página de changelog. ([Luis Duran](#LuisDuran))
 
+* Componentes JS de Cambios y Colaboradores. ([Luis Duran](#LuisDuran))
 
 ## v2.1
-- Implementación de componentes reutilizables en JS (Luis Duran)
-- Se corrigieron algunos errores (Luis Duran, Jonathan Velázquez)
-- Minificación de librerías (Jonathan Velázquez)
+* Implementación de componentes reutilizables en js. ([Luis Duran](#LuisDuran))
 
+* Se corrigieron algunos errores. ([Luis Duran](#LuisDuran), [Jonathan Velazquez](#JonathanVelazquez))
+
+* Minificación de librerías. ([Jonathan Velazquez](#JonathanVelazquez))
 
 ## v2.0
-- Implementación de sitio estático responsive (Agustín Santich, Daniel Umiri)
+* Implementación de sitio estático responsive. ([Agustin Santich]( #AgustinSantich), [Daniel Umiri](#DanielUmiri))
 
-
-## 1.0
-- Primera versión del sitio con PHP en un hosting gratuito, si sabes buscar, tal vez encuentres algo.
-
-
----
-
-
-{{<changelog>}}
+## v1.0
+* Primera versión del sitio con php en un hosting gratuito, si sabes buscar capaz encuentres algo.
 
 
 ---
-Página creada y diseñada por alumnos de 6° año Computación 2023.
+#### Colaboraron con el sitio[^1]
 
+{{<contribuidores>}}
+
+
+[^1]: Las imágenes se obtienen dinámicamente del repositorio de GitHub. La Escuela no se hace responsable del contenido de las mismas.

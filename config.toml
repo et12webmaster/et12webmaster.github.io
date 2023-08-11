@@ -24,11 +24,20 @@ url = "https://www.facebook.com/jose.desanmartin.927"
 weight = 11
 
 [[menu.shortcuts]]
+name = "<i class='fa-solid fa-microphone-lines'></i> Radio"
+url = "https://www.tec12radio.com/"
+weight = 11
+
+[[menu.shortcuts]]
 name = "<i class='fab fa-brands fa-instagram'></i> Instagram"
 identifier = "hugodoc"
 url = "https://www.instagram.com/escuelatec12/"
 weight = 20
 
+[[menu.shortcuts]]
+name = "<i class='fa-solid fa-microphone-lines'></i> Radio"
+url = "https://www.tec12radio.com/"
+weight = 11
 
 [[menu.shortcuts]]
 name = "<i class='fas fa-tags'></i> Tags"
@@ -36,7 +45,7 @@ url = "/tags"
 taxonomies = ["tag"]
 
 [[menu.shortcuts]]
-name = "changelog"
+name = "<i class='fa-solid fa-folder-open'></i> Changelog"
 url = "/changelog.md"
 weight = 20
 
