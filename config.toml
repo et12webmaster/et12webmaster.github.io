@@ -1,4 +1,4 @@
-baseURL = 'https://et12.edu.ar/'
+baseURL = 'https://rainbow-dango-397e43.netlify.app/'
 languageCode = 'en-us'
 defaultContentLanguage = 'es'
 title = 'ET12'
