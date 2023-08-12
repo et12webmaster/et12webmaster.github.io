@@ -1,5 +1,5 @@
 baseURL = 'https://rainbow-dango-397e43.netlify.app/'
-languageCode = 'en-us'
+languageCode = 'es-ar'
 defaultContentLanguage = 'es'
 title = 'ET12'
 googleAnalytics = 'G-367796390'
@@ -11,6 +11,9 @@ googleAnalytics = 'G-367796390'
 [params]
   themeVariant = ['auto','Claro','Oscuro']
   collapsibleMenu = true
+
+[outputs]
+  home = ["HTML", "RSS", "SEARCH", "SEARCHPAGE"]
 
 [[menu.shortcuts]]
 name = "<i class='fab fa-brands fa-github'></i> GitHub repo"

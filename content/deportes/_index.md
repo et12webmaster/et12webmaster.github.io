@@ -2,7 +2,7 @@
 title = "Deportes"
 +++
 
-
+![Banner Deportes](/imgs/Banner%20Deportes.png)
 
 ¡Bienvenidos al apartado de deportes de nuestra página del colegio! Aquí encontrarás información sobre nuestras actividades deportivas y, en particular, sobre nuestro destacado equipo de voleibol.
 

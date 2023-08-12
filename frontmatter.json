@@ -4,6 +4,10 @@
     {
       "title": "content",
       "path": "[[workspace]]/content"
+    },
+    {
+      "title": "imgs",
+      "path": "[[workspace]]/static/imgs"
     }
   ],
   "frontMatter.content.publicFolder": "static",
