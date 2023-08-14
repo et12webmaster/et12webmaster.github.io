@@ -4,7 +4,7 @@ description: "Información sobre nuestra misión y alcance"
 date: 2023-08-12T19:30:32.413Z
 preview: ""
 draft: false
-tags: [Mision, Sitio]
+tags: []
 categories: []
 ---
 ### Misión

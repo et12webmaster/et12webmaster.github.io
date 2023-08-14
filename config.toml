@@ -16,9 +16,8 @@ googleAnalytics = 'G-367796390'
   home = ["HTML", "RSS", "SEARCH", "SEARCHPAGE"]
 
 [[menu.shortcuts]]
-name = "<i class='fab fa-brands fa-github'></i> GitHub repo"
-identifier = "ds"
-url = "https://github.com/et12webmaster/et12webmaster.github.io"
+name = "<i class='fa-solid fa-microphone-lines'></i> Nuestra Radio"
+url = "https://www.tec12radio.com/"
 weight = 10
 
 [[menu.shortcuts]]
@@ -27,35 +26,25 @@ url = "https://www.facebook.com/jose.desanmartin.927"
 weight = 11
 
 [[menu.shortcuts]]
-name = "<i class='fa-solid fa-microphone-lines'></i> Radio"
-url = "https://www.tec12radio.com/"
-weight = 11
-
-[[menu.shortcuts]]
 name = "<i class='fab fa-brands fa-instagram'></i> Instagram"
-identifier = "hugodoc"
 url = "https://www.instagram.com/escuelatec12/"
-weight = 20
+weight = 12
 
 [[menu.shortcuts]]
-name = "<i class='fa-solid fa-microphone-lines'></i> Radio"
-url = "https://www.tec12radio.com/"
-weight = 11
+name = "<i class='fab fa-brands fa-github'></i> GitHub repo"
+identifier = "ds"
+url = "https://github.com/et12webmaster/et12webmaster.github.io"
+weight = 13
+
+[[menu.shortcuts]]
+name = "<i class='fa-solid fa-folder-open'></i> Changelog"
+url = "/changelog.md"
+weight = 14
 
 [[menu.shortcuts]]
 name = "<i class='fas fa-tags'></i> Tags"
 url = "/tags"
 taxonomies = ["tag"]
-
-[[menu.shortcuts]]
-name = "<i class='fa-solid fa-folder-open'></i> Changelog"
-url = "/changelog.md"
-weight = 20
-
-[[menu.shortcuts]]
-name = "<i class='fa-solid fa-microphone-lines'></i> Nuestra Radio"
-url = "https://www.tec12radio.com/"
-weight = 20
 
 [markup.goldmark.renderer]
 unsafe = true
