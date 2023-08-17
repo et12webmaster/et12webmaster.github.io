@@ -1,5 +1,5 @@
 ---
-title: "Sanciones que se Aplicacaran a una Falta"
+title: "Sanciones que se aplicaran a una Falta"
 weight: 6
 date: 2023-04-25T16:34:18-03:00
 ---
@@ -17,5 +17,5 @@ date: 2023-04-25T16:34:18-03:00
 - Al notificarse el alumno, se le dará la oportunidad de realizar su descargo también por escrito, y este se adosará a su ficha.
 - Ante una falta grave, o su reiteración, el Rector convocará a una reunión del Consejo de Convivencia, quien sugerirá, la sanción a aplicar.
 - La misma se determinará en función de la transgresión cometida, sus consecuencias y los valores puestos en juego.
-- Asimismo se consideraràn las caracterìsticas particulares del alumno (edad, historia personal/familiar, antecedentes escolares y otros).
+- Asimismo se considerarán las características particulares del alumno (edad, historia personal/familiar, antecedentes escolares y otros).
 - Considerando el informe del Consejo, el Rector del Establecimiento, resolverá la pertinencia de la Sanción solicitada y decidirá sobre su aplicación.
