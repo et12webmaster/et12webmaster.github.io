@@ -25,3 +25,7 @@ El Técnico en Electrónica de Nivel Secundario será capaz de:
     - En electrónica industrial hasta 5 kVA y tensión de alimentación y manejo de 3 x 380 VCA.
     - Control industrial y automatización hasta 5 kVA y tensión de alimentación y manejo de 3 x 380 VCA.
     - Equipos que desarrollen tensiones estáticas de hasta 50000 V.
+
+
+{{% button href="https://drive.google.com/file/d/1lPt6qrmoZgL4mn9Mdz8slXsaoX_WGata/view?usp=sharing" icon="download" style="blue"%}}Bajate el plan de estudio{{% /button %}}
+
