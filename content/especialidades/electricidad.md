@@ -20,3 +20,6 @@ El Técnico en Electricidad de Nivel Secundario será capaz de:
 - Puntos 3 y 4: en inmuebles (viviendas uni y multifamiliares, oficinas y locales); fábricas, talleres, industrias; infraestructura urbana y/o rural y empresas de servicios eléctricos: sin limitaciones. Quedan excluidas las cámaras o subestaciones de alta tensión mayores a 13,2 kV y 2000 kVA, donde actuará bajo supervisión.
 
 - Realizar tareas de peritajes, arbitrajes, tasaciones y/o certificaciones conforme a normas vigentes que se encuentren comprendidas en las habilitaciones que otorgan los puntos anteriores.
+
+{{% button href="https://drive.google.com/file/d/1gcLYB0kYKwNvqzA70VO-DsrtGpYBEwOg/view?usp=sharing" icon="download" style="blue"%}}Bajate el plan de estudio{{% /button %}}
+
