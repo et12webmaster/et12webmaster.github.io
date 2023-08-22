@@ -1,0 +1,37 @@
+
+{{range $.Site.Data.contribuidores.contribuidores}}
+<div id="chang">
+	{{if .github}}
+	<div class="estilo">
+	<img src="https://github.com/{{.github}}.png"></div>
+	{{else}}
+	<img src="/imgs/et12.svg">
+	{{ end }}
+	<h6 id="{{.nombre}}{{.apellido}}"><a href="https://github.com/{{.github}}">
+			{{.nombre}} {{.apellido}}</a></h6>
+	<p>{{.cargo}}</p>
+</div>
+
+{{end}}
+
+<style>
+	#chang {
+		display: inline-block;
+		text-align: center;
+		margin-inline: 30px;
+	}
+
+	#chang h6 {
+		margin: -10px;
+	}
+
+	#chang .estilo img {
+		width: 190px;
+		border-radius: 100%;
+		border-color: chartreuse;
+	}
+	#chang img {
+		width: 190px;
+		border-color: chartreuse;
+	}
+</style>

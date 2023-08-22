@@ -1,10 +1,11 @@
-# Escuela Técnica N°12 Lib. Gral. José de San Martín
-#
-#
-#
-| Especialidades | Historia| Convivencia |
-|:------:|:------:|:------:|
-|![Texto alternativo](/imgs/Especialidades200.png)|![Texto alternativo](/imgs/Historia200.png)|![Texto alternativo](/imgs/Reglamento200.png)|
+---
+description: "Información sobre nuestra misión y alcance"
+preview: /imgs/EscuelaWEB6.jpg
+archetype: "home"
+---
 
-{{<compartir>}}
+## ET12 DE1 - "Libertador Gral. José de San Martín"
 
+![Banner Escuela](/imgs/EscuelaWEB6.jpg)
+
+Bienvenidos a nuestro nuevo sitio. Trabajamos duro para traerte las ultimas novedades de nuestra querida Escuela, te invitamos a que navegues en nuestro sitio a traves del menu lateral (o superior izquierdo si estas desde un dispositivo móvil).

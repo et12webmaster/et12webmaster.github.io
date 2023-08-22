@@ -1,0 +1,109 @@
+{
+    "contribuidores": [
+      {
+        "nombre": "Luis",
+        "apellido": "Duran",
+        "cargo": "Profesor",
+        "github":"luchoxx87",
+        "id":"1"
+      },
+      {
+        "nombre": "Jonathan",
+        "apellido": "Velazquez",
+        "cargo": "Profesor",
+        "github":"jonathanvgms",
+        "id":"2"
+      },
+      {
+        "nombre": "Armin",
+        "apellido": "Mercado",
+        "cargo": "Alumno",
+        "github":"arminPK",
+        "id":"3"
+      },
+      {
+        "nombre": "Facundo",
+        "apellido": "Recalde",
+        "cargo": "Alumno",
+        "github":"RecalDER",
+        "id":"4"
+      },
+      {
+        "nombre": "Jacky",
+        "apellido": "Huaman",
+        "cargo": "Alumno",
+        "github":"JackyHuaman",
+        "id":"5"
+      },
+      {
+        "nombre": "Tomas",
+        "apellido": "Terrile",
+        "cargo": "Alumno",
+        "github":"Tomm-1",
+        "id":"6"
+      },
+      {
+        "nombre": "Brian",
+        "apellido": "Coria",
+        "cargo": "Alumno",
+        "github":"Briancoria",
+        "id":"7"
+      },
+      {
+        "nombre": "Evelyn",
+        "apellido": "Siles",
+        "cargo": "Alumno",
+        "github":"silesevelyn",
+        "id":"8"
+      },
+      {
+        "nombre": "Gonzalo",
+        "apellido": "Arancibia",
+        "cargo": "Alumno",
+        "github":"Gonzaloasd",
+        "id":"9"
+      },
+      {
+        "nombre": "Fernando",
+        "apellido": "Vasquez",
+        "cargo": "Alumno",
+        "github":"ferchrey",
+        "id":"10"
+      },
+      {
+        "nombre": "Nayla",
+        "apellido": "Juarez",
+        "cargo": "Alumno",
+        "github":"naylajuarex",
+        "id":"11"
+      },
+      {
+        "nombre": "Matias",
+        "apellido": "Huanca",
+        "cargo": "Alumno",
+        "github":"gabobill",
+        "id":"12"
+      },
+      {
+        "nombre": "Daniel",
+        "apellido": "Umiri",
+        "cargo": "Egresado",
+        "github":"",
+        "id":"13"
+      },
+      {
+        "nombre": "Agustin",
+        "apellido": "Santich",
+        "cargo": "Egresado",
+        "github":"AgusstinnS",
+        "id":"14"
+      },
+      {
+        "nombre": "Inti ",
+        "apellido": "Irahola",
+        "cargo": "Egresado",
+        "github":"",
+        "id":"15"
+      }
+    ]
+  }
