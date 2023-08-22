@@ -1,21 +1,23 @@
 <link rel="stylesheet" type="text/css" href="/css/compartir.css">
 <script src="https://kit.fontawesome.com/7a864820bd.js" crossorigin="anonymous"></script>
-<br>
-Compartir
+
 <div class="share-button">
-  <a href="https://api.whatsapp.com/send?text={{ .Page.Permalink }}" target="_blank" rel="noopener">
+  Compartir
+  <br>
+
+  <a href="https://api.whatsapp.com/send?text={{ .Page.Permalink }}" target="_blank" id="compartir-whatsapp" rel="noopener">
     <i class="fa-brands fa-whatsapp fa-beat"></i>
   </a>
   
-  <a href="https://t.me/share/url?url={{ .Page.Permalink }}" target="_blank" rel="noopener">
+  <a href="https://t.me/share/url?url={{ .Page.Permalink }}" target="_blank" id="compartir-telegram" rel="noopener">
     <i class="fa-brands fa-telegram fa-beat"></i>
   </a>
   
-  <a href="https://www.facebook.com/sharer/sharer.php?u={{ .Page.Permalink }}" target="_blank" rel="noopener">
+  <a href="https://www.facebook.com/sharer/sharer.php?u={{ .Page.Permalink }}" target="_blank" id="compartir-facebook" rel="noopener">
     <i class="fa-brands fa-facebook fa-beat"></i>
   </a>
   
-  <a href="https://www.reddit.com/submit?url={{ .Page.Permalink }}" target="_blank" rel="noopener">
+  <a href="https://www.reddit.com/submit?url={{ .Page.Permalink }}"  target="_blank" id="compartir-reddit" rel="noopener">
     <i class="fa-brands fa-reddit fa-beat"></i>
   </a>
 </div>

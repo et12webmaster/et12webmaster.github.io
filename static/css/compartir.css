@@ -1,5 +1,6 @@
 .compartir {
     margin-top: 20px;
+    
   }
   
   .share-button a {
@@ -12,13 +13,25 @@
     border-radius: 4px;
     transition: background-color 0.3s ease;
   }
-  
+  .share-button{
+  text-align: right;
+  }
   .share-button a:hover {
     background-color: #333333;
     color: #ffffff;
   }
-
-  
+#compartir-facebook{
+  color: blue;
+}
+#compartir-whatsapp{
+  color:green;
+}
+#compartir-telegram{
+  color: lightskyblue;
+}
+#compartir-reddit{
+  color: orangered;
+}
   
   
   
