@@ -12,5 +12,52 @@
   ],
   "frontMatter.content.publicFolder": "static",
   "frontMatter.framework.id": "hugo",
-  "frontMatter.preview.host": "http://localhost:1313"
+  "frontMatter.preview.host": "http://localhost:1313",
+  "frontMatter.data.files": [
+  {
+    "id": "historialVoley",
+    "title": "Historial Voley",
+    "file": "[[workspace]]/data/historialVoley.json",
+    "fileType": "json",
+    "labelField": "id",
+    "singleEntry": false,
+    "schema": {
+      "title": "historialVoley",
+      "type": "object",
+      "required": [
+        "lugar",
+        "categoria",
+        "fecha",
+        "id",
+        "sets"
+      ],
+      "properties": {
+        "id" : {
+          "type": "string",
+          "title": "Id (DD-MM Categoria)"
+        },
+        "lugar": {
+          "type": "string",
+          "title": "Lugar"
+        },
+        "categoria": {
+          "type": "string",
+          "title": "Categoría"
+        },
+        "sets": {
+          "type": "array",
+          "title" : "Sets" ,
+          "items": {
+            "type": "string"
+          }
+        },        
+        "fecha": {
+          "type": "string",
+          "title": "Fecha (DD-MM-AA hh:mm)"
+        }
+      }
+    }
+  }
+]
+
 }
