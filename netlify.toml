@@ -1,6 +1,6 @@
 [build]
-  command = "hugo"
+  command = "hugo --noChmod"
   publish = "public"
 
 [build.environment]
-  HUGO_VERSION = "0.117.0"
+  HUGO_VERSION = "0.123.7"
