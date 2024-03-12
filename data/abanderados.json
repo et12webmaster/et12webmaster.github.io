@@ -1,22 +1,22 @@
 {
     "abanderados": [
       {
-        "mencion": "Abanderado",
-        "nombre": "Milagros Belen",
-        "apellido": "Miranda",
-        "curso":"6°2°"
+        "mencion": "Abanderada",
+        "nombre": "Mariangel",
+        "apellido": "Valerio",
+        "curso":"6°8°"
       },
       {
         "mencion": "1° Escolta",
-        "nombre": "Silvano Junior",
-        "apellido": "Herrera Mercado",
-        "curso":"6°5°"
+        "nombre": "Matias",
+        "apellido": "Gaona",
+        "curso":"6°2°"
       },
       {
         "mencion": "2° Escolta",
-        "nombre": "Facundo",
-        "apellido": "Ramos",
-        "curso":"5°2°"
+        "nombre": "Vanina Abril",
+        "apellido": "Condorpocco Blas",
+        "curso":"6°8°"
       }
       
     ]
