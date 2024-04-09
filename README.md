@@ -78,4 +78,8 @@ Las plantillas parciales son un tipo especial de plantilla que se utilizan para 
 El . es el alcance del archivo actual, representa el alcance de todas las variables a las que tengo acceso
 
 #### Shortcodes
+#### Data 
+Esta carpeta contiene *datos dinámicos* para *archivos estructurados*; es decir, que tienen un formato fijo el cual siempre siguen y que además suelen variar a través del tiempo, como por ejemplos en caso de "Abanderados". En este proyecto, estos archivos son de tipo *.json*. Hay dos razones principales por las cuales esta función nos resulta útil:
+* Nos permite administrar los datos del sitio de manera centralizada, sin tener que buscarlos y cambiarlos en cada una de las secciones. 
+* Nos da la característica de un sitio semi-dinámico en un sitio que es estático. 
 
