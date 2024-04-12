@@ -56,6 +56,12 @@ Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md
 ## Estructura del proyecto 
 En este apartado, explicaremos el orden y la función de cada una de las carpetas que contiene el proyecto
 
+#### .frontmatter
+Esta carpeta contiene archivos que facilitan la gestión del proyecto desde Frontmatter. [Más información](https://gohugo.io/content-management/front-matter/)
+
+### .vscode
+Al igual que la carpeta anterior, esta tiene archivos dedicados a las configuraciones necesarias para la ejecución del proyecto en Visual Studio Code. 
+
 #### Content
 Esta carpeta se integra de todo el **contenido** estructurado en **secciones** que se mostrará dentro de la página web. Dentro de un proyecto desarrollado con Hugo es necesario que el contenido sea organizado en las **secciones** en las que se pretende dividir el mismo. 
 Cada carpeta de sección tiene dentro un archivo *_index.md*, el cual tiene el contenido que se verá reflejado finalmente en el sitio web. [Más información](https://gohugo.io/content-management/sections/)
