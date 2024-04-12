@@ -90,5 +90,9 @@ Las plantillas parciales son un tipo especial de plantilla que se utilizan para 
 El . es el alcance del archivo actual, representa el alcance de todas las variables a las que tengo acceso
 
 #### Shortcodes
+Un shortcode es un fragmento simple dentro de un archivo de contenido que Hugo representará usando una plantilla predefinida. Tenga en cuenta que los códigos cortos no funcionarán en archivos de plantilla. Si necesita el tipo de funcionalidad directa que proporcionan los códigos cortos pero en una plantilla, lo más probable es que desee una plantilla parcial .
 
+Además de un Markdown más limpio, los códigos cortos se pueden actualizar en cualquier momento para reflejar nuevas clases, técnicas o estándares. En el momento de la generación del sitio, los códigos cortos de Hugo se fusionarán fácilmente en sus cambios. Evita una operación de búsqueda y reemplazo posiblemente complicada.
 
+Son basicamente como pequeños fragmentos de codigo que puedes colocar dentro de tus archivos Markdown para no tener que escribir HTML feo y demás. Es parecido al partial solo que el shortcode si recibe parametros. En content se estan utilizando los shortcodes de relearn, es como una cascara ya hecha para nuestra pagina con un conjunto de pequeños codigos. Markdown es como HTML pero para tontos.
+[Más informacion](https://gohugo.io/templates/shortcode-templates/)
