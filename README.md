@@ -62,11 +62,17 @@ Cada carpeta de sección tiene dentro un archivo *_index.md*, el cual tiene el c
 
 * Carpetas de secciones en este proyecto: Contacto, Convivencia, Deportes, Especialidades, Historia, Inscripciones, Novedades.
 
-### Archetypes
+#### Data 
+Esta carpeta contiene *datos dinámicos* *estructurados*; es decir, que tienen un formato y estructura fija el cual siempre siguen y que además suelen variar a través del tiempo, como por ejemplos en caso de "Abanderados". En este proyecto, estos archivos son de tipo *.json*. Hay dos razones principales por las cuales esta función nos resulta útil:
+* Nos permite administrar los datos del sitio de manera centralizada, sin tener que buscarlos y cambiarlos en cada una de las secciones. 
+* Nos da la característica de un sitio semi-dinámico en un sitio que es estático. [Más información](https://gohugo.io/methods/site/data/)
 
-La carpeta "Archetypes" es una **plantilla** prediseñada para crear nuevos **contenidos** de forma estrucutrada y consistente. Estás plantillas contienen campos y valores predefinidos en los que se puede personalizar al crear un nuevo contenido, eso ayuda a mantener la coherencia del estilo y la estructura de los diferentes elementos del sitio web.
 
-### Layouts
+#### Archetypes
+
+La carpeta "Archetypes" es una **plantilla** prediseñada para crear nuevos **contenidos** de forma estrucutrada y consistente. Estás plantillas contienen campos y valores predefinidos en los que se puede personalizar al crear un nuevo contenido, eso ayuda a mantener la coherencia del estilo y la estructura de los diferentes elementos del sitio web. [Más información](https://gohugo.io/content-management/archetypes/)
+
+#### Layouts
 La carpeta de layouts contiene plantillas para transformar contenido, datos y recursos en un sitio web completo, una plantilla es un archivo HTML con acciones de plantillas (estructuras de control delimitadas por “{{" and “}}"). 
 
 #### Partials
@@ -78,8 +84,5 @@ Las plantillas parciales son un tipo especial de plantilla que se utilizan para 
 El . es el alcance del archivo actual, representa el alcance de todas las variables a las que tengo acceso
 
 #### Shortcodes
-#### Data 
-Esta carpeta contiene *datos dinámicos* para *archivos estructurados*; es decir, que tienen un formato fijo el cual siempre siguen y que además suelen variar a través del tiempo, como por ejemplos en caso de "Abanderados". En este proyecto, estos archivos son de tipo *.json*. Hay dos razones principales por las cuales esta función nos resulta útil:
-* Nos permite administrar los datos del sitio de manera centralizada, sin tener que buscarlos y cambiarlos en cada una de las secciones. 
-* Nos da la característica de un sitio semi-dinámico en un sitio que es estático. 
+
 
