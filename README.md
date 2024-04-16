@@ -59,7 +59,7 @@ En este apartado, explicaremos el orden y la función de cada una de las carpeta
 #### .frontmatter
 Esta carpeta contiene archivos que facilitan la gestión del proyecto desde Frontmatter. [Más información](https://gohugo.io/content-management/front-matter/)
 
-### .vscode
+#### .vscode
 Al igual que la carpeta anterior, esta tiene archivos dedicados a las configuraciones necesarias para la ejecución del proyecto en Visual Studio Code. 
 
 #### Content
@@ -81,7 +81,7 @@ La carpeta "Archetypes" es una **plantilla** prediseñada para crear nuevos **co
 #### Layouts
 La carpeta de layouts contiene plantillas para transformar contenido, datos y recursos en un sitio web completo, una plantilla es un archivo HTML con acciones de plantillas (estructuras de control delimitadas por “{{" and “}}"). 
 
-#### Partials
+##### Partials
 Las plantillas parciales son un tipo especial de plantilla que se utilizan para abarcar varios elementos de nuestro sitio web, te ayudan a hacer tu sitio web más modular. Digamos, puedo hacer una plantilla parcial para un encabezado (header) o pie de pagina de un sitio web y lo podemos escribir en su propio archivo con su propio HTML separado y luego tomas ese HTML e inyectas en alguna otra plantilla. Para llamarlo, es asi:
 
 ```go
@@ -89,7 +89,7 @@ Las plantillas parciales son un tipo especial de plantilla que se utilizan para 
 ```
 El . es el alcance del archivo actual, representa el alcance de todas las variables a las que tengo acceso
 
-#### Shortcodes
+##### Shortcodes
 Un shortcode es un fragmento simple dentro de un archivo de contenido que Hugo representará usando una plantilla predefinida. Tenga en cuenta que los códigos cortos no funcionarán en archivos de plantilla. Si necesita el tipo de funcionalidad directa que proporcionan los códigos cortos pero en una plantilla, lo más probable es que desee una plantilla parcial .
 
 Además de un Markdown más limpio, los códigos cortos se pueden actualizar en cualquier momento para reflejar nuevas clases, técnicas o estándares. En el momento de la generación del sitio, los códigos cortos de Hugo se fusionarán fácilmente en sus cambios. Evita una operación de búsqueda y reemplazo posiblemente complicada.
