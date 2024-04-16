@@ -88,29 +88,33 @@ Las plantillas parciales son un tipo especial de plantilla que se utilizan para 
 {{ partial "partial" .}}
 ```
 El . es el alcance del archivo actual, representa el alcance de todas las variables a las que tengo acceso
+[Más información](https://gohugo.io/templates/partials/)
 
 ##### Shortcodes
 Un shortcode es un fragmento simple dentro de un archivo de contenido que Hugo representará usando una plantilla predefinida. Tenga en cuenta que los códigos cortos no funcionarán en archivos de plantilla. Si necesita el tipo de funcionalidad directa que proporcionan los códigos cortos pero en una plantilla, lo más probable es que desee una plantilla parcial .
 
 Además de un Markdown más limpio, los códigos cortos se pueden actualizar en cualquier momento para reflejar nuevas clases, técnicas o estándares. En el momento de la generación del sitio, los códigos cortos de Hugo se fusionarán fácilmente en sus cambios. Evita una operación de búsqueda y reemplazo posiblemente complicada.
 
-Son basicamente como pequeños fragmentos de codigo que puedes colocar dentro de tus archivos Markdown para no tener que escribir HTML feo y demás. Es parecido al partial solo que el shortcode si recibe parametros. En content se estan utilizando los shortcodes de relearn, es como una cascara ya hecha para nuestra pagina con un conjunto de pequeños codigos. Markdown es como HTML pero para tontos.
-[Más informacion](https://gohugo.io/templates/shortcode-templates/)
+Son básicamente como pequeños fragmentos de código que puedes colocar dentro de tus archivos Markdown para no tener que escribir HTML feo y demás. Es parecido al partial solo que el shortcode si recibe parámetros. En content se están utilizando los shortcodes de relearn, es como una cascara ya hecha para nuestra pagina con un conjunto de pequeños códigos. Markdown es como HTML pero para tontos.
+[Más información](https://gohugo.io/templates/shortcode-templates/)
 
 #### Resources
-Este archivo contiene estilos CSS que definen el aspecto de una sección que muestra autoridades.
+Este archivo contiene estilos CSS que definen el aspecto y diseño de las diferentes secciones de la página.
 
 
 #### Static
-En esta carpeta hay tres carpentas mas : css, imgs y pdf y cada carpeta contienen lo siguiente:
+En esta carpeta derivan otras tres carpetas mas, cada una contiene lo siguiente:
 
-##### CSS
+##### Css
 
-Contiene archivos .css definen el aspecto de los botones "compartir.css" y el tema de la pagina. (Se desconoce las funcionalidades de los archivos "autoridades.css" y "changelog.css" porque tambien se ubican en la carpeta "resources", no comparten el mismo codigo pero si la misma funcion)
+Contiene archivos .css definen el aspecto de los botones "compartir.css" y el tema de la pagina. (Se desconoce las funcionalidades de los archivos "autoridades.css" y "changelog.css" porque también se ubican en la carpeta "resources", no comparten el mismo código pero si la misma función)
 
 ##### Imgs
-En la carpeta de imagenes, contiene archivos .png, .jpg y .svg sueltos, los cuales sirven para fondos, banners y logos en la pagina. Entre ellos se destacan, el logo de la escuela, imagenes de la Plaza San Martin, y el exterior del colegio, lo demas son imagenes genericas para decorar, que representan las 3 especialidades que tiene el colegio para ofrecer: Electronica, Electricidad y Computacion.
+En la carpeta de imágenes, contiene archivos .png, .jpg y .svg sueltos, los cuales sirven para fondos, banners y logos en la pagina. Entre ellos se destacan, el logo de la escuela, imágenes de la Plaza San Martin, y el exterior del colegio, lo demás son imágenes genéricas para decorar, que representan las 3 especialidades que tiene el colegio para ofrecer: Electronica, Electricidad y Computación.
 
-##### PDF
-Archivos: Computacion, Electricidad y Electronica
-En Estos pdfs te explica sobre de que va tratar la especialidad de computacion, electronica y electricidad hablando de sus propocitos generales, el contenido que conlleba cada especialidad, los objetivos de la asignatura, etc. Estara en el apartado de especialidades de la pagina para que los que se inscriban tengan ya una idea de como va ser la asignatura que eligiran mas adelante.
+##### Pdf
+Archivos: Computación, Electricidad y Electronica
+En esta carpeta se encuentran los PDF's descriptivos de el plan de estudio de cada una de las especialidades de la escuela: hablando de sus propósitos generales, el contenido que conlleva cada especialidad, los objetivos de la asignatura, etc. 
+
+
+[Más información](https://gohugo.io/content-management/static-files/)
