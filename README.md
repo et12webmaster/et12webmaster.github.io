@@ -96,3 +96,21 @@ Además de un Markdown más limpio, los códigos cortos se pueden actualizar en 
 
 Son basicamente como pequeños fragmentos de codigo que puedes colocar dentro de tus archivos Markdown para no tener que escribir HTML feo y demás. Es parecido al partial solo que el shortcode si recibe parametros. En content se estan utilizando los shortcodes de relearn, es como una cascara ya hecha para nuestra pagina con un conjunto de pequeños codigos. Markdown es como HTML pero para tontos.
 [Más informacion](https://gohugo.io/templates/shortcode-templates/)
+
+#### Resources
+Este archivo contiene estilos CSS que definen el aspecto de una sección que muestra autoridades.
+
+
+#### Static
+En esta carpeta hay tres carpentas mas : css, imgs y pdf y cada carpeta contienen lo siguiente:
+
+##### CSS
+
+Contiene archivos .css definen el aspecto de los botones "compartir.css" y el tema de la pagina. (Se desconoce las funcionalidades de los archivos "autoridades.css" y "changelog.css" porque tambien se ubican en la carpeta "resources", no comparten el mismo codigo pero si la misma funcion)
+
+##### Imgs
+En la carpeta de imagenes, contiene archivos .png, .jpg y .svg sueltos, los cuales sirven para fondos, banners y logos en la pagina. Entre ellos se destacan, el logo de la escuela, imagenes de la Plaza San Martin, y el exterior del colegio, lo demas son imagenes genericas para decorar, que representan las 3 especialidades que tiene el colegio para ofrecer: Electronica, Electricidad y Computacion.
+
+##### PDF
+Archivos: Computacion, Electricidad y Electronica
+En Estos pdfs te explica sobre de que va tratar la especialidad de computacion, electronica y electricidad hablando de sus propocitos generales, el contenido que conlleba cada especialidad, los objetivos de la asignatura, etc. Estara en el apartado de especialidades de la pagina para que los que se inscriban tengan ya una idea de como va ser la asignatura que eligiran mas adelante.
