@@ -4,19 +4,22 @@
         "mencion": "Abanderada",
         "nombre": "Mariangel",
         "apellido": "Valerio",
-        "curso":"6°8°"
+        "curso":"6°8°",
+        "especialidad":"Computación"
       },
       {
         "mencion": "1° Escolta",
         "nombre": "Matias",
         "apellido": "Gaona",
-        "curso":"6°2°"
+        "curso":"6°2°",
+        "especialidad":"Electrónica"
       },
       {
         "mencion": "2° Escolta",
         "nombre": "Vanina Abril",
         "apellido": "Condorpocco Blas",
-        "curso":"6°8°"
+        "curso":"6°8°",
+        "especialidad":"Computación"
       }
       
     ]
