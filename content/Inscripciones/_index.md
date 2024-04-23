@@ -1,5 +1,6 @@
 +++
 title = "Inscripciones"
+weight = 9
 +++
 
 ## Inscripcion 1° año

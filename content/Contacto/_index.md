@@ -1,5 +1,6 @@
 +++
 title = "Contacto"
+weight=10
 +++
 
 - {{% icon icon="envelope" %}} Email Institucional: det_12_de1@bue.edu.ar

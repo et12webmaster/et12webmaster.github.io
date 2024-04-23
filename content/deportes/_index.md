@@ -1,5 +1,6 @@
 +++
 title = "Deportes"
+weight=6
 +++
 
 ![Banner Deportes](/imgs/Banner%20Deportes.png)
