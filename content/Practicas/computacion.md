@@ -2,8 +2,7 @@
 title: "Computacion"
 date: 2024-04-30T18:22:56.635Z
 ---
-{{% notice style="info" title="Perfil Técnico Computación"%}}
-
+{{% notice style="info" title="Perfil Técnico Computación" icon="computer"%}}
 Los alumnos de computación que están cursando 6to año en la ET12, están capacitados en diferentes aspectos dentro del area:
 
 **Hardware**
@@ -21,7 +20,7 @@ Los alumnos de computación que están cursando 6to año en la ET12, están capa
 ### Nuestras práticas
 **Índice**   
 1. [Reparación de Computadoras](#idReparacionPC)
-2. [Segundo apartado](#id2)
+2. [Relanzamiento de la página de la escuela](#idRelanzamiento)
 
 ##### Reparación de computadoras<a name="idReparacionPC"></a>
 ![Folleto](/imgs/folletoRC.png?height=500px)
@@ -31,4 +30,14 @@ Este proyecto, el cual forma parte de las prácticas profesionalizantes de los a
 - Desarrollo de una hoja de cálculo en Excel para seguimiento de clientes: Esta herramienta permite llevar un registro organizado de los clientes, sus solicitudes de servicio, el estado de las reparaciones, fechas de entrega, y cualquier otra información relevante. Facilita la gestión de la información y ayuda a garantizar una comunicación fluida con los clientes.
 - Estrategias para encontrar y satisfacer clientes: El equipo diseñó un folleto informativo que se distribuyó en la escuela, incentivando a los alumnos a traer sus computadoras con problemas para ser solucionados. Esta estrategia aprovechó el entorno escolar para llegar a un público objetivo relevante y generar interés en los servicios de reparación de computadoras. 
 
-#### jdjfhd<a name="id2"></a>
+##### Relanzamiento de la página de la escuela<a name="idRelanzamiento"></a>
+![Imagen](/imgs/Relanzamiento.jpg?height=35vw)
+
+Como parte también de las prácticas profesionalizantes otro grupo de alumnos de 6° 8° trabaja en el relanzamiento de la página WEB de la escuela, un proceso que viene teniendo lugar desde el ciclo lectivo 2023. Esta nueva actualización abarca más aspectos importantes en nuestro entorno académico, como secciones nuevas para los proyectos y prácticas, novedades, deportes, etc. Nuestro objetivo es ofrecer una página en la que podamos compartir más de lo que hacemos en nuestra institución dia a dia profes, alumnos y directivos. 
+
+Tecnologías utilizadas:
+
+HUGO es la tecnología principal de nuestra página, es un framework que facilita y agiliza el proceso de creación y administración de páginas WEB estáticas, como esta. Dentro de ello se encuentran otras herramientas de creación de páginas como HTML y CSS. 
+
+Esta página es de código abierto, el cual puedes visualizar en nuestro Github, cuyo link se encuentra en el menú.
+
