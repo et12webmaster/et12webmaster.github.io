@@ -2,7 +2,7 @@
 title = "CATE"
 weight= 12
 +++
-![Banner Autoridades](/imgs/cate.jpg?height=20vw&lightbox=false)
+![Banner Autoridades](/imgs/cate.jpg?height=250px&lightbox=false)
 
 
 Los Centros de Acompañamiento a las Trayectorias Escolares (CATE) brindan propuestas y estrategias de acompañamiento escolar a estudiantes de primaria y secundaria. En el Nivel Secundario se brindan trayectos formativos que permiten reforzar los contenidos curriculares para que los/as estudiantes logren la acreditación de materias adeudadas.
