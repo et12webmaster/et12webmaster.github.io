@@ -3,6 +3,8 @@ languageCode = 'es-ar'
 defaultContentLanguage = 'es'
 title = 'ET12'
 googleAnalytics = 'G-367796390'
+ordersectionsby = 'weight'
+
 
 [module]
 [[module.imports]]
