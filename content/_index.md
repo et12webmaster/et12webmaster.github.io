@@ -7,4 +7,4 @@ archetype: "home"
 
 ![Banner Escuela](/imgs/EscuelaWEB6.jpg)
 
-Bienvenidos a nuestro nuevo sitio. Trabajamos duro para traerte las ultimas novedades de nuestra querida Escuela, te invitamos a que navegues en nuestro sitio a traves del menu lateral (o superior izquierdo si estas desde un dispositivo móvil).
+Bienvenidos a nuestro nuevo sitio. Trabajamos duro para traerte las ultimas novedades de nuestra querida Escuela, te invitamos a que navegues en nuestro sitio a través del menu lateral (o superior izquierdo si estas desde un dispositivo móvil).
