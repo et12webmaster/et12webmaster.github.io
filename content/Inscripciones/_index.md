@@ -13,7 +13,7 @@ Les damos la bienvenida a todos los nuevos ingresantes a nuestra escuela.
 - Partida de Nacimiento (original y copia)
 - Documento de identidad (original y copia)
 - Constancia de 7º grado (original)
-- Apto fisico (original y 2 copias)
+- Apto físico (original y 2 copias)
 - Libreta de vacunación (original y 2 copias)
 - Certificado de domicilio o factura de servicio o impuesto
 - Constancia de trabajo madre/padre con domicilio de empleador/empresa
@@ -30,7 +30,7 @@ Les damos la bienvenida a todos los nuevos ingresantes a nuestra escuela.
 (ingrese link)
 
 - Para la inscripción hay que “registrarse”. Una vez ingresado a la página de inscripción, completar los datos de “Registrate”. No olvidar tildar la opción “Aceptar la política de privacidad”. Al final presionar “Registrarse” (abajo a la derecha).
-Luego ingresar a la cuenta de correo electrónico que se indicó en “Registrate”. Leer el correo que llega de “inscripcionenlinea”. En ese mensaje se indica una contraseña que habrá que recordar ó anotar (ó copiar   CTROL+ C). Esa será la clave de acceso que se le solicitará más adelante.
+Luego ingresar a la cuenta de correo electrónico que se indicó en “Registrate”. Leer el correo que llega de “inscripcionenlinea”. En ese mensaje se indica una contraseña que habrá que recordar ó anotar (ó copiar   CTRL+ C). Esa será la clave de acceso que se le solicitará más adelante.
 Completar con la cuenta de correo electrónico y con la “contraseña” ó “clave de acceso” que asignaron en el mensaje de correo. Luego presionar “Ingresar” (abajo a la izquierda).
 
 - Se abrirá una nueva página de dice “Ingresá tu nueva contraseña”:
@@ -43,9 +43,9 @@ Al finalizar, presionar “ingresar”.
 
 Lo que sigue es la inscripción al sistema del alumno. Presionar “+Preinscribí a un nuevo aspirante”.
 
-Todos los datos que tengan (*) son campos obligatorios, es decir, que es necesario completarlos sino el sistema no permitrá continuar.
+Todos los datos que tengan (*) son campos obligatorios, es decir, que es necesario completarlos sino el sistema no permitirá continuar.
 
-Si el sistema no permitira continuar con la inscripción, podrá estar sucediendo que no hayamos completado algunos de los datos obligatorios, y hasta que no se coloque esa información, no se podrá continuar con la inscripción. En general, suelen escribir lo que falta o está mal, en letras rojas. Una vez resuelto el problema, volver a presionar “Guardar y continuar” para avanzar en la inscripción.
+Si el sistema no permitirá continuar con la inscripción, podrá estar sucediendo que no hayamos completado algunos de los datos obligatorios, y hasta que no se coloque esa información, no se podrá continuar con la inscripción. En general, suelen escribir lo que falta o está mal, en letras rojas. Una vez resuelto el problema, volver a presionar “Guardar y continuar” para avanzar en la inscripción.
 
 Hay que completar:
 
@@ -67,7 +67,7 @@ Hay que completar:
 
 - Año:  se cambia presionado el triángulo negro que está dentro del rectángulo donde figura el año (por ejemplo: 2014)
 
-- Día: se elige al final: hacer clíck en el número del día
+- Día: se elige al final: hacer click en el número del día
 
 - Completar todos los datos que tienen (*) ya que no se podrá seguir si no se completan por ser obligatorios.
 
