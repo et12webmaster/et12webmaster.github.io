@@ -2,7 +2,7 @@
 title: "Computacion"
 date: 2024-04-30T18:22:56.635Z
 ---
-{{% notice style="info" title="Perfil Técnico Computación" icon="computer"%}}
+{{% notice style="info" title="Perfil Técnico en Computación" icon="computer"%}}
 Los alumnos de computación que están cursando 6to año en la ET12, están capacitados en diferentes aspectos dentro del area:
 
 **Hardware**
@@ -17,7 +17,7 @@ Los alumnos de computación que están cursando 6to año en la ET12, están capa
 {{% /notice %}}
 
 
-### Nuestras práticas
+### Nuestras prácticas
 **Índice**   
 1. [Reparación de Computadoras](#idReparacionPC)
 2. [Relanzamiento de la página de la escuela](#idRelanzamiento)
@@ -34,6 +34,7 @@ Este proyecto, el cual forma parte de las prácticas profesionalizantes de los a
 ![Imagen](/imgs/Relanzamiento.jpg?height=35vw)
 
 Como parte también de las prácticas profesionalizantes otro grupo de alumnos de 6° 8° trabaja en el relanzamiento de la página WEB de la escuela, un proceso que viene teniendo lugar desde el ciclo lectivo 2023. Esta nueva actualización abarca más aspectos importantes en nuestro entorno académico, como secciones nuevas para los proyectos y prácticas, novedades, deportes, etc. Nuestro objetivo es ofrecer una página en la que podamos compartir más de lo que hacemos en nuestra institución dia a dia profes, alumnos y directivos. 
+Además de esto, ofrecemos este servicio de desarrollo de páginas estáticas de forma gratuita para ONG's y/o establecimientos educativos. 
 
 Tecnologías utilizadas:
 
