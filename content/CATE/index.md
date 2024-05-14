@@ -23,4 +23,4 @@ Viniendo los sábados con un mínimo de 10 encuentros **podés aprobar** las sig
 | 3° Modulo (15:50hs - 17:00 hs)| 5°       | Lengua y apoyo escolar para todas las materias               |
 
 
-Para más información mandá un WhatsApp al [1140358614](https://api.whatsapp.com/send?phone=++5491140358614&text=Hola!%20Quiero%20saber%20m%C3%A1s%20informaci%C3%B3n%20sobre%20el%20CATE%20) o presentate el sábado a las 13:00hs
+Para más información mandá un WhatsApp al **[{{% icon icon="mobile-screen" %}} 1140358614](https://api.whatsapp.com/send?phone=++5491140358614&text=Hola!%20Quiero%20saber%20m%C3%A1s%20informaci%C3%B3n%20sobre%20el%20CATE%20)** o presentate el sábado a las 13:00hs
