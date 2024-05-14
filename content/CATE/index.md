@@ -1,6 +1,8 @@
 +++
 title = "CATE en la 12"
-weight= 12
+weight = 12
+preview = "/imgs/cate.jpg"
+description = "Información sobre el CATE en la ET12"
 +++
 ![Banner Autoridades](/imgs/cate.jpg?height=250px&lightbox=false)
 
