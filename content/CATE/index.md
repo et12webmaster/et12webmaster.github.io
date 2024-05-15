@@ -16,7 +16,6 @@ Viniendo los sábados con un mínimo de 10 encuentros **podés aprobar** las sig
 - **Física** 2° a 3° año
 - **Tecnología de la Representación** de 1° a 3° año
 
-
 | Horarios                      | Años     | Materias                                                     |
 |-------------------------------|:--------:|--------------------------------------------------------------|
 | 1° Modulo (13:00hs - 14:20hs) | 1° - 2°  | Todas las materias                                           |
