@@ -1,6 +1,8 @@
 ---
-title: "Computacion"
+title: Computacion
 date: 2023-04-25T16:34:18-03:00
+description: Especialidad Computacion en la ET12
+preview: /imgs/computacion.svg
 ---
 {{< figure src="/imgs/computacion700.svg" width="150%" >}}
 El Técnico en Computación de Nivel Secundario será capaz de:

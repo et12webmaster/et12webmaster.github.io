@@ -1,6 +1,7 @@
 +++
 title = "Prácticas Profesionalizantes"
-weight= 3
+weight = 3
+description = "Carta de Presentacion de la ET12"
 +++
 
 - Son actividades formativas que entraman los contenidos curriculares, los perfiles profesionales de los/as estudiantes con los desafíos del sector socio-productivo.

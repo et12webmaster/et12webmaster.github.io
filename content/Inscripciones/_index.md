@@ -1,6 +1,7 @@
 +++
 title = "Inscripciones"
 weight = 10
+description = "Como inscribirse a la ET12"
 +++
 
 ## Inscripcion 1° año
