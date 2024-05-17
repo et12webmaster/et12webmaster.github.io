@@ -1,5 +1,6 @@
 ---
 title: "Novedades"
+weight: 1
 ---
 
 ## Novedades

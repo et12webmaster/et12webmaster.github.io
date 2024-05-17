@@ -4,17 +4,21 @@ date: 2023-06-2T16:34:18-03:00
 hidden: true
 ---
 ## v3
-* Actualización del changelog ([Matias Huanca](#MatiasHuanca) , [Fernando Vasquez]( #FernandoVasquez) , [Facundo Recalde]( #FacundoRecalde) ,[Brian Coria]( #BrianCoria) )
+
+* Creación de sección CATE, Proyectos y Practicas ([Vanina Condorpocco](#VaninaCondorpocco), [Mariangel Valerio](#MariangelValerio), [Iliana Duarte](#IlianaDuarte))
+* Documentación de las carpetas ([Vanina Condorpocco](#VaninaCondorpocco), [Mariangel Valerio](#MariangelValerio), [Iliana Duarte](#IlianaDuarte), [Elio Aucachi](#ElioAucachi), [Axel Cruz](#AxelCruz))
+* Más información para el home([Elio Aucachi](#ElioAucachi), [Axel Cruz](#AxelCruz))
+* Actualización del changelog ([Matias Huanca](#MatiasHuanca) , [Fernando Vasquez]( #FernandoVasquez) , [Facundo Recalde]( #FacundoRecalde) ,[Brian Coria]( #BrianCoria), [Vanina Condorpocco](#VaninaCondorpocco) )
 
 * Cambio y diseño de hojas de estilo, actualización de temas ([Gonzalo Arancibia]( #GonzaloArancibia) , [Jacky Huaman]( #JackyHuaman) , [Evelyn Siles]( #EvelynSiles), [Armin Mercado]( #ArminMercado))
 
-* Lectura de datos dinamicos de archivos estructurados(.json) ([Fernando Vasquez]( #FernandoVasquez),[Facundo Recalde]( #FacundoRecalde), [Tomás Terrile]( #TomasTerrile))
+* Lectura de datos dinámicos de archivos estructurados(.json) ([Fernando Vasquez]( #FernandoVasquez),[Facundo Recalde]( #FacundoRecalde), [Tomás Terrile]( #TomasTerrile))
 
-* Implementacion de Shortcodes, Partials y Layouts ([Fernando Vasquez]( #FernandoVasquez), [Facundo Recalde]( #FacundoRecalde), [Armin Mercado]( #ArminMercado), [Nayla Juarez]( #NaylaJuarez))
+* Implementación de Shortcodes, Partials y Layouts ([Fernando Vasquez]( #FernandoVasquez), [Facundo Recalde]( #FacundoRecalde), [Armin Mercado]( #ArminMercado), [Nayla Juarez]( #NaylaJuarez))
 
-* Actualizacion de las secciones ([Tomás Terrile]( #TomasTerrile), [Nayla Juarez]( #NaylaJuarez), [Armin Mercado]( #ArminMercado), [Brian Coria]( #BrianCoria), [Gonzalo Arancibia]( #GonzaloArancibia))
+* Actualización de las secciones ([Tomás Terrile]( #TomasTerrile), [Nayla Juarez]( #NaylaJuarez), [Armin Mercado]( #ArminMercado), [Brian Coria]( #BrianCoria), [Gonzalo Arancibia]( #GonzaloArancibia))
 
-* Diseño de baners ([Inti Irahola]( #IntiIrahola))
+* Diseño de banners ([Inti Irahola]( #IntiIrahola), [Nicolas Conteiro](#NickVill1500))
 
 
 

@@ -1,5 +1,6 @@
 ---
 title: "Convivencia"
+weight: 5
 ---
 
 ![Banner Convivencia](/imgs/Banner%20Convivencia.png)

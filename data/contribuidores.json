@@ -104,6 +104,49 @@
         "cargo": "Egresado",
         "github":"",
         "id":"15"
+      },
+      {
+        "nombre": "Vanina",
+        "apellido": "Condorpocco",
+        "cargo":"Alumno",
+        "github":"VaninaBlas",
+        "id":"16"
+      },
+      {
+        "nombre":"Mariangel",
+        "apellido": "Valerio",
+        "cargo":"Alumno",
+        "github":"mariangelval",
+        "id":"17"
+      },
+      {
+        "nombre":"Iliana",
+        "apellido":"Duarte",
+        "cargo":"Alumno",
+        "github":"IlianaDuarte",
+        "id":"18"
+      },
+      {
+        "nombre":"Elio",
+        "apellido":"Aucachi",
+        "cargo":"Alumno",
+        "github":"ElioAucachi",
+        "id":"19"
+      },
+      {
+        "nombre":"Axel",
+        "apellido":"Cruz",
+        "cargo":"Alumno",
+        "github":"AxelMarianoCruz",
+        "id":"20"
+      },
+      {
+        "nombre":"Nicolas",
+        "apellido":"Conteiro",
+        "cargo":"Alumno",
+        "github":"NickVill1500",
+        "id":"21"
       }
+      
     ]
   }
