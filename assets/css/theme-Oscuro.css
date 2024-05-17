@@ -1,7 +1,7 @@
 :root {
   --BOX-NOTE-TEXT-color:black; /*la nota*/
-  --MAIN-LINK-color:#915eae; /* link color of content */
-  --MAIN-LINK-HOVER-color: #6d0033; /* hoverd link color of content */
+  --MAIN-LINK-color:#a24c74; /* link color of content */
+  --MAIN-LINK-HOVER-color: #ff87bf86; /* hoverd link color of content */
   --MAIN-BG-color: #2e2e2e; /* background color of content */
   --MAIN-TITLES-TEXT-color: #ffffff; /* text color of h2-h6 titles and transparent box titles */
   --MAIN-TITLES-H1-color: #ffffff; /* text color of h1 titles */

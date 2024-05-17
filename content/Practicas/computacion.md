@@ -21,8 +21,8 @@ Los alumnos de computación que están cursando 6to año en la ET12, están capa
 
 ### Nuestras prácticas
 **Índice**   
-1. [Reparación de Computadoras](#idReparacionPC)
-2. [Relanzamiento de la página de la escuela](#idRelanzamiento)
+1. **[Reparación de Computadoras](#idReparacionPC)**
+2. **[Relanzamiento de la página de la escuela](#idRelanzamiento)**
 
 ##### Reparación de computadoras<a name="idReparacionPC"></a>
 ![Folleto](/imgs/folletoRC.png?height=500px)

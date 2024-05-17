@@ -9,7 +9,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 {{% /notice %}}
 ### Nuestras práticas
 **Índice**   
-1. [Item](#id1)
-2. [Item](#id2)
+1. **[Item](#id1)**
+2. **[Item](#id2)**
 
 ##### Item<a name="id1"></a>
