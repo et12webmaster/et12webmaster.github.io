@@ -1,6 +1,8 @@
 ---
-title: "Electronica"
+title: Electronica
 date: 2023-04-25T16:36:33-03:00
+description: Especialidad Electronica en la ET12
+preview: /imgs/electronica.svg
 ---
 {{< figure src="/imgs/electronica700.svg" width="150%" >}}
 

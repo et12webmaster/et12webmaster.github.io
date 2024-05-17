@@ -1,6 +1,7 @@
 +++
 title = "Historia"
-weight=9
+weight = 9
+description = "Historia de la ET12"
 +++
 
 

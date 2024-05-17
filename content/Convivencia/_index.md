@@ -1,6 +1,8 @@
 ---
-title: "Convivencia"
+title: Convivencia
 weight: 5
+description: Reglas de Convivencia en la ET12
+preview: /imgs/Banner Convivencia.png
 ---
 
 ![Banner Convivencia](/imgs/Banner%20Convivencia.png)

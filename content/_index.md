@@ -1,8 +1,8 @@
 ---
-title: 'ET12 DE1 - "Libertador Gral. José de San Martín"'
-description: "Información sobre nuestra misión y alcance"
+title: ET12 DE1 - "Libertador Gral. José de San Martín"
+description: Introduccion a la ET12
 preview: /imgs/EscuelaWEB6.jpg
-archetype: "home" 
+archetype: home
 ---
 
 ![Banner Escuela](/imgs/EscuelaWEB6.jpg)
