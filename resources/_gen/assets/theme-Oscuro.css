@@ -1,5 +1,5 @@
 :root {
-  --BOX-NOTE-TEXT-color:black; /*la nota*/
+  --BOX-NOTE-TEXT-color: #ffffff; /*la nota*/
   --MAIN-LINK-color: #ffffff; /* link color of content */
   --MAIN-LINK-HOVER-color: #6d0033; /* hoverd link color of content */
   --MAIN-BG-color: #2e2e2e; /* background color of content */
