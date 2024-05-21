@@ -1,6 +1,7 @@
 ---
-title: "Novedades"
+title: Novedades
 weight: 1
+description: Novedades de la ET12
 ---
 
 ## Novedades

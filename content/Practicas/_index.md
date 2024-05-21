@@ -1,6 +1,7 @@
 +++
 title = "Prácticas Profesionalizantes"
-weight= 3
+weight = 3
+description = "Carta de Presentacion de la ET12"
 +++
 
 - Son actividades formativas que entraman los contenidos curriculares, los perfiles profesionales de los/as estudiantes con los desafíos del sector socio-productivo.
@@ -79,19 +80,16 @@ weight= 3
 Proceso administrativo y documentación
 
 - Las entidades privadas y públicas y las personas humanas que quieran recibir estudiantes en el formato
-«Formación en ambientes productivos», deberán iniciar un trámite a distancia en la plataforma TAD del Gobierno de la Ciudad Autónoma de Buenos Aires: https://lbapw.agip.gob.ar/claveciudad/index.php.
+«Formación en ambientes productivos», deberán iniciar un trámite a distancia en la plataforma TAD del Gobierno de la Ciudad Autónoma de Buenos Aires: **https://lbapw.agip.gob.ar/claveciudad/index.php.**
 - Al presentar la documentación requerida y luego de su revisión y aprobación, recibirán el correspondiente certificado que los habilitará como «entidad oferente».
 - Para finalizar el proceso, se deberá firmar un Acta Acuerdo entre la Entidad Oferentes y la Dirección de Educación Técnica.
 
 **Contacto**
-[practicaset12@gmail.com](mailto:practicaset12@gmail.com)
+**[practicaset12@gmail.com](mailto:practicaset12@gmail.com)**
 
-Escuela Técnica N.º 12 D.E.1º Reg. I
-
-Libertador Gral. José de San Martín
-
-Av. Del Libertador 238 - CABA (1001)
-
+Escuela Técnica N.º 12 D.E.1º Reg.  
+Libertador Gral. José de San Martín  
+Av. Del Libertador 238 - CABA (1001)  
 Tel: 4327-3942 / 4328-4433
 
 

@@ -1,6 +1,8 @@
 ---
-title: "Computacion"
+title: Computacion
 date: 2023-04-25T16:34:18-03:00
+description: Especialidad Computacion en la ET12
+preview: /imgs/computacion.svg
 ---
 {{< figure src="/imgs/computacion700.svg" width="150%" >}}
 El Técnico en Computación de Nivel Secundario será capaz de:
@@ -16,7 +18,7 @@ El Técnico en Computación de Nivel Secundario será capaz de:
 {{% button href="https://drive.google.com/file/d/1mieJOvSjQPsgI-RVrrK468mADBr0vdcR/view?usp=sharing" icon="download" style="blue"%}}Bajate el plan de estudio{{% /button %}}
 
 
-{{% notice style="note" %}}
+{{% notice style="info" icon="triangle-exclamation" style="orange" title="Nota"%}}
 A partir del Ciclo 2023 el ingreso a esta Especialidad en el turno diurno es por promedio
 {{% /notice %}}
 

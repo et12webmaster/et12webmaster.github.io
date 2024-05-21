@@ -1,6 +1,8 @@
 ---
-title: "Voley"
+title: Voley
 date: 2023-04-25T16:34:18-03:00
+description: Voley en la ET12
+preview: /imgs/red.jpg
 ---
 
 ![Red Voley](/imgs/red.jpg)

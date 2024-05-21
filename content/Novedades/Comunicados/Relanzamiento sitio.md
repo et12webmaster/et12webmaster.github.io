@@ -1,6 +1,6 @@
 ---
 title: Relanzamiento sitio
-description: ""
+description: Informacion sobre las herramientas usadas para la actualizacion de la pagina
 date: 2023-08-17
 preview: /imgs/computacion700.svg
 tags:

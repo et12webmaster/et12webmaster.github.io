@@ -1,6 +1,8 @@
 +++
 title = "Deportes"
-weight=6
+weight = 6
+description = "Deportes que se realizan en la ET12"
+preview = "/imgs/Banner Deportes.png"
 +++
 
 ![Banner Deportes](/imgs/Banner%20Deportes.png)
