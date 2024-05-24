@@ -6,4 +6,6 @@ preview: /imgs/Banner Comunicado.png
 
 ![Banner Comunicado](/imgs/Banner%20Comunicado.png)
 
-Todo sobre nuestros comunicados oficiales
+Todo sobre nuestros comunicados oficiales.
+
+{{% children sort="publishdate" %}}
