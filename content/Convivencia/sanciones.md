@@ -1,7 +1,15 @@
 ---
-title: "Sanciones"
+title: Sanciones
 weight: 4
 date: 2023-04-25T16:34:18-03:00
+description: Sanciones de convivencia de la ET12
+tags:
+    - convivencia
+keywords:
+    - et12
+    - san martin
+    - sanciones
+    - suspenciones
 ---
 
 La sanción se aplica al quebrantarse la norma; es la consecuencia del incumplimiento de la misma.

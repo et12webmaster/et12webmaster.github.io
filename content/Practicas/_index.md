@@ -2,6 +2,8 @@
 title = "Prácticas Profesionalizantes"
 weight = 3
 description = "Carta de Presentacion de la ET12"
+tags = [ "prácticas", "especialidad" ]
+keywords = [ "et12", "practicas", "san martin", "carta presentacion" ]
 +++
 
 - Son actividades formativas que entraman los contenidos curriculares, los perfiles profesionales de los/as estudiantes con los desafíos del sector socio-productivo.

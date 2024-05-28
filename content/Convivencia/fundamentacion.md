@@ -3,6 +3,12 @@ title: Fundamentación
 weight: 1
 date: 2023-04-25T16:34:18-03:00
 description: Fundamentacion de la ET12
+tags:
+  - convivencia
+keywords:
+  - et12
+  - san martin
+  - fundamentacion
 ---
 
 

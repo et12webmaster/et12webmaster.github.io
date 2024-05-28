@@ -3,6 +3,12 @@ title: ET12 DE1 - "Libertador Gral. José de San Martín"
 description: Introduccion a la ET12
 preview: /imgs/EscuelaWEB6.jpg
 archetype: home
+tags: []
+keywords:
+    - et12
+    - inicio
+    - san martin
+    - introduccion
 ---
 
 ![Banner Escuela](/imgs/EscuelaWEB6.jpg)

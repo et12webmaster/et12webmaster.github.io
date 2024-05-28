@@ -3,6 +3,12 @@ title: Changelog
 date: 2023-06-2T16:34:18-03:00
 hidden: true
 description: Versiones, Tareas y Contribuidores pagina
+keywords:
+    - contribuidores
+    - et12
+    - san martin
+    - versiones
+    - changelog
 ---
 ## v3
 

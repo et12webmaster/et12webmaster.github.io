@@ -1,12 +1,17 @@
 ---
 title: Sobre el Sitio
-description: "Información sobre nuestra misión y alcance"
+description: Información sobre nuestra misión y alcance
 date: 2023-08-12T19:30:32.413Z
 preview: ""
 draft: false
 tags: []
 categories: []
 weight: 8
+keywords:
+    - et12
+    - mision
+    - san martin
+    - alcance
 ---
 ### Misión
 

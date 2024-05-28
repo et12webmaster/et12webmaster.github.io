@@ -3,6 +3,13 @@ title: Electricidad
 date: 2023-04-25T16:36:41-03:00
 description: Especialidad Electricidad en la ET12
 preview: /imgs/electricidad.svg
+tags:
+    - especialidad
+    - electricidad
+keywords:
+    - et12
+    - san martin
+    - electricidad
 ---
 
 {{< figure src="/imgs/electricidad700.svg" width="150%" >}}
