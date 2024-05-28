@@ -5,11 +5,11 @@
   Compartir
   <br>
 
-  <a href="https://api.whatsapp.com/send?text={{ .Page.Permalink }}" target="_blank" id="compartir-whatsapp" rel="noopener">
+  <a href="https://api.whatsapp.com/send?text={{ .Page.Description }} - {{ .Page.Permalink }}" target="_blank" id="compartir-whatsapp" rel="noopener">
     <i class="fa-brands fa-whatsapp fa-beat"></i>
   </a>
   
-  <a href="https://t.me/share/url?url={{ .Page.Permalink }}" target="_blank" id="compartir-telegram" rel="noopener">
+  <a href="https://t.me/share/url?url={{ .Page.Permalink }}&text={{ .Page.Description }}" target="_blank" id="compartir-telegram" rel="noopener">
     <i class="fa-brands fa-telegram fa-beat"></i>
   </a>
   
@@ -20,7 +20,7 @@
   <a href="https://www.reddit.com/submit?url={{ .Page.Permalink }}"  target="_blank" id="compartir-reddit" rel="noopener">
     <i class="fa-brands fa-reddit fa-beat"></i>
   </a>
-  <a href="https://twitter.com/intent/tweet?text=Visitanos%20{{.Page.Permalink}}" target="_blank" id="compartir-x" rel="noopener">
+  <a href="https://twitter.com/intent/tweet?text={{ .Page.Description }}&url={{ .Page.Permalink }}" target="_blank" id="compartir-x" rel="noopener">
     <i class="fa-brands fa-x fa-beat"></i>
   </a>
 </div>
