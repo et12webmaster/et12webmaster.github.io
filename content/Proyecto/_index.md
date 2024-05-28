@@ -2,6 +2,8 @@
 title = "Proyectos"
 weight = 4
 description = "Proyectos que se realizan en la ET12"
+tags = [ "Proyectos" ]
+keywords = [ "et12", "san martin", "proyectos" ]
 +++
 
 En este apartado de nuestra página podrás visualizar todos los proyectos que llevamos a cabo en las distintas especialidades y actividades de nuestro colegio. En un recorrido desde el ciclo básico hasta el superior, vas a poder ver los proyectos que hemos hecho como parte de nuestra formación como futuros técnicos. Cada proyecto refleja el esfuerzo conjunto de estudiantes y docentes en la aplicación de conocimientos en diversas áreas mostrando nuestro compromiso con la educación práctica y la exploración académica.

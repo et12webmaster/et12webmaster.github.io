@@ -3,6 +3,8 @@ title = "Contacto"
 weight = 11
 description = "Contacto de la ET12"
 preview = "/imgs/tec12.jpg"
+tags = [ ]
+keywords = [ "email", "et12", "san martin", "telefono", "direccion" ]
 +++
 
 - {{% icon icon="envelope" %}} Email Institucional: **det_12_de1@bue.edu.ar**

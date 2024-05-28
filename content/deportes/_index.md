@@ -3,6 +3,8 @@ title = "Deportes"
 weight = 6
 description = "Deportes que se realizan en la ET12"
 preview = "/imgs/Banner Deportes.png"
+tags = [ "deporte" ]
+keywords = [ "et12", "san martin", "deportes" ]
 +++
 
 ![Banner Deportes](/imgs/Banner%20Deportes.png)

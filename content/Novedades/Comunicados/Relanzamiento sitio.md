@@ -7,6 +7,12 @@ tags:
   - Computación
 categories:
   - comunicados
+keywords:
+  - cms
+  - et12
+  - hugo
+  - san martin
+  - computacion
 ---
 
 En el 174° aniversario del fallecimiento de nuestro patrono "José de San Martín", tenemos el agrado de relanzar nuestro sitio, te contamos un poco sobre que se trata.

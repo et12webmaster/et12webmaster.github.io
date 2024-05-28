@@ -3,6 +3,12 @@ title: Consejos de Convivencia
 weight: 3
 date: 2023-04-25T16:34:18-03:00
 description: Consejos de Convivencia de la ET12
+tags:
+    - convivencia
+keywords:
+    - et12
+    - san martin
+    - consejos de convivencia
 ---
 
 
