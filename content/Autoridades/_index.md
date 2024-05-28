@@ -11,6 +11,6 @@ description = "Autoridades y Abanderados de la ET12 San Martin"
 
 # Abanderados
 
-![Abanderados](/imgs/Abanderados.jpg "Nuestros abanderados 2024")
+![Abanderados](https://i.imghippo.com/files/PgYUW1716922846.jpg "Nuestros abanderados 2024")
 
 {{<abanderados>}}
