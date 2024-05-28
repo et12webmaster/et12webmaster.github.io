@@ -3,6 +3,17 @@ title = "CATE en la 12"
 weight = 12
 preview = "/imgs/cate.jpg"
 description = "Información sobre el CATE en la ET12"
+tags = [ "Ciclo básico" ]
+keywords = [
+  "acompañamiento escolar",
+  "caba",
+  "et12",
+  "inscripcion",
+  "materias",
+  "san martin",
+  "secundaria",
+  "materias adeudadas"
+]
 +++
 ![Banner Autoridades](/imgs/cate.jpg?height=250px&lightbox=false)
 

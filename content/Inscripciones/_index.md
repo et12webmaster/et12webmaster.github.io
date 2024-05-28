@@ -2,6 +2,8 @@
 title = "Inscripciones"
 weight = 10
 description = "Como inscribirse a la ET12"
+tags = [ ]
+keywords = [ "et12", "inscripcion", "san martin", "documentacion" ]
 +++
 
 ## Inscripcion 1° año
