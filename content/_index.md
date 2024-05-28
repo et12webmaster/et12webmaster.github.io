@@ -13,7 +13,7 @@ Bienvenido a la página de la Escuela Técnica N° 12 - Libertador Gral. José d
 
 Desde aquel lejano Marzo de 1936, la Escuela Técnica Nº 12 "Libertador General José de San Martín" ha sido un faro de conocimiento y compromiso. A lo largo de este tiempo, hemos experimentado aciertos y desafíos, momentos de alegría y tristeza. La memoria de aquellos docentes pioneros que forjaron nuestro camino sigue inspirándonos hasta el dia de hoy. Nos enorgullece continuar su legado, comprometiéndonos a seguir brindando una educación de calidad y asi expandiendo su [Historia](Historia/_index.md).
 
-![Torre1](/imgs/Torre1.png)
+![Torre1](https://i.imghippo.com/files/req4r1716925430.png)
 
 #### Especialidades
 
