@@ -3,7 +3,9 @@ title = "Especialidades"
 weight = 2
 description = "Especialidades de la ET12"
 preview = "/imgs/Especialidades.png"
-images=   "/imgs/Especialidades.png"
+images = [
+  "/imgs/Especialidades.png"
+]
 tags = [
   "computación",
   "electronica",
