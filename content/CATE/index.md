@@ -4,6 +4,9 @@ weight = 12
 preview = "/imgs/cate.jpg"
 description = "Información sobre el CATE en la ET12"
 tags = [ "Ciclo básico" ]
+images = [ 
+  "/imgs/cate.jpg"
+]
 keywords = [
   "acompañamiento escolar",
   "caba",
