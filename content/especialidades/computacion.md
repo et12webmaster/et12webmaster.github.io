@@ -3,6 +3,8 @@ title: Computacion
 date: 2023-04-25T16:34:18-03:00
 description: Especialidad Computación en la ET12
 preview: /imgs/computacion.svg
+images:  
+    - /imgs/computacion700.svg
 tags:
     - especialidad
     - computación
