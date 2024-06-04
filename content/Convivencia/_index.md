@@ -3,6 +3,8 @@ title: Convivencia
 weight: 5
 description: Reglas de Convivencia en la ET12
 preview: /imgs/Banner Convivencia.png
+images:
+    - /imgs/Banner Convivencia.png
 tags:
     - Convivencia
 keywords:
