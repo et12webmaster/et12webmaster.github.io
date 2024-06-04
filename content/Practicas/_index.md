@@ -4,6 +4,10 @@ weight = 3
 description = "Carta de Presentacion de la ET12"
 tags = [ "prácticas", "especialidad" ]
 keywords = [ "et12", "practicas", "san martin", "carta presentacion" ]
+preview = "/imgs/Especialidades.png"
+images=[
+    "/imgs/Especialidades.png"
+]
 +++
 
 - Son actividades formativas que entraman los contenidos curriculares, los perfiles profesionales de los/as estudiantes con los desafíos del sector socio-productivo.
@@ -23,9 +27,9 @@ keywords = [ "et12", "practicas", "san martin", "carta presentacion" ]
 
  En la ETN°12 contamos con tres especialidades:
 
-- Electricidad
-- Electrónica
-- Computación 
+- [Electricidad](especialidades/electricidad.md)
+- [Electronica](especialidades/electronica.md)
+- [Computación](especialidades/computacion.md) 
 
 ### Marco Normativo
 ###### Marco Normativo Nacional

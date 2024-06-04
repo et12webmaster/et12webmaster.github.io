@@ -15,7 +15,7 @@ keywords:
 ---
 ### Misión
 
-Este sitio fue creado por alumnos de 6°8° de Computación Ciclo 2023 bajo el marco de la materia Practicas Profesionalizantes respondiendo a la demanda de facilitar la información de nuestra querida Institución entre sus actores y su comunidad.
+Este sitio fue creado por alumnos de 6°8° de Computación Ciclos 2023/2024 bajo el marco de la materia Practicas Profesionalizantes respondiendo a la demanda de facilitar la información de nuestra querida Institución entre sus actores y su comunidad.
 
 ### Alcance
 

@@ -2,6 +2,8 @@
 title: Reparación de Computadoras
 description: "Ofrecemos servicios de reparación de computadoras a través de una estructura de empresa simulada. "
 date: 2024-05-02T14:42:42.304Z
+images:
+    - /imgs/folletoRC.png
 keywords:
     - computacion
     - et12

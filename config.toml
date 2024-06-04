@@ -13,6 +13,7 @@ ordersectionsby = 'weight'
 [params]
   themeVariant = ['auto','Claro','Oscuro']
   collapsibleMenu = true
+  images=['/imgs/et12.svg']
 
 [outputs]
   home = ["HTML", "RSS", "SEARCH", "SEARCHPAGE"]

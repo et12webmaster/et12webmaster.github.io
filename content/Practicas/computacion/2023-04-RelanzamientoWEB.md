@@ -2,6 +2,8 @@
 title: Relanzamiento de la página WEB
 description: Trabajamos en el relanzamiento de la página WEB de la escuela, con un nuevo diseño, secciones y funcionalidades.
 date: 2023-03-06T14:42:42.000Z
+images:
+    - /imgs/Relanzamiento.jpg
 keywords:
     - computacion
     - et12
