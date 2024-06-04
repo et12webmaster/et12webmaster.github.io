@@ -4,9 +4,6 @@ weight = 11
 description = "Contacto de la ET12"
 preview = "/imgs/tec12.jpg"
 tags = [ ]
-images = [
-    "/imgs/tec12.jpg"
-]
 keywords = [ "email", "et12", "san martin", "telefono", "direccion" ]
 +++
 
