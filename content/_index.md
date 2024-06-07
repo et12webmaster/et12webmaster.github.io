@@ -3,6 +3,8 @@ title: ET12 DE1 - "Libertador Gral. José de San Martín"
 description: Introduccion a la ET12
 preview: /imgs/EscuelaWEB6.jpg
 archetype: home
+images:
+    - /imgs/EscuelaWEB6.jpg
 tags: []
 keywords:
     - et12
@@ -23,7 +25,7 @@ Desde aquel lejano Marzo de 1936, la Escuela Técnica Nº 12 "Libertador General
 
 #### Especialidades
 
-En nuestra escuela, ofrecemos tres especialidades clave para el desarrollo futuro de los estudiantes. En [Electricidad](especialidades/electricidad.md) aprendemos a hacer instalaciones electricas, distribuir energía y manejo del equipo electrico. La especialidad de [Electronica](especialidades/electronica.md) nos enfocamos en los circuitos electrónicos y comunicación. En [Computacion](especialidades/computacion.md) exploramos el mundo de la programacion, tambien aprendemos sobre como armar y reparar el hardware de una computadora.
+En nuestra escuela, ofrecemos tres especialidades clave para el desarrollo futuro de los estudiantes. En [Electricidad](especialidades/electricidad.md) aprendemos a hacer instalaciones electricas, distribuir energía y manejo del equipo electrico. La especialidad de [Electronica](especialidades/electronica.md) nos enfocamos en los circuitos electrónicos y comunicación. En [Computación](especialidades/computacion.md) exploramos el mundo de la programacion, tambien aprendemos sobre como armar y reparar el hardware de una computadora.
 
 
 ![Especial](/imgs/Especialidades.png)
