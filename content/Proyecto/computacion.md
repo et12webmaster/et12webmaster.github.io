@@ -12,3 +12,4 @@ keywords:
     - san martin
     - proyectos
 ---
+![Banner Proyecto Computacion](/imgs/proyectocomputacion.png)
