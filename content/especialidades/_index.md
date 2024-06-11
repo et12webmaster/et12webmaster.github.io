@@ -22,6 +22,8 @@ keywords = [
 ]
 +++
 
+![Especial](/imgs/Especialidades.png)
+
 La Escuela ET12 hace enfoque en las especialidades que marcan el camino hacia el futuro. Nuestro programa educativo ofrece a los estudiantes la oportunidad de explorar y dominar tres áreas especializadas: electricidad, electrónica y computación.
 
 En el campo de la electricidad, nuestros estudiantes aprenden los principios fundamentales de la generación, transmisión y distribución de energía eléctrica. A través de un enfoque teórico y práctico, adquieren habilidades para diseñar sistemas eléctricos eficientes, instalar y mantener equipos eléctricos, y solucionar problemas relacionados con la electricidad.
