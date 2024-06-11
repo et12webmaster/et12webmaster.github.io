@@ -1,0 +1,4 @@
+{{ if .PublishDate }} <!--Verifica si la fecha de publicación existe en los metadatos-->
+    <!--Si tiene la PublishDate, entonces crea una linea de texto mostrando ese metadato-->
+    <p style="color: gray;"><i>{{ .PublishDate | time.Format "02 de January del 2006" }}</i></p> 
+{{ end }}
