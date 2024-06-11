@@ -118,3 +118,6 @@ En esta carpeta se encuentran los PDF's descriptivos de el plan de estudio de ca
 
 
 [Más información](https://gohugo.io/content-management/static-files/)
+
+## Otras aclaraciones
+Dentro de la carpeta _partials_ está el partial "fecha.html", el cual se encarga de obtener de metadato fecha de los artículos de la página para colocarla como parte del mismo. La fecha aparece solo si dicho artículo tiene PubishDate o Date en el apartado de los metadatos.

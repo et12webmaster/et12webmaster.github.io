@@ -2,25 +2,25 @@
 <script src="https://kit.fontawesome.com/7a864820bd.js" crossorigin="anonymous"></script>
 
 <div class="share-button">
-  Compartir
   <br>
-
-  <a href="https://api.whatsapp.com/send?text={{ .Page.Description }} - {{ .Page.Permalink }}" target="_blank" id="compartir-whatsapp" rel="noopener">
+  <a href="https://api.whatsapp.com/send?text={{ .Page.Description }} - {{ .Page.Permalink }}" target="_blank" id="compartir-whatsapp" rel="noopener" title="Compartir en WhatsApp">
     <i class="fa-brands fa-whatsapp fa-beat"></i>
   </a>
   
-  <a href="https://t.me/share/url?url={{ .Page.Permalink }}&text={{ .Page.Description }}" target="_blank" id="compartir-telegram" rel="noopener">
+  <a href="https://t.me/share/url?url={{ .Page.Permalink }}&text={{ .Page.Description }}" target="_blank" id="compartir-telegram" rel="noopener" title="Compartir en Telegram">
     <i class="fa-brands fa-telegram fa-beat"></i>
   </a>
   
-  <a href="https://www.facebook.com/sharer/sharer.php?u={{ .Page.Permalink }}" target="_blank" id="compartir-facebook" rel="noopener">
+  <a href="https://www.facebook.com/sharer/sharer.php?u={{ .Page.Permalink }}" target="_blank" id="compartir-facebook" rel="noopener" title="Compartir en Facebook">
     <i class="fa-brands fa-facebook fa-beat"></i>
   </a>
   
-  <a href="https://www.reddit.com/submit?url={{ .Page.Permalink }}"  target="_blank" id="compartir-reddit" rel="noopener">
+  <a href="https://www.reddit.com/submit?url={{ .Page.Permalink }}"  target="_blank" id="compartir-reddit" rel="noopener" title="Compartir en Reddit">
     <i class="fa-brands fa-reddit fa-beat"></i>
   </a>
-  <a href="https://twitter.com/intent/tweet?text={{ .Page.Description }}&url={{ .Page.Permalink }}" target="_blank" id="compartir-x" rel="noopener">
+
+  <a href="https://twitter.com/intent/tweet?text={{ .Page.Description }}&url={{ .Page.Permalink }}" target="_blank" id="compartir-x" rel="noopener" title="Compartir en X">
     <i class="fa-brands fa-x fa-beat"></i>
   </a>
+
 </div>

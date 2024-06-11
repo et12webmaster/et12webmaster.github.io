@@ -28,4 +28,5 @@
   --BOX-CAPTION-color: rgba( 255, 255, 255, 1 ); /* text color of colored box titles */
   --BOX-BG-color: rgba( 255, 255, 255, .833 ); /* background color of colored boxes */
   --BOX-TEXT-color: rgba( 16, 16, 16, 1 ); /* text color of colored box content */
+  --HOVER-SHARE-color: #c5c4c7; /*hoverd color of share buttons*/
 }
