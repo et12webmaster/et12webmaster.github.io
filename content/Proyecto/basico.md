@@ -12,3 +12,4 @@ keywords:
     - san martin
     - proyectos
 ---
+![Banner Proyecto Basico](/imgs/proyectobasico.png)
