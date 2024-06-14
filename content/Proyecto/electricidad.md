@@ -12,3 +12,4 @@ keywords:
     - san martin
     - proyectos
 ---
+![Banner Proyecto Electricidad](/imgs/proyectoelectricidad.png)
