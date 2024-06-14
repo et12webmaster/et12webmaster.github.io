@@ -1,7 +1,6 @@
 ---
 title: Sanciones que se aplicaran a una Falta
 weight: 6
-date: 2023-04-25T16:34:18-03:00
 description: Sanciones que se aplicaran a una falta en la ET12
 tags:
     - convivencia
