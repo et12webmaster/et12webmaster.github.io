@@ -34,7 +34,14 @@
 #compartir-reddit{
   color: orangered;
 }
-  
-  
+
+h1{
+  font-weight: 300;
+}
+@media(max-width: 760px){
+  h1{
+    font-size: 8vmin;
+  }
+}
   
   
