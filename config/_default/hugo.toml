@@ -2,9 +2,7 @@ baseURL = 'https://rainbow-dango-397e43.netlify.app/'
 languageCode = 'es-ar'
 defaultContentLanguage = 'es'
 title = 'ET12'
-googleAnalytics = 'G-367796390'
 ordersectionsby = 'weight'
-
 
 [module]
 [[module.imports]]
