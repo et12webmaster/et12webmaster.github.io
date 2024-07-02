@@ -30,7 +30,7 @@ Las normas, regulan las interacciones entre todos los miembros de la Comunidad E
 - No retirarse del Aula, Taller o Laboratorios en horas de clase, y/o de la Escuela sin autorización.
 
 
-##### **DEBERES DE LOS ALUMNOS** #####
+##### **DERECHOS DE LOS ALUMNOS** #####
 
 - Ser respetados en su integridad y dignidad personal.
 - Recibir educación en cantidad y calidad, tal que posibiliten el desarrollo de sus capacidades, habilidades, juicio crítico y sentidos de responsabilidad y solidaridad social.

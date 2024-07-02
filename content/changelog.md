@@ -12,6 +12,7 @@ keywords:
 ---
 ## v3
 
+* Creación de Sección PIA ([Elio Aucachi](#ElioAucachi), [Axel Cruz](#AxelMarianoCruz))
 * Creación de sección CATE, Proyectos y Practicas ([Vanina Condorpocco](#VaninaCondorpocco), [Mariangel Valerio](#MariangelValerio), [Iliana Duarte](#IlianaDuarte))
 * Documentación de las carpetas ([Vanina Condorpocco](#VaninaCondorpocco), [Mariangel Valerio](#MariangelValerio), [Iliana Duarte](#IlianaDuarte), [Elio Aucachi](#ElioAucachi), [Axel Cruz](#AxelCruz))
 * Más información para el home([Elio Aucachi](#ElioAucachi), [Axel Cruz](#AxelCruz))

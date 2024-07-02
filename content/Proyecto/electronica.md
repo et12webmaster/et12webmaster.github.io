@@ -11,4 +11,4 @@ keywords:
     - san martin
     - proyectos
 ---
-![Banner Proyecto Electronica](/imgs/proyectoelectronica.png)
+![Banner Proyecto Electronica](/imgs/proyectoelectronica.png?lightbox=false)

@@ -22,7 +22,7 @@ keywords:
 
 - Se sancionará con un Apercibimiento Escrito.
 - Al notificarse el alumno, se le dará la oportunidad de realizar su descargo también por escrito, y este se adosará a su ficha.
-- Ante una falta grave, o su reiteración, el Rector convocará a una reunión del Consejo de Convivencia, quien sugerirá, la sanción a aplicar.
+- Ante una falta grave, o su reiteración, el Rector convocará a una reunión del [Consejo de Convivencia](./consejos.md), quien sugerirá, la sanción a aplicar.
 - La misma se determinará en función de la transgresión cometida, sus consecuencias y los valores puestos en juego.
 - Asimismo se considerarán las características particulares del alumno (edad, historia personal/familiar, antecedentes escolares y otros).
 - Considerando el informe del Consejo, el Rector del Establecimiento, resolverá la pertinencia de la Sanción solicitada y decidirá sobre su aplicación.
