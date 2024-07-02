@@ -1,7 +1,7 @@
 ---
 title: Electronica
 description: Especialidad Electronica en la ET12
-preview: /imgs/electronica.svg
+preview: /imgs/electronica700.svg
 images:
     - /imgs/electronica700.svg
 tags:

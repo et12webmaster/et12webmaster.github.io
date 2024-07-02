@@ -2,7 +2,7 @@
 title: Electronica
 date: 2024-04-30T18:22:56.635Z
 description: Prácticas Profesionalizantes de Electronica en la ET12
-preview: /imgs/electronica.svg
+preview: /imgs/electronica700.svg
 draft: true
 tags:
     - Prácticas
