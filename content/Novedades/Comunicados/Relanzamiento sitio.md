@@ -31,7 +31,7 @@ Hugo es un generador de sitios web estáticos de código abierto basado en el le
 
 - Mejora en la funcionalidad y la experiencia del usuario. 
 - Destacamos a los colaboradores en el changelog, mostrando un espíritu colaborativo.
-- Incluimos información actualizada sobre mejoras y añadimos botones para compartir nuestro contenido en WhatsApp, Reddit, Telegram y X. 
+- Incluimos información actualizada sobre mejoras y añadimos botones para compartir nuestro contenido en WhatsApp, Reddit, Telegram, Facebook y X. 
 - En lo referente al diseño, el menú ahora permite cambiar el tema y se incluyeron nuevos íconos, mejorando aspectos como estética, comodidad y comprensión visual. 
 - Agregamos nuevas secciones informativas como [Comunicados](./_index.md), [Novedades](../../Novedades/_index.md) y [CATE](../../CATE/index.md) para que los estudiantes estén al tanto de actividades e información importante dentro del entorno escolar. 
 - La nuevas secciones de [Proyectos](../../Proyecto/_index.md), [Prácticas Profesionalizantes](../../Practicas/_index.md) y [Deportes](../../deportes/_index.md) visibilizan los proyectos y actividades extracurriculares que se llevan a cabo en todas nuestras áreas de estudio año tras año, ofreciendo una visión más completa sobre lo que nuestra escuela ofrece. 

@@ -1,7 +1,6 @@
 ---
 title: Faltas
 weight: 5
-date: 2023-04-25T16:34:18-03:00
 description: Categorias de Faltas de la ET12
 tags:
   - convivencia

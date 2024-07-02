@@ -1,6 +1,6 @@
 [build]
-  command = "hugo --noChmod"
+  command = "hugo --noChmod --environment production --gc --minify"
   publish = "public"
 
 [build.environment]
-  HUGO_VERSION = "0.123.7"
+  HUGO_VERSION = "0.127.0"

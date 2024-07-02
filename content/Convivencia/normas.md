@@ -1,7 +1,6 @@
 ---
 title: Normas
 weight: 2
-date: 2023-04-25T16:34:18-03:00
 description: Normas de convivencia ET12
 tags:
     - convivencia
