@@ -112,7 +112,7 @@ Ir  a “Buscar Escuela”:
 1. Turno o Jornada: colocar “sin definir”
 2. Comuna:  Comuna 1
 3. Barrio: Retiro
-4. Districto Escular: Districto 1
+4. Distrito Escolar: Distrito 1
 5. Escuela: Elegir presionado la flecha (triángulo negro) la opción:
 6. “ESC.TEC. Nº 12 DE 01 GRAL. JOSÉ DE SAN MARTÍN (Av. del Libertador 238)”
 7. (hacer click en la opción)
