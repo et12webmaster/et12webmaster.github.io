@@ -20,17 +20,17 @@ keywords = [
 #### **¿Aprobaste Todo?**
 ###### Participas de los talleres PIA Multidisciplinares:
 
--  **Ajedres**: Varios niveles.
--  **Salidas didacticas**: Centro Cultural recoleta y Museo de Telecomunicaciones.
+-  **Ajedrez**: Varios niveles.
+-  **Salidas didácticas**: Centro Cultural recoleta y Museo de Telecomunicaciones.
 -  **Taller de impresión 3D.**  
 -  **Taller de juegos retro por computadora.**
--  **Clinicas de Basquet, Futbol y Dodgeball.**
+-  **Clínicas de Basquet, Futbol y Dodgeball.**
 -  **Caminatas.**
 -  Y mucho mas...
 
 
 #### **¿Te quedo alguna materia?**
-###### Seguis Trabajando con tu Profe en el aula:
+###### Seguís Trabajando con tu Profe en el aula:
 
 -  **Aprovechás** al máximo el tiempo en clase.
 -  **Tenés más días** para recuperar: desde el 1 hasta el 12 de julio.
@@ -38,7 +38,7 @@ keywords = [
 
 #### **Inscripción**
 
-Para inscribirse escanea el codigo QR de los folletos en la cartelera de la escuela.
+Para inscribirse escanea el código QR de los folletos en la cartelera de la escuela.
 
 {{% notice style="info" icon="triangle-exclamation" style="orange" title="Importante"%}}
  Aprovechá en tiempo para entregar trabajos o recuperar lo que no hiciste. Así te queda tiempo para participar de los talleres PIA. En clase o en los talleres la idea es seguir aprendiendo. ¡Contamos con vos!
