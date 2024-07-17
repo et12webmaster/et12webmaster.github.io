@@ -4,3 +4,4 @@
 
 [build.environment]
   HUGO_VERSION = "0.127.0"
+  GO_VERSION = "1.22.5"
