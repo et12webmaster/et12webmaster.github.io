@@ -37,7 +37,7 @@ Hugo es un generador de sitios web estáticos de código abierto basado en el le
 - La nuevas secciones de [Proyectos](../../Proyecto/_index.md), [Prácticas Profesionalizantes](../../Practicas/_index.md) y [Deportes](../../deportes/_index.md) visibilizan los proyectos y actividades extracurriculares que se llevan a cabo en todas nuestras áreas de estudio año tras año, ofreciendo una visión más completa sobre lo que nuestra escuela ofrece. 
 - Extraemos datos dinámicos de archivos JSON, fusionando agilidad estática con versatilidad dinámica.
 - Y lo más emocionante: mantenemos nuestro sitio activo sin hosting dedicado, optimizando rendimiento y recursos.
-- En resumen, transformamos nuestra plataforma en un espacio interactivo y # eficiente, comprometidos con una experiencia en constante evolución para nuestros usuarios.
+- En resumen, transformamos nuestra plataforma en un espacio interactivo y eficiente, comprometidos con una experiencia en constante evolución para nuestros usuarios.
 
 > Si somos libres, todo nos sobra.
 > <cite>Lib. Gral. José de San Martín</cite>
