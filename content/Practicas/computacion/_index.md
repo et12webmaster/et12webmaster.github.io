@@ -1,6 +1,5 @@
 ---
 title: Computacion
-date: 2024-04-30T18:22:56.635Z
 preview: /imgs/computacion700.svg
 description: Prácticas Profesionalizantes de Computación en la ET12
 tags:
