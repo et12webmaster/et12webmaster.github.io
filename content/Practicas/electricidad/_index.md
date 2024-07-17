@@ -2,7 +2,6 @@
 title: Electricidad
 description: Prácticas Profesionalizantes de Electricidad en la ET12
 preview: /imgs/electricidad.svg
-draft: true
 tags:
     - Prácticas
     - Electricidad
@@ -25,8 +24,8 @@ Estas funciones son:
 
 - Uso de herramientas CAD. 
 {{% /notice %}}
-### Nuestras práticas 
 
 <!--
+### Nuestras práticas 
 TODO: Agregar Children para sub-secciones
 -->
