@@ -4,6 +4,7 @@ weight = 4
 description = "Proyectos que se realizan en la ET12"
 tags = [ "Proyectos" ]
 keywords = [ "et12", "san martin", "proyectos" ]
+draft = true
 +++
 ![Proyectos Básico](/imgs/proyectobasico.png?lightbox=false)
 

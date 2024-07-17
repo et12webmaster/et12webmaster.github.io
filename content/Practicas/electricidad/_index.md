@@ -2,7 +2,6 @@
 title: Electricidad
 description: Prácticas Profesionalizantes de Electricidad en la ET12
 preview: /imgs/electricidad.svg
-draft: true
 tags:
     - Prácticas
     - Electricidad
@@ -14,10 +13,19 @@ keywords:
 ---
 ![Banner Proyecto Electricidad](/imgs/proyectoelectricidad.png?lightbox=false)
 {{% notice style="info" title="Perfil Técnico en Electricidad" icon="bolt" style="red"%}}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+Los alumnos del último año de la especialidad Electricidad están capacitados para realizar prácticas en distintas funciones vinculadas a la electricidad, tanto a nivel domiciliario como industrial o comercial. 
+Estas funciones son:
+
+- Montaje de tableros eléctricos, tanto de protecciones como de maniobras de máquinas (monofásicas, trifásicas y de CC).
+
+- Cálculo, diseño y montaje de instalaciones eléctricas de baja tensión.
+
+- Automatización de procesos industriales a través de controladores lógicos programables. 
+
+- Uso de herramientas CAD. 
 {{% /notice %}}
-### Nuestras práticas 
 
 <!--
+### Nuestras práticas 
 TODO: Agregar Children para sub-secciones
 -->

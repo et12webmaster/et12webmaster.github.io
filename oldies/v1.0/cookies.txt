@@ -1,4 +1,0 @@
-# HTTrack Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-www.baitec.buenosaires.gob.ar	TRUE	/	FALSE	1999999999	f5avraaaaaaaaaaaaaaaa_session_	CONKDACIGDCGPEOLLOKHKKGEAODPJENBHFEEDINCCFEGPDOBDCKJAKENNHFLFCJNBFCDJMNPAJFADOKFENJANGDNIIGLEDLLJOPMHMOJBCPAFOICNKHNFMKCEANKCHDP
-
