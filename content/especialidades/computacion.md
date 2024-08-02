@@ -26,8 +26,6 @@ El Técnico en Computación de Nivel Secundario será capaz de:
 
 {{% button href="https://drive.google.com/file/d/1mieJOvSjQPsgI-RVrrK468mADBr0vdcR/view?usp=sharing" icon="download" style="blue"%}}Bajate el plan de estudio{{% /button %}}
 
-
-{{% notice style="info" icon="triangle-exclamation" style="orange" title="Nota"%}}
-A partir del Ciclo 2023 el ingreso a esta Especialidad en el turno diurno es por promedio
+{{% notice style="info" icon="fa-solid fa-circle-info" style="orange" title="Información"%}}
+La especialidad se dicta en los turnos: **Mañana**, **Tarde**, **Noche**.
 {{% /notice %}}
-
