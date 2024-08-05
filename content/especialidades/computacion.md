@@ -23,7 +23,6 @@ El Técnico en Computación de Nivel Secundario será capaz de:
 - Actuar en todos los casos bajo las normativas de seguridad vigentes.
 - Desempeñarse profesionalmente en relación de dependencia o mediante emprendimientos económicos-productivos en forma individual o asociativa.
 
-
 {{% button href="https://drive.google.com/file/d/1mieJOvSjQPsgI-RVrrK468mADBr0vdcR/view?usp=sharing" icon="download" style="blue"%}}Bajate el plan de estudio{{% /button %}}
 
 {{% notice style="info" icon="fa-solid fa-circle-info" style="orange" title="Información"%}}
