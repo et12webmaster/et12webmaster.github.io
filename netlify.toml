@@ -1,7 +1,7 @@
+[build.environment]
+  GO_VERSION = "1.22.5"
+  HUGO_VERSION = "0.131.0"
+
 [build]
   command = "hugo --noChmod --environment production --gc --minify"
   publish = "public"
-
-[build.environment]
-  HUGO_VERSION = "0.127.0"
-  GO_VERSION = "1.22.5"
