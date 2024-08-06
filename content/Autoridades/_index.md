@@ -11,7 +11,7 @@ keywords = [ "abanderados", "autoridades", "et12", "san martin", "rector" ]
 +++
 
 ![Banner Autoridades](/imgs/Banner%20Autoridades.png)
-
+{{<estilo-autoridades>}}
 {{<autoridades>}}
 
 # Abanderados
