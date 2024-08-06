@@ -39,3 +39,6 @@ El Técnico en Electrónica de Nivel Secundario será capaz de:
 
 {{% button href="https://drive.google.com/file/d/1lPt6qrmoZgL4mn9Mdz8slXsaoX_WGata/view?usp=sharing" icon="download" style="blue"%}}Bajate el plan de estudio{{% /button %}}
 
+{{% notice style="info" icon="fa-solid fa-circle-info" style="orange" title="Información"%}}
+La especialidad se dicta en los turnos: **Mañana** y **Tarde**.
+{{% /notice %}}
