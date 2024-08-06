@@ -1,5 +1,5 @@
 +++
-title = "CATE en la 12"
+title = "CATE en la ET12"
 weight = 12
 preview = "/imgs/cate.jpg"
 description = "Información sobre el CATE en la ET12"
