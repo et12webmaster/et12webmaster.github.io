@@ -1,6 +1,5 @@
 ---
 title: Computacion
-draft: true
 description: Proyectos de Computación en la ET12
 tags:
     - Computación
@@ -11,4 +10,9 @@ keywords:
     - san martin
     - proyectos
 ---
+
 ![Banner Proyecto Computacion](/imgs/proyectocomputacion.png?lightbox=false)
+
+### Proyectos
+
+{{% children sort="publishdate" description="true" style="h6"%}}
