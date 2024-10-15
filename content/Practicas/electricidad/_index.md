@@ -2,6 +2,7 @@
 title: Electricidad
 description: Prácticas Profesionalizantes de Electricidad en la ET12
 preview: /imgs/electricidad.svg
+weight: 3
 tags:
     - Prácticas
     - Electricidad
