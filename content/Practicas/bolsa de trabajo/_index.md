@@ -17,7 +17,7 @@ keywords:
 ---
 ![Banner Bolsa de Trabajo](/imgs/banner-bolsadetrabajo.png?lightbox=false)
 
-Si sos alumno egresado de nuestra institución y estás en busca de nuevas oportunidades laborales podés hacernos llegar tu CV través de nuestra Bolsa de Trabajo para ser considerado en futuras vacantes.
+Si sos alumno egresado de nuestra institución y estás en busca de nuevas oportunidades laborales podés hacernos llegar tu CV través de nuestra Bolsa de Trabajo (**practicaset12@gmail.com**) para ser considerado en futuras vacantes.
 
 {{% notice style="primary" title="Importante" icon="warning"%}}
 - Debés tener el título con **todas las materias aprobadas**.
@@ -25,5 +25,5 @@ Si sos alumno egresado de nuestra institución y estás en busca de nuevas oport
 {{% /notice %}}
 
 
-{{% button href="mailto:practicaset12@gmail.com?subject=Bolsa%20de%20Trabajo%20-%20CV&body=Especialidad:%0AAño%20de%20egreso:" icon="envelope" style="primary" target="_blank" %}}Enviar email{{% /button %}}
+{{% button href="mailto:practicaset12@gmail.com?subject=Bolsa%20de%20Trabajo%20-%20CV&body=Especialidad:%0AAño%20de%20egreso:" icon="envelope" style="primary" target="_blank" %}}Enviar CV a la Bolsa de Trabajo{{% /button %}}
 
