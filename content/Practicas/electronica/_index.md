@@ -3,6 +3,7 @@ title: Electronica
 description: Prácticas Profesionalizantes de Electronica en la ET12
 preview: /imgs/electronica700.svg
 draft: true
+weight: 4
 tags:
     - Prácticas
     - electronica
