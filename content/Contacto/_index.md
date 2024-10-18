@@ -3,9 +3,12 @@ title = "Contacto"
 weight = 11
 description = "Contacto de la ET12"
 preview = "/imgs/tec12.jpg"
+images = ["/imgs/EscuelaWEB6.jpg"]
 tags = [ ]
 keywords = [ "email", "et12", "san martin", "telefono", "direccion" ]
 +++
+
+![Banner Escuela](/imgs/EscuelaWEB6.jpg)
 
 - {{% icon icon="envelope" %}} Email Institucional: **det_12_de1@bue.edu.ar**
 - {{% icon icon="envelope" %}} Email Oficina de Empleo (mail para empresas): **practicasET12@gmail.com**

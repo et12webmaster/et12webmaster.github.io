@@ -5,10 +5,10 @@ description = "Información del Club de Ciencias de la ET12"
 tags = [ "Club de Ciencias" ]
 keywords = [ "et12", "ciencias", "club", "info", "club de ciencias", "proyectos" ]
 preview = "/imgs/ciencia.png"
-images = ["/imgs/ciencia.png"]
+images = ["/imgs/bannerclubciencias.png"]
 +++
 
-![Club de Ciencias](/imgs/ciencia1.png)
+![Club de Ciencias](/imgs/bannerclubciencias.png)
 
 El Club de Ciencias Innovadores reúne a estudiantes apasionados por la tecnología y la creación. Integrando saberes de [electrónica](../especialidades/electronica.md), [computación](../especialidades/computacion.md), [electricidad](../especialidades/electricidad.md), herrería, carpintería y soldadura, desarrollan proyectos únicos que presentan en competencias y exposiciones en otras escuelas. Fomentan el trabajo en equipo, la resolución de problemas y la comunicación efectiva, transformando ideas en realidades y contribuyendo al avance de la ciencia y la tecnología en su comunidad.
 
