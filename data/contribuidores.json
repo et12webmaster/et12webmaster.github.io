@@ -146,6 +146,13 @@
         "cargo":"Alumno",
         "github":"NickVill1500",
         "id":"21"
+      },
+      {
+        "nombre":"Luis",
+        "apellido":"Armoa",
+        "cargo":"Alumno",
+        "github":"Armoaaa",
+        "id":"22"
       }
       
     ]

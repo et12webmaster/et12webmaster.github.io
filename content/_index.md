@@ -13,7 +13,7 @@ keywords:
     - introduccion
 ---
 
-![Banner Escuela](/imgs/EscuelaWEB6.jpg)
+![Logo 3D](/imgs/et12.gif)
 
 Bienvenido a la página de la Escuela Técnica N° 12 - Libertador Gral. José de San Martín, ubicada en la Av. Libertador 238 en la Ciudad Autónoma De Buenos Aires (CABA). Nuestro enfoque educativo se centra en tres áreas especializadas: [**electricidad**](./especialidades/electricidad.md), [**electrónica**](./especialidades/electronica.md) y [**computación**](./especialidades/computacion.md), preparando a nuestros estudiantes para el futuro. [**Contactanos**.](Contacto/_index.md)
 
