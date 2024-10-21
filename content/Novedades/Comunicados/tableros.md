@@ -2,6 +2,7 @@
 title: Tableros para Tecnología de la Representación
 description: Comunicado para la donacion de tableros
 publishDate: 2024-08-19
+ordersectionsby: date
 preview: /imgs/Banner Comunicado.png
 tags:
     - Ciclo Básico

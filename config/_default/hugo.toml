@@ -14,7 +14,7 @@ ordersectionsby = 'weight'
   images=['/imgs/et12.svg']
 
 [outputs]
-  home = ["HTML", "RSS", "SEARCH", "SEARCHPAGE"]
+  home = ["HTML", "RSS"]
 
 [[menu.shortcuts]]
 name = "<i class='fa-solid fa-microphone-lines'></i> Nuestra Radio"

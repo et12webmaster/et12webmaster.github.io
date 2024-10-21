@@ -2,6 +2,7 @@
 title: Relanzamiento sitio
 description: Informacion sobre las herramientas usadas para la actualización de la pagina
 date: 2023-08-17
+ordersectionsby: date
 preview: /imgs/computacion700.svg
 tags:
   - Computación
