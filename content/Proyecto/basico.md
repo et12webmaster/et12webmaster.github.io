@@ -1,4 +1,5 @@
 ---
+menuPre : '<i class="fa-solid fa-pen-ruler"></i> '
 title: Basico
 description: Proyectos del nivel Basico
 draft: true

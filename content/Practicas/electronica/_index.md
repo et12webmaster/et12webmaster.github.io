@@ -1,4 +1,5 @@
 ---
+menuPre: '<i class="fa-solid fa-microchip"></i> '
 title: Electronica
 description: Prácticas Profesionalizantes de Electronica en la ET12
 preview: /imgs/electronica700.svg

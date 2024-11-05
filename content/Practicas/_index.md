@@ -1,4 +1,6 @@
 +++
+menuPre = '<i class="fa-solid fa-hammer"></i> '
+linktitle = "Prácticas Profs."
 title = "Prácticas Profesionalizantes"
 weight = 3
 description = "Carta de Presentacion de la ET12"

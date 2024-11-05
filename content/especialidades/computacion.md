@@ -1,4 +1,5 @@
 ---
+menuPre : '<i class="fa-solid fa-computer"></i> '
 title: Computacion
 description: Especialidad Computación en la ET12
 preview: /imgs/computacion.svg

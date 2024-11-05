@@ -1,4 +1,5 @@
 +++
+menuPre = '<i class="fa-regular fa-folder"></i> '
 title = "Proyectos"
 weight = 4
 description = "Proyectos que se realizan en la ET12"

@@ -1,4 +1,5 @@
 +++
+menuPre = '<i class="fa-solid fa-user-tie"></i> ' 
 title = "Autoridades"
 weight = 7
 preview = "/imgs/Banner Autoridades.png"

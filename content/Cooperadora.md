@@ -1,4 +1,5 @@
 +++
+menuPre = '<i class="fa-solid fa-hand-holding-hand"></i> '
 title = "Cooperadora"
 description = "Información sobre la cooperadora en la ET12"
 keywords = [

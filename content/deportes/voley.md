@@ -1,5 +1,6 @@
 ---
 title: Voley
+menuPre: '<i class="fa-solid fa-volleyball"></i> '
 description: Voley en la ET12
 preview: /imgs/red.jpg
 images:

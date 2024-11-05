@@ -1,4 +1,5 @@
 +++
+menuPre = '<i class="fa-solid fa-person-running"></i> '
 title = "Deportes"
 weight = 6
 description = "Deportes que se realizan en la ET12"

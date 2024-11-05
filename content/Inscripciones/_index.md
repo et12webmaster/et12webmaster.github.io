@@ -1,4 +1,5 @@
 +++
+menuPre = '<i class="fa-solid fa-pen"></i> '
 title = "Inscripciones"
 weight = 10
 description = "Como inscribirse a la ET12"

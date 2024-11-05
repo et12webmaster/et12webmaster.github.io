@@ -1,4 +1,5 @@
 +++
+menuPre = '<i class="fa-solid fa-circle-info"></i> '
 title = "Información Útil"
 weight = 9
 description = "Información Útil para los estudiantes y tutores"

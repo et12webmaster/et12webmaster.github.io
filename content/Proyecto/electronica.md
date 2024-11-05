@@ -1,4 +1,5 @@
 ---
+menuPre: '<i class="fa-solid fa-microchip"></i> '
 title: Electronica
 draft: true
 description: Proyectos de Electronica en la ET12

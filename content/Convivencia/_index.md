@@ -1,4 +1,5 @@
 ---
+menuPre : '<i class="fa-solid fa-people-carry-box"></i> '
 title: Convivencia
 weight: 5
 description: Reglas de Convivencia en la ET12

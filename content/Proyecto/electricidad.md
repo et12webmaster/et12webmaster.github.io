@@ -1,4 +1,5 @@
 ---
+menuPre : '<i class="fa-solid fa-bolt"></i> '
 title: Electricidad
 draft: true
 description: Proyectos de Electricidad de la ET12

@@ -1,4 +1,5 @@
 +++
+menuPre = '<i class="fa-regular fa-user"></i> '
 title = "Contacto"
 weight = 11
 description = "Contacto de la ET12"

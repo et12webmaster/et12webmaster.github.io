@@ -1,4 +1,5 @@
 ---
+menuPre: '<i class="fa-solid fa-bullhorn"></i> '
 title: Novedades
 weight: 1
 description: Novedades de la ET12

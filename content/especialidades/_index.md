@@ -1,4 +1,5 @@
 +++
+menuPre = '<i class="fa-solid fa-gears"></i> '
 title = "Especialidades"
 weight = 2
 description = "Especialidades de la ET12"

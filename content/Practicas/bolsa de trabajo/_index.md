@@ -1,4 +1,5 @@
 ---
+menuPre : '<i class="fa-solid fa-chart-line"></i> '
 title: Bolsa de Trabajo
 preview: /imgs/banner-bolsadetrabajo.png
 images : [ 

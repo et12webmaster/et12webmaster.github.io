@@ -1,4 +1,5 @@
 +++
+menuPre = '<i class="fa-solid fa-microscope"></i> '
 title = "Club de Ciencias"
 weight = 9
 description = "Información del Club de Ciencias de la ET12"
