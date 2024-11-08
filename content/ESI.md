@@ -60,6 +60,41 @@ Actualización docente "Alianza VIH-ESI Desafíos de hoy" en el Taller de educad
 
 - Reuniones de PROMOTORES/AS ESI ESTUDIANTILES de la escuela con los y las Referentes ESI.
 
+
+### Vínculos sin violencia
+
+- En el marco de las jornadas obligatorias a nivel nacional para todas las escuelas, que se establece a partir de la Ley N°27.234, con el objetivo que “estudiantes y docentes desarrollen y afiancen actitudes, saberes, valores y prácticas que contribuyan a prevenir y erradicar la violencia de género”.
+
+- Los lunes de octubre se realizaron talleres a cargo del grupo **Jakairá**, un programa de atención gratuita, dedicado a adolescentes en general y específicamente a adolescentes que son madres y padres y sus hijos/as.
+- Estuvieron coordinados por **Juana Cuneo**, **María Clara Ferguson** y **Cristian Cabrera**, destinado a los/as promotores ESI.
+Los promotores/as ESI que asistieron fueron:
+
+
+- **Luz** de 1º1º
+- **Gimena** y **Thiago** de 2º2º
+- **Enrique** y **Joaquín** de 1º4º
+- **Marisa** y **Valentina** de 1º5º
+- **Cristina** de 2º2º
+- **Hugo** y **Jesús** de 2º3º
+- **Joaquín** de 2º6º
+- **Jorge** de 3º1º
+- **Nayeli** y **Ludmila** de 3º2º
+- **Rocío** y **Yanina** de 3º5º
+- **Jenny** de 3º6º
+- **Daniel** de 3º7º
+- **Jhoselin** y **Dimas** de 3º8º
+- **Nahim** de 4º1º
+- **Bianca** y **Francisco** de 4º2º
+- **Agustín** de 5º1º
+- **Agustina** y **Claudia** de 5º2º.
+
+- Participaron también la Referente ESI **Valverde Carla** y el referente **Matías Juncos**.
+- Hablaron sobre el rol del Promotor/a ESI y su importancia.
+- Describieron y mostraron lo que es un folleto y sus distintos tipos, como objetivo de armar uno propio que exprese la "violencia" y cómo los interpela. Con el fin de que se pueda difundir el tema a los demás estudiantes de la escuela.
+- Se utilizó el Violentómetro, donde fueron explicando cada situación y los estudiantes comentaban si sucedió en la escuela o no. Los Promotores escribieron en unas hojas qué pensaban cuando escuchaban "violencia", luego trajeron recortes para la producción de los folletos.
+
+{{% button href=" https://drive.google.com/file/d/15ZgXj3bHWT5CpZj4I7LqkGjsYUb1oFoK/view?usp=sharing" icon="download" style="orange"%}}Bajate Fanzine - Sufro Violencia{{% /button %}}
+
 {{% notice style="info" title="Información a tener en cuenta"%}}
 
 Material para que puedan interiorizarse más: [**👉Haz Click Aqui👈**](https://buenosaires.gob.ar/sites/default/files/media/document/2021/10/18/dedb326fa1b8c9afa370dc0ad78d5fdb0f79990d.pdf).
