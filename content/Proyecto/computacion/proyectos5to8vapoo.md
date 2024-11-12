@@ -1,6 +1,7 @@
 ---
-title: Proyectos Computación 5°8°
-description: Proyectos de Laboratorio de 5°8° de 2024
+linktitle: Labo 5°8° 2024
+title: Proyectos de Labo. de Programación Orientado a Objetos 5°8°
+description: Proyectos de Labo de 5°8° de 2024
 tags:
     - Computación
     - Proyectos
