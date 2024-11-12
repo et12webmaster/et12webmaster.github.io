@@ -1,6 +1,7 @@
 +++
 menuPre = '<i class="fa-solid fa-book"></i> '
-title = "Historia"
+linktitle = "Historia"
+title = "Historia de la ET12"
 weight = 9
 description = "Historia de la ET12"
 tags = [ ]
