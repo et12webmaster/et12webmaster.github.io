@@ -14,4 +14,4 @@ keywords:
 
 Todo sobre nuestros comunicados oficiales.
 
-{{% children sort="publishdate" %}}
+{{% children %}}

@@ -26,5 +26,5 @@ Si sos alumno egresado de nuestra institución y estás en busca de nuevas oport
 {{% /notice %}}
 
 
-{{% button href="mailto:practicaset12@gmail.com?subject=Bolsa%20de%20Trabajo%20-%20CV&body=Especialidad:%0AAño%20de%20egreso:" icon="envelope" style="primary" target="_blank" %}}Enviar CV a la Bolsa de Trabajo{{% /button %}}
+{{% button href="mailto:practicaset12@gmail.com?subject=Bolsa%20de%20Trabajo%20-%20CV&body=Especialidad:%0AAño%20de%20egreso:" icon="envelope" style="primary" %}}Enviar CV a la Bolsa de Trabajo{{% /button %}}
 
