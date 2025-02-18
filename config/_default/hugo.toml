@@ -12,6 +12,7 @@ ordersectionsby = 'weight'
   themeVariant = ['auto','Claro','Oscuro']
   collapsibleMenu = true
   images=['/imgs/et12.svg']
+  hideAuthorDate = true
 
 [outputs]
   home = ["HTML", "RSS"]

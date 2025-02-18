@@ -104,7 +104,7 @@ Los Promotores E.S.I. estudiantiles que asistieron fueron:
 - Describieron y mostraron lo que es un folleto y sus distintos tipos, como objetivo de armar uno propio que exprese la "violencia" y cómo los interpela. Con el fin de que se pueda difundir el tema a los demás estudiantes de la escuela.
 - Se utilizó el Violentómetro, donde fueron explicando cada situación y los estudiantes comentaban si sucedió en la escuela o no. Los Promotores escribieron en unas hojas qué pensaban cuando escuchaban "violencia", luego trajeron recortes para la producción de los folletos.
 
-{{% button href=" https://drive.google.com/file/d/15ZgXj3bHWT5CpZj4I7LqkGjsYUb1oFoK/view?usp=sharing" icon="download" style="orange"%}}Bajate Fanzine - Sufro Violencia{{% /button %}}
+{{% button href="https://drive.google.com/file/d/15ZgXj3bHWT5CpZj4I7LqkGjsYUb1oFoK/view?usp=sharing" icon="download" style="orange"%}}Bajate Fanzine - Sufro Violencia{{% /button %}}
 
 {{% notice style="info" title="Información a tener en cuenta"%}}
 
