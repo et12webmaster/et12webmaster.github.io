@@ -108,7 +108,7 @@ Los Promotores E.S.I. estudiantiles que asistieron fueron:
 
 {{% notice style="info" title="Información a tener en cuenta"%}}
 
-Material para que puedan interiorizarse más: [**👉Haz Click Aqui👈**](https://buenosaires.gob.ar/sites/default/files/media/document/2021/10/18/dedb326fa1b8c9afa370dc0ad78d5fdb0f79990d.pdf).
+Material para que puedan interiorizarse más: [**👉Haz Click Aqui👈**](https://buenosaires.gob.ar/sites/default/files/media/document/2019/05/13/354f3e11dc6d939a6bf766512db590421a25c336.pdf).
 
 Para inscribirte como **PROMOTOR/A ESI ESTUDIANTIL** de la escuela busca los afiches en los centros de distribución.
 
