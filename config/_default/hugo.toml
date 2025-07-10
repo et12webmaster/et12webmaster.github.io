@@ -40,7 +40,7 @@ weight = 13
 
 [[menu.shortcuts]]
 name = "<i class='fa-solid fa-folder-open'></i> Changelog"
-url = "/changelog.md"
+url = "/changelog"
 weight = 14
 
 [[menu.shortcuts]]
