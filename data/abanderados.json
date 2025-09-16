@@ -1,23 +1,55 @@
 [
   {
-    "mencion": "Abanderado",
-    "nombre": "Francisco",
-    "apellido": "García",
-    "curso": "6°8°",
-    "especialidad": "Computación"
+    "ciclo": 2025,
+    "abanderados": [
+      {
+        "mencion": "Abanderado",
+        "nombre": "Francisco Agustín",
+        "apellido": "García",
+        "curso": "6°8°",
+        "especialidad": "Computación"
+      },
+      {
+        "mencion": "1° Escolta",
+        "nombre": "Leonardo",
+        "apellido": "Cheng",
+        "curso": "6°7°",
+        "especialidad": "Computación"
+      },
+      {
+        "mencion": "2° Escolta",
+        "nombre": "Carlos",
+        "apellido": "Bello",
+        "curso": "6°8°",
+        "especialidad": "Computación"
+      }
+    ]
   },
   {
-    "mencion": "1° Escolta",
-    "nombre": "Matias",
-    "apellido": "Gaona",
-    "curso": "6°2°",
-    "especialidad": "Electrónica"
-  },
-  {
-    "mencion": "2° Escolta",
-    "nombre": "Vanina Abril",
-    "apellido": "Condorpocco Blas",
-    "curso": "6°8°",
-    "especialidad": "Computación"
+    "ciclo": 2024,
+    "imagen": "https://i.postimg.cc/tJZZLn5R/IMG-20250916-150554-012.jpg",
+    "abanderados": [
+      {
+        "mencion": "Abanderada",
+        "nombre": "Mariangel",
+        "apellido": "Valerio",
+        "curso": "6°8°",
+        "especialidad": "Computación"
+      },
+      {
+        "mencion": "1° Escolta",
+        "nombre": "Matias",
+        "apellido": "Gaona",
+        "curso": "6°2°",
+        "especialidad": "Electrónica"
+      },
+      {
+        "mencion": "2° Escolta",
+        "nombre": "Vanina Abril",
+        "apellido": "Condorpocco Blas",
+        "curso": "6°8°",
+        "especialidad": "Computación"
+      }
+    ]
   }
 ]

@@ -17,6 +17,4 @@ keywords = [ "abanderados", "autoridades", "et12", "san martin", "rector" ]
 
 # Abanderados
 
-![Abanderados](/imgs/Abanderados.jpg "Nuestros abanderados 2024")
-
 {{<abanderados>}}

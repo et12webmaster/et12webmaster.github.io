@@ -1,5 +1,6 @@
 <link rel="stylesheet" type="text/css" href="/css/autoridades.css">
-{{range $.Site.Data.abanderados}}
+{{$actuales := index .Site.Data.abanderados 0}}
+{{range $actuales.abanderados}}
 <div >    
     <h5>{{.nombre}} {{.apellido}}</h5>
     <p>{{.mencion}}</p>
