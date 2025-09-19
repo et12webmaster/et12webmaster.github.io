@@ -1,0 +1,11 @@
+<div>
+    <h1>{{.titulo}}</h1>
+    {{ if .ciclo.imagen }}
+    <img src="{{.ciclo.imagen}}" alt="Abanderados del {{.ciclo.ciclo}}">
+    {{ end }}
+    {{range .ciclo.abanderados}}
+    <div>
+        {{ partial "partialAlumno" . }}
+    </div>
+    {{ end }}
+</div>

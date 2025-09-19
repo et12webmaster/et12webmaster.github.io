@@ -23,11 +23,12 @@
         "curso": "6°8°",
         "especialidad": "Computación"
       }
-    ]
+    ],
+    "imagen": "https://i.postimg.cc/k4KFvrJ7/2025.jpg"
   },
   {
     "ciclo": 2024,
-    "imagen": "https://i.postimg.cc/tJZZLn5R/IMG-20250916-150554-012.jpg",
+    "imagen": "https://i.postimg.cc/tJZZLn5R/2024.jpg",
     "abanderados": [
       {
         "mencion": "Abanderada",
