@@ -1,58 +1,56 @@
-{
-  "autoridades": [
-    {
-      "cargo": "Rector",
-      "titulo": "Prof.",
-      "nombre": "Pablo",
-      "apellido": "Climent"
-    },
-    {
-      "cargo": "Vicerrectora",
-      "titulo": "Prof.",
-      "nombre": "Giselle",
-      "apellido": "Volpe"
-    },
-    {
-      "cargo": "Regente T.Mañana",
-      "titulo": "Prof.",
-      "nombre": "Gabriela",
-      "apellido": "Simone"
-    },
-    {
-      "cargo": "Regente T.Tarde",
-      "titulo": "Prof.",
-      "nombre": "Daniel",
-      "apellido": "Campero"
-    },
-    {
-      "cargo": "Regente T.Noche",
-      "titulo": "Prof.",
-      "nombre": "Marcelo",
-      "apellido": "Grispino"
-    },
-    {
-      "cargo": "Sub-Regente",
-      "titulo": "Prof.",
-      "nombre": "Maria Laura",
-      "apellido": "Ferreyra"
-    },
-    {
-      "cargo": "Jefe Gral. Ens. Prácticas",
-      "titulo": "Prof.",
-      "nombre": "Jose",
-      "apellido": "Czernochivsky"
-    },
-    {
-      "cargo": "Secretario",
-      "titulo": "",
-      "nombre": "Sergio",
-      "apellido": "Sarmientos"
-    },
-    {
-      "cargo": "Pro Secretaria",
-      "titulo": "",
-      "nombre": "Claudia",
-      "apellido": "Falcon"
-    }
-  ]
-}
+[
+  {
+    "cargo": "Rector",
+    "titulo": "Prof.",
+    "nombre": "Pablo",
+    "apellido": "Climent"
+  },
+  {
+    "cargo": "Vicerrectora",
+    "titulo": "Prof.",
+    "nombre": "Giselle",
+    "apellido": "Volpe"
+  },
+  {
+    "cargo": "Regente T.Mañana",
+    "titulo": "Prof.",
+    "nombre": "Gabriela",
+    "apellido": "Simone"
+  },
+  {
+    "cargo": "Regente T.Tarde",
+    "titulo": "Prof.",
+    "nombre": "Carolina",
+    "apellido": "Krampitz"
+  },
+  {
+    "cargo": "Regente T.Noche",
+    "titulo": "Prof.",
+    "nombre": "Marcelo",
+    "apellido": "Grispino"
+  },
+  {
+    "cargo": "Sub-Regente",
+    "titulo": "Prof.",
+    "nombre": "Maria Laura",
+    "apellido": "Ferreyra"
+  },
+  {
+    "cargo": "Jefe Gral. Ens. Prácticas",
+    "titulo": "Prof.",
+    "nombre": "Jose",
+    "apellido": "Czernochivsky"
+  },
+  {
+    "cargo": "Secretario",
+    "titulo": "",
+    "nombre": "Sergio",
+    "apellido": "Sarmientos"
+  },
+  {
+    "cargo": "Pro Secretaria",
+    "titulo": "",
+    "nombre": "Florencia",
+    "apellido": "Asis"
+  }
+]

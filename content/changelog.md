@@ -26,7 +26,9 @@ keywords:
 
 * Actualización de las secciones ([Tomás Terrile]( #TomasTerrile), [Nayla Juarez]( #NaylaJuarez), [Armin Mercado]( #ArminMercado), [Brian Coria]( #BrianCoria), [Gonzalo Arancibia]( #GonzaloArancibia))
 
-* Diseño de banners ([Inti Irahola]( #IntiIrahola), [Nicolas Conteiro](#NickVill1500), [Iliana Duarte](#IlianaDuarte))
+* Diseño de banners ([Inti Irahola]( #IntiIrahola), [Nicolas Conteiro](#NicolasConteiro), [Iliana Duarte](#IlianaDuarte))
+
+* Creación de Sección Cooperadora ([Davis Mendoza](#DavisMendoza))
 
 
 

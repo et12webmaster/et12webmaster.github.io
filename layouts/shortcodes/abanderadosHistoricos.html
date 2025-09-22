@@ -1,0 +1,4 @@
+{{range $.Site.Data.abanderados}}
+{{ $parametro := dict "titulo" .ciclo "ciclo" .}}
+{{ partial "alumnosConTitulo" $parametro}}
+{{ end }}

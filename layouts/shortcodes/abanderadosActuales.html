@@ -1,0 +1,5 @@
+{{ $actuales := index .Site.Data.abanderados 0 }}
+{{ $parametro := dict "titulo" "Abanderados" "ciclo" $actuales}}
+{{ partial "alumnosConTitulo" $parametro}}
+<hr>
+<p id="footHistoricos">También podes ver nuestros <a href="abanderadoshistoricos/">Abanderados Históricos</a></p>

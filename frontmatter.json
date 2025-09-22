@@ -57,6 +57,208 @@
           }
         }
       }
+    },
+    {
+      "id": "abanderados",
+      "title": "Abanderados",
+      "file": "[[workspace]]/data/abanderados.json",
+      "fileType": "json",
+      "labelField": "ciclo",
+      "singleEntry": false,
+      "schema": {
+        "title": "Abanderados",
+        "type": "object",
+        "required": [
+          "ciclo",
+          "abanderados"
+        ],
+        "properties": {
+          "ciclo": {
+            "type": "number",
+            "title": "Ciclo"
+          },
+          "imagen": {
+            "type": "string",
+            "title": "URL imagen Abanderados"
+          },
+          "abanderados": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "mencion": {
+                  "type": "string",
+                  "title": "Mención"
+                },
+                "nombre": {
+                  "type": "string",
+                  "title": "Nombre"
+                },
+                "apellido": {
+                  "type": "string",
+                  "title": "Apellido"
+                },
+                "curso": {
+                  "type": "string",
+                  "title": "Curso"
+                },
+                "especialidad": {
+                  "type": "string",
+                  "title": "Especialidad"
+                }
+              },
+              "required": [
+                "mencion",
+                "nombre",
+                "apellido",
+                "curso",
+                "especialidad"
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "autoridades",
+      "title": "Autoridades",
+      "file": "[[workspace]]/data/autoridades.json",
+      "fileType": "json",
+      "labelField": "cargo",
+      "singleEntry": false,
+      "schema": {
+        "title": "Autoridad",
+        "type": "object",
+        "required": [
+          "cargo",
+          "nombre",
+          "apellido"
+        ],
+        "properties": {
+          "cargo": {
+            "type": "string",
+            "title": "Cargo"
+          },
+          "nombre": {
+            "type": "string",
+            "title": "Nombre"
+          },
+          "apellido": {
+            "type": "string",
+            "title": "Apellido"
+          },
+          "titulo": {
+            "type": "string",
+            "title": "Titulo"
+          }
+        }
+      }
+    },
+    {
+      "id": "clubes",
+      "title": "Clubes",
+      "file": "[[workspace]]/data/clubes.json",
+      "fileType": "json",
+      "labelField": "nombre",
+      "singleEntry": false,
+      "schema": {
+        "title": "Clubes",
+        "type": "object",
+        "required": [
+          "nombre",
+          "horario",
+          "ubicacion",
+          "descripcion"
+        ],
+        "properties": {
+          "nombre": {
+            "type": "string",
+            "title": "Nombre"
+          },
+          "horario": {
+            "type": "string",
+            "title": "Horario"
+          },
+          "ubicacion": {
+            "type": "string",
+            "title": "Ubicación"
+          },
+          "descripcion": {
+            "type": "string",
+            "title": "Descripción"
+          }
+        }
+      }
+    },
+    {
+      "id": "historia",
+      "title": "Historia",
+      "file": "[[workspace]]/data/historia.json",
+      "fileType": "json",
+      "labelField": "año",
+      "singleEntry": false,
+      "schema": {
+        "title": "Historia",
+        "type": "object",
+        "required": [
+          "año",
+          "historia"
+        ],
+        "properties": {
+          "año": {
+            "type": "string",
+            "title": "Año"
+          },
+          "imagen": {
+            "type": "string",
+            "title": "Nombre de la imagen en content/Historia"
+          },
+          "historia": {
+            "type": "string",
+            "title": "Historia (Texto)"
+          }
+        }
+      }
+    },
+    {
+      "id": "contribuidores",
+      "title": "Contribuidores",
+      "file": "[[workspace]]/data/contribuidores.json",
+      "fileType": "json",
+      "labelField": "github",
+      "singleEntry": false,
+      "schema": {
+        "title": "Contribuidores",
+        "type": "object",
+        "required": [
+          "nombre",
+          "apellido",
+          "cargo",
+          "id"
+        ],
+        "properties": {
+          "nombre": {
+            "type": "string",
+            "title": "Nombre"
+          },
+          "apellido": {
+            "type": "string",
+            "title": "Apellido"
+          },
+          "cargo": {
+            "type": "string",
+            "title": "Cargo"
+          },
+          "github": {
+            "type": "string",
+            "title": "Github"
+          },
+          "id": {
+            "type": "string",
+            "title": "Id"
+          }
+        }
+      }
     }
   ],
   "frontMatter.framework.startCommand": "hugo server -D --renderToMemory"

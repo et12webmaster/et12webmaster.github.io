@@ -15,8 +15,4 @@ keywords = [ "abanderados", "autoridades", "et12", "san martin", "rector" ]
 {{<estilo-autoridades>}}
 {{<autoridades>}}
 
-# Abanderados
-
-![Abanderados](/imgs/Abanderados.jpg "Nuestros abanderados 2024")
-
-{{<abanderados>}}
+{{<abanderadosActuales>}}
