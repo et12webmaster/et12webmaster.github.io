@@ -1,0 +1,13 @@
+{{range $.Site.Data.productos}}
+<div class="cards">
+
+   
+  <div class="card">
+    <img src="{{ .image }}" alt="{{ .name }}">
+    <h3>{{ .nombre }}</h3>
+    <p><strong>{{ .precio }}</strong></p>
+    <p>{{ .descripcion}}</p>
+    <a href="{{ .url }}" class="btn">Comprar</a>
+  </div>
+</div>
+{{ end }}
