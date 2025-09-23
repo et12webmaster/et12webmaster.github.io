@@ -1,9 +1,10 @@
 {{range $.Site.Data.historia}}
-<div>    
+<div>
     <h5>{{.año}}</h5>
     <p>{{.historia}}</p>
     {{if .imagen}}
-    <img src="{{.imagen }}" alt="Imagen del año {{ .año }}" style width="300" height="auto">
-{{ end }}
+    {{ $imagenMd := printf "![Imagen del año {{ .año }}](%s)" .imagen}}
+    {{ $imagenMd | markdownify }}
+    {{ end }}
 </div>
-{{end}} 
+{{end}}

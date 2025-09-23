@@ -30,6 +30,7 @@ keywords:
 
 * Creación de Sección Cooperadora ([Davis Mendoza](#DavisMendoza))
 
+* Abanderados Históricos ([Luis Duran](#LuisDuran))
 
 
 ## v2.2.1
