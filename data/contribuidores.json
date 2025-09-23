@@ -159,6 +159,13 @@
     "cargo": "Alumno",
     "github": "Sherklan12e",
     "id": "23"
+  },
+  {
+    "nombre": "Miguel",
+    "apellido": "Verduguez",
+    "cargo": "Alumno",
+    "github": "miguel2433",
+    "id": "24"
   }
   
 ]
