@@ -1,7 +1,8 @@
 <div>
     <h1>{{.titulo}}</h1>
     {{ if .ciclo.imagen }}
-    <img src="{{.ciclo.imagen}}" alt="Abanderados del {{.ciclo.ciclo}}">
+    {{ $imagenMd := printf "![Abanderados del {{.ciclo.ciclo}}](%s)" .ciclo.imagen}}
+    {{ $imagenMd | markdownify }}
     {{ end }}
     {{range .ciclo.abanderados}}
     <div>
