@@ -9,6 +9,8 @@ keywords:
     - versiones
     - changelog
 ---
+
+{{<estilo-galeria>}}
 ## v3
 
 * Logo animado ([Luis Armoa](#Armoaaa))
