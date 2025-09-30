@@ -10,8 +10,9 @@ keywords = [
 ]
 menuPre = '<i class="fa-solid fa-shirt"></i> '
 weight = 2
-+++
 
++++
+{{<estilo-galeria>}}
 # Merchandising de la Cooperadora
 Apoyá a la escuela comprando nuestros productos 😃  
 

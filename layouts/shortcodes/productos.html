@@ -1,13 +1,24 @@
-{{range $.Site.Data.productos}}
-<div class="cards">
+<div id="grid-container">
+  
+  
+  {{range $.Site.Data.productos}}
+    <div id="card-container" class="card-1">
+      <img src="{{ .ImageUrl }}" alt="{{ .name }}">
+      <h3>{{ .nombre }}</h3>
+      <p><strong>{{ .precio }}</strong></p>
+      <p>{{ .descripcion}}</p>
+      <a href="{{ .url }}" class="btn">Comprar</a>
+    </div>
 
-   
-  <div class="card">
-    <img src="{{ .image }}" alt="{{ .name }}">
-    <h3>{{ .nombre }}</h3>
-    <p><strong>{{ .precio }}</strong></p>
-    <p>{{ .descripcion}}</p>
-    <a href="{{ .url }}" class="btn">Comprar</a>
-  </div>
+  {{ end }}
 </div>
-{{ end }}
+<style>
+.card-1 img {
+    border-radius: 20px;
+
+}
+.card-1 {
+    margin-bottom: 50px;
+
+}
+</style>
