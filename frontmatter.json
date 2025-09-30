@@ -259,6 +259,42 @@
           }
         }
       }
+    },
+    {
+      "id": "productos",
+      "title": "Productos / Merchandising",
+      "file": "[[workspace]]/data/productos.json",
+      "fileType": "json",
+      "labelField": "nombre",
+      "singleEntry": false,
+      "schema": {
+        "title": "Producto",
+        "type": "object",
+        "required": [
+          "nombre",
+          "descripcion",
+          "ImageUrl",
+          "precio"
+        ],
+        "properties": {
+          "nombre": {
+            "type": "string",
+            "title": "Nombre"
+          },
+          "descripcion": {
+            "type": "string",
+            "title": "Descripcion"
+          },
+          "ImageUrl": {
+            "type": "string",
+            "title": "ImageUrl"
+          },
+          "precio": {
+            "type": "number",
+            "title": "Precio"
+          }
+        }
+      }
     }
   ],
   "frontMatter.framework.startCommand": "hugo server -D --renderToMemory"

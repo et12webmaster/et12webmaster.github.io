@@ -1,5 +1,5 @@
 +++
-title = "Merchandising"
+title = "Merchandansing"
 description = "Productos y merchandising de la Cooperadora ET12"
 keywords = [
   "cooperadora",

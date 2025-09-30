@@ -3,9 +3,7 @@
 	{{range $.Site.Data.contribuidores}}
 	<div id="card-container">
 		{{if .github}}
-		<div class="estilo">
 		<img src="https://github.com/{{.github}}.png">
-		</div>
 		{{else}}
 		<img src="/imgs/et12.svg">
 		{{ end }}

@@ -16,13 +16,8 @@
 	    padding-inline-end: 0rem;
 	}
 
-	#card-container .estilo img {
-	    width: 190px;
-	    border-radius: 100%;
-	    border-color: chartreuse;
-	}
-
 	#card-container img {
+		border-radius: 100%;
 	    width: 190px;
 	    border-color: chartreuse;
 	}
