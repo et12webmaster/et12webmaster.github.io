@@ -3,15 +3,15 @@
 	{{range $.Site.Data.contribuidores}}
 	<div id="card-container">
 		{{if .github}}
-		<div class="estilo">
-		<img src="https://github.com/{{.github}}.png"></div>
+		<img src="https://github.com/{{.github}}.png">
 		{{else}}
 		<img src="/imgs/et12.svg">
 		{{ end }}
 		<h6 id="{{.nombre}}{{.apellido}}"><a href="https://github.com/{{.github}}">
 				{{.nombre}} {{.apellido}}</a></h6>
 		<p>{{.cargo}}</p>
+		
 	</div>
-
-{{end}}
-
+	{{end}}
+</div>
+ 
