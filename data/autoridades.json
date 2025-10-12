@@ -25,7 +25,7 @@
   },
   {
     "cargo": "Regente T.Noche",
-    "titulo": "Prof.",
+    "titulo": "Lic.",
     "nombre": "Marcelo",
     "apellido": "Grispino"
   },
@@ -49,8 +49,14 @@
   },
   {
     "cargo": "Pro Secretaria",
-    "titulo": "",
+    "titulo": "Prof.",
     "nombre": "Florencia",
     "apellido": "Asis"
+  },
+  {
+    "titulo": "Lic.",
+    "cargo": "Asesor Pedagógico",
+    "nombre": "Raúl",
+    "apellido": "González"
   }
 ]
