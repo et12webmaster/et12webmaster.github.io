@@ -17,4 +17,4 @@ keywords:
 
 ### Proyectos
 
-{{% children sort="publishdate" description="true" style="h6"%}}
+{{% children sort="publishdate" description="true" type="list"%}}

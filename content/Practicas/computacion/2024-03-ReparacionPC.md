@@ -1,26 +1,29 @@
----
-title: Reparación de Computadoras
-description: "Ofrecemos servicios de reparación de computadoras a través de una estructura de empresa simulada. "
-date: 2024-04-15T14:42:42.000Z
-images:
-    - /imgs/folletoRC.png
-keywords:
-    - computacion
-    - et12
-    - pc
-    - practicas
-    - reparacion
-    - tecnorepairs
-    - Rossetti Nahuel
-    - Guerra Joel
-    - Godoy Lucas
-    - Merida Juan
-    - Otiniano Priscila
-    - Ramos Jasmin
-    - Cordoba Luciano
-    - video
-    - youtube
----
++++
+title = "Reparación de Computadoras"
+description = "Ofrecemos servicios de reparación de computadoras a través de una estructura de empresa simulada."
+date = 2024-04-15T14:42:42.000Z
+images = [
+    "/imgs/folletoRC.png"
+]
+keywords = [
+    "computacion",
+    "et12",
+    "pc",
+    "practicas",
+    "reparacion",
+    "tecnorepairs",
+    "Rossetti Nahuel",
+    "Guerra Joel",
+    "Godoy Lucas",
+    "Merida Juan",
+    "Otiniano Priscila",
+    "Ramos Jasmin",
+    "Cordoba Luciano",
+    "video",
+    "youtube"
+]
++++
+
 ![Folleto](/imgs/folletoRC.png?height=500px)
 
 Este proyecto, el cual forma parte de las prácticas profesionalizantes de los alumnos de 6° 8°, se enfoca en ofrecer servicios de reparación de computadoras. Se trata de una estructura de empresa simulada donde el objetivo principal es proporcionar un servicio de calidad a los clientes mientras se garantiza una gestión eficiente de los mismos. Para lograr esto, el equipo ha desarrollado varios pasos:
