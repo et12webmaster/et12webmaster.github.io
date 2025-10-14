@@ -22,7 +22,7 @@ keywords:
 
 * Lectura de datos dinámicos de archivos estructurados(.json) ([Fernando Vasquez]( #FernandoVasquez),[Facundo Recalde]( #FacundoRecalde), [Tomás Terrile]( #TomasTerrile))
 
-* Implementación de Shortcodes, Partials y Layouts ([Fernando Vasquez]( #FernandoVasquez), [Facundo Recalde]( #FacundoRecalde), [Armin Mercado]( #ArminMercado), [Nayla Juarez]( #NaylaJuarez))
+* Implementación de Shortcodes, Partials y Layouts ([Fernando Vasquez]( #FernandoVasquez), [Facundo Recalde]( #FacundoRecalde), [Armin Mercado]( #ArminMercado), [Nayla Juarez]( #NaylaJuarez), [Miguel Verduguez](#MiguelVerduguez))
 
 * Actualización de las secciones ([Tomás Terrile]( #TomasTerrile), [Nayla Juarez]( #NaylaJuarez), [Armin Mercado]( #ArminMercado), [Brian Coria]( #BrianCoria), [Gonzalo Arancibia]( #GonzaloArancibia))
 
