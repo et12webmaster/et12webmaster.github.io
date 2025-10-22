@@ -3,6 +3,8 @@ linktitle: Juegos 90° Aniversario
 title: Proyectos de Computación para el 90° aniversario
 description: Proyectos para el 90° aniversario de 5°7° del CL 2025
 image: https://i.postimg.cc/Y0vnsX1g/20250920-Proy5to7ma-Banner.png
+images:
+    - https://i.postimg.cc/Y0vnsX1g/20250920-Proy5to7ma-Banner.png
 tags:
     - Computación
     - Proyectos
