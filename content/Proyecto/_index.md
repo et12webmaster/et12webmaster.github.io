@@ -19,5 +19,7 @@ Nuestro objetivo es fomentar el desarrollo de habilidades técnicas y la colabor
 Si sos profesor y estas trabajando en un proyecto podes compartirlo con nosotros para promocionarlo en el tercer piso.
 {{% /notice %}}
 
+{{% children type="card" description=true %}}
+
 > Si no existieran dificultades, no habría éxitos. 
 > <cite>Domingo Faustino Sarmiento </cite>
