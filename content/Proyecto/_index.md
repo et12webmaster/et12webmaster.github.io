@@ -5,6 +5,7 @@ weight = 4
 description = "Proyectos que se realizan en la ET12"
 keywords = [ "et12", "san martin", "proyectos" ]
 images = [ "basico/img/proyectobasico.png" ]
+preview = "basico/img/proyectobasico.png"
 +++
 
 ![Banner Proyectos](basico/img/proyectobasico.png?width=98vw&lightbox=false)

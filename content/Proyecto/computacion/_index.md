@@ -2,7 +2,7 @@
 menuPre: '<i class="fa-solid fa-computer"></i> '
 title: Computacion
 description: Proyectos de Computación en la ET12
-preview: /content/Proyecto/computacion/img/proyectocomputacion.png
+preview: img/proyectocomputacion.png
 images:
     - img/proyectocomputacion.png
 tags:

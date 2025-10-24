@@ -11,11 +11,11 @@ keywords = [
   "san martin",
   "secundaria",
   "donar"]
-preview = "/imgs/BannerCooperadora.png"
-images = ["/imgs/BannerCooperadora.png"]
+preview = "img/Banner Cooperadora.png"
+images = ["img/Banner Cooperadora.png"]
 +++
 
-![Cooperadora](/imgs/BannerCooperadora.png)
+![Cooperadora](img/Banner%20Cooperadora.png?width=98vw&lightbox=false)
 
 {{% notice style="info" icon="fa-solid fa-handshake" style="orange" title="Asociación Cooperadora 'MARÍA L.PRAT DE LOUIT'"%}}
 Horarios: 

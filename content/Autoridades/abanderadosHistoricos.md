@@ -5,7 +5,7 @@ hidden = true
 description = "Abanderados Históricos de la ET12 San Martin"
 tags = [ ]
 images=[
-    "/imgs/Banner Autoridades.png"
+    "img/Banner Autoridades.png"
 ]
 keywords = [ "abanderados", "historicos", "et12", "san martin" ]
 +++

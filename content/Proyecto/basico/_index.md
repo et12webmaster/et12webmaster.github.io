@@ -13,6 +13,7 @@ keywords:
     - et12
     - san martin
     - proyectos
+preview: img/proyectobasico.png
 ---
 
 ![Banner Proyecto Básico](img/proyectobasico.png?width=98vw&lightbox=false)

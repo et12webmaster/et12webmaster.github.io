@@ -3,7 +3,7 @@ menuPre : '<i class="fa-solid fa-bolt"></i> '
 title: Electricidad
 draft: true
 description: Proyectos de Electricidad de la ET12
-preview: /content/Proyecto/electricidad/img/proyectoelectricidad.png
+preview: img/proyectoelectricidad.png
 images:
     - img/proyectoelectricidad.png
 tags:

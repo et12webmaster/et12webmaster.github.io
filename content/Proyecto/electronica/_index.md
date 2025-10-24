@@ -13,6 +13,7 @@ keywords:
     - et12
     - san martin
     - proyectos
+preview: img/proyectoelectronica.png
 ---
 
 ![Banner Proyecto Electrónica](/img/proyectoelectronica.png?width=98vw&lightbox=false)
