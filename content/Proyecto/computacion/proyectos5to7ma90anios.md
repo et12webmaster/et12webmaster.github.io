@@ -2,9 +2,9 @@
 linktitle: Juegos 90° Aniversario
 title: Proyectos de Computación para el 90° aniversario
 description: Proyectos para el 90° aniversario de 5°7° del CL 2025
-image: https://i.postimg.cc/Y0vnsX1g/20250920-Proy5to7ma-Banner.png
+image: https://i.postimg.cc/dVfYbQvZ/20250920-Proy5to7ma-Banner.png
 images:
-    - https://i.postimg.cc/Y0vnsX1g/20250920-Proy5to7ma-Banner.png
+    - https://i.postimg.cc/dVfYbQvZ/20250920-Proy5to7ma-Banner.png
 tags:
     - Computación
     - Proyectos
@@ -17,11 +17,11 @@ keywords:
     - Sebastian Zerpa
     - Luka Pasandi
     - juegos
-preview: https://i.postimg.cc/Y0vnsX1g/20250920-Proy5to7ma-Banner.png
+preview: https://i.postimg.cc/dVfYbQvZ/20250920-Proy5to7ma-Banner.png
 publishDate: 2025-09-20
 ---
 
-![Seba y Luka 2d](https://i.postimg.cc/tT3xgBrK/20250920-Proy5to7ma.png?width=40vw)
+![Seba y Luka 2d](https://i.postimg.cc/XYPbRN3w/20250920-Proy5to7ma.png?width=40vw)
 
 Los dejamos con los proyectos desarrollados por alumnos de 5º7º en el marco del 90° aniversario de la institución.
 ### Pasapalabra {{% icon spinner %}}
