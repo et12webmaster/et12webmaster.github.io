@@ -10,8 +10,12 @@ keywords:
     - comunicados
 ---
 
-![Banner Comunicado](/imgs/Banner%20Comunicado.png)
+![Banner Comunicado](/imgs/Banner%20Comunicado.png?width=98vw&lightbox=false)
 
 Todo sobre nuestros comunicados oficiales.
 
-{{% children %}}
+{{% children type="list" sort="publishdate" depth="2"%}}
+
+---
+
+{{% children depth="999" showhidden="false" %}}
