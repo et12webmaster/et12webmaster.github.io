@@ -5,7 +5,7 @@ date: 2024-09-09T18:57:43.621Z
 ordersectionsby: date
 preview: /imgs/Banner Comunicado.png
 images:
-  - ../img/InvitacionExpo2024.jpg
+  - img/InvitacionExpo2024.jpg
 tags:
     - Invitacion
 categories:
@@ -20,9 +20,9 @@ keywords:
     - folleto et12
 ---
 
-El dia Jueves 12/09 la Secundaria invita a la Comunidad Educativa a visitar la Exposición de la Técnica 12, para conocer a fondo el trabajo desarrollado por nuestros estudiantes en los espacios del Ciclo Básico y Especialidades de Computación, Electricidad y Electronica. ¡Te esperamos! {{% icon icon="face-smile-beam" %}}.
+![Invitación ExpoTécnica 2024](img/InvitacionExpo2024.jpg?height=450px)
 
-![Invitación ExpoTécnica](../img/InvitacionExpo2024.jpg)
+El dia Jueves 12/09 la Secundaria invita a la Comunidad Educativa a visitar la Exposición de la Técnica 12, para conocer a fondo el trabajo desarrollado por nuestros estudiantes en los espacios del Ciclo Básico y Especialidades de Computación, Electricidad y Electronica. ¡Te esperamos! {{% icon icon="face-smile-beam" %}}.
 
 {{% notice style="primary" title="Nuestros horarios" icon="circle-info" %}}
 La muestra se realiza en los 3 turnos (mañana, tarde y noche) en los horarios:
@@ -30,8 +30,3 @@ La muestra se realiza en los 3 turnos (mañana, tarde y noche) en los horarios:
 - 14:00 a 16:00 hrs.
 - 19:00 a 20:30 hrs.
 {{% /notice %}}
-
-![Invitación ExpoTécnica 2024](img/InvitacionExpo2024.jpg)
-
-
-![Invitación ExpoTécnica](../img/InvitacionExpo2024.jpg)
