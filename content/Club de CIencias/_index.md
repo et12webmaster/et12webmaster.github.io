@@ -4,12 +4,19 @@ title = "Club de Ciencias"
 weight = 9
 description = "Información del Club de Ciencias de la ET12"
 tags = [ "Club de Ciencias" ]
-keywords = [ "et12", "ciencias", "club", "info", "club de ciencias", "proyectos" ]
-preview = "/imgs/ciencia.png"
-images = ["/imgs/bannerclubciencias.png"]
+keywords = [
+  "et12",
+  "ciencias",
+  "club",
+  "info",
+  "club de ciencias",
+  "proyectos"
+]
+images = [ "img/Banner Club Ciencias.png" ]
+preview = "img/Banner Club Ciencias.png"
 +++
 
-![Club de Ciencias](/imgs/bannerclubciencias.png)
+![Club de Ciencias](img/Banner%20Club%20Ciencias.png?width=98vw&lightbox=false)
 
 El Club de Ciencias Innovadores reúne a estudiantes apasionados por la tecnología y la creación. Integrando saberes de [electrónica](../especialidades/electronica.md), [computación](../especialidades/computacion.md), [electricidad](../especialidades/electricidad.md), herrería, carpintería y soldadura, desarrollan proyectos únicos que presentan en competencias y exposiciones en otras escuelas. Fomentan el trabajo en equipo, la resolución de problemas y la comunicación efectiva, transformando ideas en realidades y contribuyendo al avance de la ciencia y la tecnología en su comunidad.
 
@@ -17,7 +24,7 @@ El Club de Ciencias Innovadores reúne a estudiantes apasionados por la tecnolog
 
 El club tiene como objetivo principal favorecer el desarrollo de proyectos interdisciplinarios. Durante las sesiones de taller, los estudiantes rotan entre diferentes áreas, permitiendo que cada proyecto reciba la atención adecuada. El taller de ciencias unifica todos los saberes en un solo espacio, facilitando el inicio y finalización de proyectos que requieren la colaboración de varios talleres.
 
-![Proyecto](/imgs/ciencia2.png)
+![Proyecto](img/ciencia2.png)
 
 ### Historia
 
@@ -29,7 +36,7 @@ Fundado aproximadamente en 2005 por el profesor Daniel Frijón, quien estuvo a c
 - Silla de Ruedas Especial: Ganadora en 2022, diseñada para personas con movilidad reducida.
 - Aeroventuri: Es una maquina que fue creada para amplificar la poca fuerza de viento en sectores urbanos y de esta forma generar energía eléctrica.
 
-![Prototipos](/imgs/ciencia.png)
+![Prototipos](img/ciencia.png)
 
 ### Participación en Competencias
 

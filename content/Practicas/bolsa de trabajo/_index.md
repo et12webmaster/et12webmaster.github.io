@@ -1,9 +1,9 @@
 ---
 menuPre : '<i class="fa-solid fa-chart-line"></i> '
 title: Bolsa de Trabajo
-preview: /imgs/banner-bolsadetrabajo.png
+preview: img/banner-bolsadetrabajo.png
 images : [ 
-  "/imgs/banner-bolsadetrabajo.png"
+  "img/banner-bolsadetrabajo.png"
 ]
 weight: 1
 description: Bolsa de Trabajo para egresados de la ET12
@@ -16,7 +16,8 @@ keywords:
     - bolsa de trabajo
     - egresado
 ---
-![Banner Bolsa de Trabajo](/imgs/banner-bolsadetrabajo.png?lightbox=false)
+
+![Banner Bolsa de Trabajo](img/banner-bolsadetrabajo.png?width=98vw&lightbox=false)
 
 Si sos alumno egresado de nuestra institución y estás en busca de nuevas oportunidades laborales podés hacernos llegar tu CV través de nuestra Bolsa de Trabajo (**practicaset12@gmail.com**) para ser considerado en futuras vacantes.
 

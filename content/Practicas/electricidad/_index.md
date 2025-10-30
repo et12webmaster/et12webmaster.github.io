@@ -13,7 +13,9 @@ keywords:
     - san martin
     - electricidad
 ---
-![Banner Proyecto Electricidad](/imgs/proyectoelectricidad.png?lightbox=false)
+
+![Banner Proyecto Electricidad](/imgs/banners/Practicas-Electricidad.svg?width=98vw&lightbox=false)
+
 {{% notice style="info" title="Perfil Técnico en Electricidad" icon="bolt" style="red"%}}
 Los alumnos del último año de la especialidad Electricidad están capacitados para realizar prácticas en distintas funciones vinculadas a la electricidad, tanto a nivel domiciliario como industrial o comercial. 
 Estas funciones son:

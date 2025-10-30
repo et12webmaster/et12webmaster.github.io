@@ -2,9 +2,9 @@
 menuPre : '<i class="fa-solid fa-bolt"></i> '
 title: Electricidad
 description: Especialidad Electricidad en la ET12
-preview: /imgs/electricidad.svg
+preview: /imgs/banners/Practicas-Electricidad.svg
 images:
-    - /imgs/electricidad700.svg
+    - /imgs/banners/Practicas-Electricidad.svg
 tags:
     - especialidad
     - electricidad
@@ -14,7 +14,7 @@ keywords:
     - electricidad
 ---
 
-{{< figure src="/imgs/electricidad700.svg" width="150%" >}}
+![Banner Electricidad](/imgs/banners/Practicas-Electricidad.svg?width=98vw&lightbox=false)
 
 El Técnico en Electricidad de Nivel Secundario será capaz de:
 
@@ -32,8 +32,7 @@ El Técnico en Electricidad de Nivel Secundario será capaz de:
 
 - Realizar tareas de peritajes, arbitrajes, tasaciones y/o certificaciones conforme a normas vigentes que se encuentren comprendidas en las habilitaciones que otorgan los puntos anteriores.
 
-{{% button href="https://drive.google.com/file/d/1gcLYB0kYKwNvqzA70VO-DsrtGpYBEwOg/view?usp=sharing" icon="download" style="blue"%}}Bajate el plan de estudio{{% /button %}}
-
+{{% button href="https://drive.google.com/file/d/1gcLYB0kYKwNvqzA70VO-DsrtGpYBEwOg/?target=_blank" icon="download" style="blue"%}}Bajate el plan de estudio{{% /button %}}
 {{% notice style="info" icon="fa-solid fa-circle-info" style="orange" title="Información"%}}
 La especialidad se dicta en los turnos: **Mañana** y **Noche**.
 {{% /notice %}}

@@ -1,9 +1,11 @@
 ---
 title: Relanzamiento sitio
-description: Informacion sobre las herramientas usadas para la actualización de la pagina
+description: Información sobre las herramientas usadas para el nuevo sitio de la ET12
 date: 2023-08-17
 ordersectionsby: date
 preview: /imgs/computacion700.svg
+images:
+    - /imgs/Banner Comunicado.png
 tags:
   - Computación
 categories:

@@ -1,6 +1,6 @@
 [build.environment]
-  GO_VERSION = "1.25.2"
-  HUGO_VERSION = "0.151.0"
+  GO_VERSION = "1.25.3"
+  HUGO_VERSION = "0.152.2"
 
 [build]
   command = "hugo --noChmod --environment production --gc --minify"

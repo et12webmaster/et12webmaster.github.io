@@ -9,7 +9,7 @@ tags:
     - computación
 ---
 
-![Banner Proyecto Computación](/imgs/proyectocomputacion.png?lightbox=false)
+![Banner Proyecto Computación](/imgs/banners/Practicas-Computacion.svg?width=98vw&lightbox=false)
 
 {{% notice style="info" title="Perfil Técnico en Computación" icon="computer"%}}
 Los alumnos de computación que están cursando 6to año en la ET12, están capacitados en diferentes aspectos dentro del area:
@@ -27,4 +27,4 @@ Los alumnos de computación que están cursando 6to año en la ET12, están capa
 
 ### Nuestras prácticas
 
-{{% children type="card" description=true sort="publishdate"%}}
+{{% children type="card" description=true sort="publishdate" depth="2"%}}
