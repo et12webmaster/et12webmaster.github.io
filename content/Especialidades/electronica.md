@@ -2,9 +2,9 @@
 menuPre: '<i class="fa-solid fa-microchip"></i> '
 title: Electronica
 description: Especialidad Electronica en la ET12
-preview: /imgs/electronica700.svg
+preview: /imgs/banners/Practicas-Electronica.svg
 images:
-    - /imgs/electronica700.svg
+    - /imgs/banners/Practicas-Electronica.svg
 tags:
     - especialidad
     - electronica
@@ -13,7 +13,8 @@ keywords:
     - san martin
     - electronica
 ---
-{{< figure src="/imgs/electronica700.svg" width="150%" >}}
+
+![Banner Electronica](/imgs/banners/Practicas-Electronica.svg?width=98vw&lightbox=false)
 
 El Técnico en Electrónica de Nivel Secundario será capaz de:
 

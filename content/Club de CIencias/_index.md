@@ -12,8 +12,8 @@ keywords = [
   "club de ciencias",
   "proyectos"
 ]
-images = [ "/img/Banner Club Ciencias.png" ]
-preview = "/img/Banner Club Ciencias.png"
+images = [ "img/Banner Club Ciencias.png" ]
+preview = "img/Banner Club Ciencias.png"
 +++
 
 ![Club de Ciencias](img/Banner%20Club%20Ciencias.png?width=98vw&lightbox=false)

@@ -2,9 +2,9 @@
 menuPre : '<i class="fa-solid fa-bolt"></i> '
 title: Electricidad
 description: Especialidad Electricidad en la ET12
-preview: /imgs/electricidad.svg
+preview: /imgs/banners/Practicas-Electricidad.svg
 images:
-    - /imgs/electricidad700.svg
+    - /imgs/banners/Practicas-Electricidad.svg
 tags:
     - especialidad
     - electricidad
@@ -14,7 +14,7 @@ keywords:
     - electricidad
 ---
 
-{{< figure src="/imgs/electricidad700.svg" width="150%" >}}
+![Banner Electricidad](/imgs/banners/Practicas-Electricidad.svg?width=98vw&lightbox=false)
 
 El Técnico en Electricidad de Nivel Secundario será capaz de:
 

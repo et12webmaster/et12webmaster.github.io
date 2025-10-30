@@ -23,7 +23,7 @@ keywords = [
 ]
 +++
 
-![Especial](/imgs/Especialidades.png)
+![Banner Especialidades](/imgs/Especialidades.png?width=98vw&lightbox=false)
 
 La Escuela ET12 hace enfoque en las especialidades que marcan el camino hacia el futuro. Nuestro programa educativo ofrece a los estudiantes la oportunidad de explorar y dominar tres áreas especializadas: [**electricidad**](../especialidades/electricidad.md), [**electrónica**](../especialidades/electronica.md) y [**computación**](../especialidades/computacion.md).
 

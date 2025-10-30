@@ -2,9 +2,9 @@
 menuPre : '<i class="fa-solid fa-computer"></i> '
 title: Computacion
 description: Especialidad Computación en la ET12
-preview: /imgs/computacion.svg
+preview: /imgs/banners/Practicas-Computacion.svg
 images:  
-    - /imgs/computacion700.svg
+    - /imgs/banners/Practicas-Computacion.svg
 tags:
     - especialidad
     - computación
@@ -14,7 +14,9 @@ keywords:
     - san martin
     - plan de estudio
 ---
-{{< figure src="/imgs/computacion700.svg" width="150%" >}}
+
+![Especial](/imgs/banners/Practicas-Computacion.svg?width=98vw&lightbox=false)
+
 El Técnico en Computación de Nivel Secundario será capaz de:
 
 - Proyectar, producir, adaptar, implantar y mantener aplicaciones informáticas.
