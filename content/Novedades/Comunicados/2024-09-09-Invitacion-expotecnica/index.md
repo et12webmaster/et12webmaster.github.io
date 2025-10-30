@@ -1,6 +1,6 @@
 ---
 title: Expo Tecnica 12 - 2024
-description: Invitación a la Expo Técnica de la 12 - 2024
+description: Invitación a la Expo Técnica 24' de la ET12
 date: 2024-09-09T18:57:43.621Z
 ordersectionsby: date
 preview: /imgs/Banner Comunicado.png

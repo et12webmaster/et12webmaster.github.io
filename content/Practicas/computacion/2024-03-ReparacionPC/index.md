@@ -21,9 +21,10 @@ keywords = [
     "video",
     "youtube"
 ]
+videos = ["https://youtu.be/G9oRkSeuygU"]
 +++
 
-![Folleto reparación de pc's](img/folletoRC.jpg?height)
+![Folleto reparación de pc's](img/folletoRC.jpg?height=500px)
 
 Este proyecto, el cual forma parte de las prácticas profesionalizantes de los alumnos de 6° 8°, se enfoca en ofrecer servicios de reparación de computadoras. Se trata de una estructura de empresa simulada donde el objetivo principal es proporcionar un servicio de calidad a los clientes mientras se garantiza una gestión eficiente de los mismos. Para lograr esto, el equipo ha desarrollado varios pasos:
 - Creación del documento de "Contrato de Locación": Este documento establece los términos y condiciones del servicio entre el cliente y el equipo de reparación de computadoras. Incluye detalles como responsabilidades, tarifas, plazos de entrega, y otras cláusulas importantes para proteger los intereses tanto del cliente como del proveedor del servicio.
