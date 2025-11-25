@@ -1,0 +1,11 @@
+<div class="product-card">
+    {{ with .Params.description }}
+    <p class="product-description">{{ . }}</p>
+    {{ end }}
+
+    {{ if and (isset .Params "images") (gt (len .Params.images) 0) }}
+    {{ $image := index .Params.images 0 }}
+    {{ printf "![%s](%s)" .Description $image | markdownify }}
+    {{ end }}
+    <p>Ultimo Precio:{{.Params.precio}} $</p>
+</div>
