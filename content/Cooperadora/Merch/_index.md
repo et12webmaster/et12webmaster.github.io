@@ -2,6 +2,7 @@
 menuPre: '<i class="fa-solid fa-computer"></i> '
 title: "Merchandising"
 description: Proyectos de Computación en la ET12
+draft: true
 preview: img/proyectocomputacion.png
 images:
     - img/proyectocomputacion.png
