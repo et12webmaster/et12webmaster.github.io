@@ -32,8 +32,8 @@
   {
     "cargo": "Sub-Regente",
     "titulo": "Prof.",
-    "nombre": "Maria Laura",
-    "apellido": "Ferreyra"
+    "nombre": "Viviana F. Gómez ",
+    "apellido": "Díaz Samson"
   },
   {
     "cargo": "Jefe Gral. Ens. Prácticas",
@@ -43,9 +43,9 @@
   },
   {
     "cargo": "Secretario",
-    "titulo": "",
-    "nombre": "Sergio",
-    "apellido": "Sarmientos"
+    "titulo": "Prof.",
+    "nombre": "Maximiliano",
+    "apellido": "Ayestaran"
   },
   {
     "cargo": "Pro Secretaria",
@@ -56,7 +56,7 @@
   {
     "titulo": "Lic.",
     "cargo": "Asesor Pedagógico",
-    "nombre": "Raúl",
-    "apellido": "González"
+    "nombre": "Evangelina ",
+    "apellido": "Corandel"
   }
 ]
