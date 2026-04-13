@@ -12,25 +12,25 @@
     "apellido": "Volpe"
   },
   {
-    "cargo": "Regente T.Mañana",
+    "cargo": "Regente T. Mañana",
     "titulo": "Prof.",
     "nombre": "Gabriela",
     "apellido": "Simone"
   },
   {
-    "cargo": "Regente T.Tarde",
+    "cargo": "Regente T. Tarde",
     "titulo": "Prof.",
     "nombre": "Carolina",
     "apellido": "Krampitz"
   },
   {
-    "cargo": "Regente T.Noche",
+    "cargo": "Regente T. Noche",
     "titulo": "Lic.",
     "nombre": "Marcelo",
     "apellido": "Grispino"
   },
   {
-    "cargo": "Sub-Regente",
+    "cargo": "Subregente",
     "titulo": "Prof.",
     "nombre": "Viviana F. Gómez ",
     "apellido": "Díaz Samson"
@@ -48,15 +48,15 @@
     "apellido": "Ayestaran"
   },
   {
-    "cargo": "Pro Secretaria",
+    "cargo": "Prosecretaria",
     "titulo": "Prof.",
     "nombre": "Florencia",
     "apellido": "Asis"
   },
   {
     "titulo": "Lic.",
-    "cargo": "Asesor Pedagógico",
+    "cargo": "Asesora Pedagógica",
     "nombre": "Evangelina ",
-    "apellido": "Corandel"
+    "apellido": "Torandel"
   }
 ]
