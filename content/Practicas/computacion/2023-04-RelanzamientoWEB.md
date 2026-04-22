@@ -2,10 +2,9 @@
 title: Relanzamiento de la página WEB
 description: Trabajamos en el relanzamiento de la página WEB de la escuela, con un nuevo diseño, secciones y funcionalidades.
 date: 2023-03-06T14:42:42.000Z
-#image: https://chaoming.li/blog/build-a-static-blog-with-hugo/hugo_hu2766129034031864.png
-#preview: https://chaoming.li/blog/build-a-static-blog-with-hugo/hugo_hu2766129034031864.png
-images:
-    - img/proyectocomputacion.png
+review: https://curiousmints.com/content/images/size/w2000/2025/11/hugo_banner-1.png
+images: 
+    - https://curiousmints.com/content/images/size/w2000/2025/11/hugo_banner-1.png
 keywords:
     - computacion
     - et12
