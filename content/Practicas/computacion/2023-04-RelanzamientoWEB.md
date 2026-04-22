@@ -2,9 +2,10 @@
 title: Relanzamiento de la página WEB
 description: Trabajamos en el relanzamiento de la página WEB de la escuela, con un nuevo diseño, secciones y funcionalidades.
 date: 2023-03-06T14:42:42.000Z
-preview: https://www.curtiscode.dev/post/2018/2018-hugo-netlify/hugo-netlify-tn.png
-images: 
-    - https://www.curtiscode.dev/post/2018/2018-hugo-netlify/hugo-netlify-tn.png
+#image: https://chaoming.li/blog/build-a-static-blog-with-hugo/hugo_hu2766129034031864.png
+#preview: https://chaoming.li/blog/build-a-static-blog-with-hugo/hugo_hu2766129034031864.png
+images:
+    - img/proyectocomputacion.png
 keywords:
     - computacion
     - et12
