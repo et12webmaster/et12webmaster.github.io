@@ -1,0 +1,15 @@
+{{ $nombreArchivo := .Get 0 }}
+{{ $datos := index .Site.Data $nombreArchivo }}
+{{ $idBuscado := printf "%v" .Page.Params.club_id }}
+
+{{ range $datos }}
+    {{ if eq (printf "%v" .id) $idBuscado }}
+    <div class="club-card">
+        <h3>{{ .nombre }}</h3>
+        <p><strong>Horario:</strong> {{ .horario }}</p>
+        <p><strong>Ubicación:</strong> {{ .ubicacion }}</p>
+        <p><strong>Descripción:</strong> {{ .descripcion }}</p>
+        <hr>
+    </div>
+    {{ end }}
+{{ end }}
