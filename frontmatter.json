@@ -155,42 +155,6 @@
       }
     },
     {
-      "id": "clubes",
-      "title": "Clubes",
-      "file": "[[workspace]]/data/clubes.json",
-      "fileType": "json",
-      "labelField": "nombre",
-      "singleEntry": false,
-      "schema": {
-        "title": "Clubes",
-        "type": "object",
-        "required": [
-          "nombre",
-          "horario",
-          "ubicacion",
-          "descripcion"
-        ],
-        "properties": {
-          "nombre": {
-            "type": "string",
-            "title": "Nombre"
-          },
-          "horario": {
-            "type": "string",
-            "title": "Horario"
-          },
-          "ubicacion": {
-            "type": "string",
-            "title": "Ubicación"
-          },
-          "descripcion": {
-            "type": "string",
-            "title": "Descripción"
-          }
-        }
-      }
-    },
-    {
       "id": "historia",
       "title": "Historia",
       "file": "[[workspace]]/data/historia.json",
@@ -259,7 +223,133 @@
           }
         }
       }
+    },
+    {
+      "id": "contribuidores",
+      "title": "Contribuidores",
+      "file": "[[workspace]]/data/clubes.json",
+      "fileType": "json",
+      "labelField": "github",
+      "singleEntry": false,
+      "schema": {
+        "title": "Contribuidores",
+        "type": "object",
+        "required": [
+          "nombre",
+          "apellido",
+          "cargo",
+          "id"
+        ],
+        "properties": {
+          "nombre": {
+            "type": "string",
+            "title": "Nombre"
+          },
+          "apellido": {
+            "type": "string",
+            "title": "Apellido"
+          },
+          "cargo": {
+            "type": "string",
+            "title": "Cargo"
+          },
+          "github": {
+            "type": "string",
+            "title": "Github"
+          },
+          "id": {
+            "type": "string",
+            "title": "Id"
+          }
+        }
+      }
+    },
+    {
+      "id": "clubesManana",
+      "title": "Clubes - Turno Mañana",
+      "file": "[[workspace]]/data/clubesMañana.json",
+      "fileType": "json",
+      "labelField": "nombre",
+      "singleEntry": false,
+      "schema": {
+        "title": "Configuración de Club",
+        "type": "object",
+        "required": [
+          "id",
+          "nombre",
+          "horario",
+          "ubicacion",
+          "descripcion"
+        ],
+        "properties": {
+          "id": {
+            "type": "string",
+            "title": "ID Único (Ej: 1, 2, ajedrez-m)",
+            "description": "Este ID debe coincidir con el 'club_id' en el Markdown."
+          },
+          "nombre": {
+            "type": "string",
+            "title": "Nombre del Club"
+          },
+          "horario": {
+            "type": "string",
+            "title": "Horario"
+          },
+          "ubicacion": {
+            "type": "string",
+            "title": "Ubicación"
+          },
+          "descripcion": {
+            "type": "string",
+            "title": "Descripción",
+            "multiple": true
+          }
+        }
+      }
+    },
+    {
+      "id": "clubesTarde",
+      "title": "Clubes - Turno Tarde",
+      "file": "[[workspace]]/data/clubesTarde.json",
+      "fileType": "json",
+      "labelField": "nombre",
+      "singleEntry": false,
+      "schema": {
+        "title": "Configuración de Club",
+        "type": "object",
+        "required": [
+          "id",
+          "nombre",
+          "horario",
+          "ubicacion",
+          "descripcion"
+        ],
+        "properties": {
+          "id": {
+            "type": "string",
+            "title": "ID Único (Ej: 1, 2, ajedrez-t)",
+            "description": "Este ID debe coincidir con el 'club_id' en el Markdown."
+          },
+          "nombre": {
+            "type": "string",
+            "title": "Nombre del Club"
+          },
+          "horario": {
+            "type": "string",
+            "title": "Horario"
+          },
+          "ubicacion": {
+            "type": "string",
+            "title": "Ubicación"
+          },
+          "descripcion": {
+            "type": "string",
+            "title": "Descripción"
+          }
+        }
+      }
     }
   ],
+  
   "frontMatter.framework.startCommand": "hugo server -D --renderToMemory"
 }
