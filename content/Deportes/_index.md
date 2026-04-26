@@ -11,10 +11,16 @@ preview = "img/Banner Deportes.png"
 
 ![Banner Deportes](img/Banner%20Deportes.png?width=98vw&lightbox=false)
 
-El voleibol es uno de los deportes más populares en nuestro colegio, y nuestro equipo ha dejado huella en numerosas competiciones a lo largo de los años. Estamos orgullosos de contar con un grupo de talentosos y apasionados jugadores y entrenadores que se esfuerzan por representar a nuestra institución de la mejor manera posible.
+En nuestra escuela, entendemos que la excelencia técnica requiere de un espíritu templado y un cuerpo saludable. La formación que impartimos en nuestras aulas y talleres se completa fuera de ellos, donde el campo de juego se transforma en un espacio de aprendizaje tan vital como el tablero de diseño o la estación de trabajo.
 
-Nuestro equipo de voleibol está formado por jugadores dedicados que trabajan arduamente para mejorar sus habilidades y mejorar día a día. Nuestro constante deseo de superación, disciplina e interés por el deporte nos ha permitido cosechar varios éxitos en diversas competencias locales y regionales. 
+La actividad física en la adolescencia es el motor que optimiza la concentración, reduce el estrés y fortalece los vínculos de camaradería. No buscamos solo deportistas; buscamos jóvenes que comprendan que la constancia y la estrategia son herramientas transferibles de la cancha a la vida profesional.
 
-Si te interesa formar parte de nuestro equipo de voleibol, no dudes en acercarte a nuestros entrenadores. ¡Siempre estamos en busca de nuevos talentos dispuestos a unirse a nuestra familia deportiva! Aquí encontrarás una oportunidad de desarrollar tus habilidades, disfrutar del juego y conocer nuevas personas.
+#### Sumate a Nuestra Identidad Deportiva
 
-No importa si eres principiante o ya tienes experiencia en voleibol, nuestro equipo te brindará el apoyo y la orientación necesarios para crecer como jugador. Además, contarás con instalaciones deportivas y entrenamientos diseñados para potenciar tu rendimiento.
+Los **Clubes de Deportes** son comunidades en marcha que esperan tu compromiso. Invitamos a cada estudiante a ser parte activa de esta estructura, donde la competencia sana y el sentido de pertenencia son los pilares fundamentales.
+
+- **Integración y Compromiso:** Al sumarte a un club, no solo practicás una disciplina; pasás a representar los valores de nuestra escuela. Es una oportunidad para encontrar pares con tus mismos intereses y representar con orgullo nuestros colores.
+- **Desarrollo de Habilidades:** Más allá del juego, la pertenencia a estos espacios fomenta la comunicación asertiva, la resiliencia ante la derrota y la planificación estratégica bajo presión.
+Te invitamos a recorrer las opciones disponibles y a elegir el espacio que mejor se adapte a tus afinidades. En la ET N° 12, el movimiento y la técnica avanzan de la mano. **Tu lugar en el equipo te está esperando.**
+
+{{% children type="card" description=true sort="title" %}}
