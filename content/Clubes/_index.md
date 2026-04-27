@@ -15,7 +15,7 @@ keywords = [
 
 #### ¿Cual es el objetivo de organizar espacios para clubes o talleres en la escuela?
 
-El “Protagonismo Juvenil” orienta como proceso en el que los estudiantes al desarrollar sus potencialidades con miras a volverse autónomo, solidario y competente.
+El **“Protagonismo Juvenil”** orienta como proceso en el que los estudiantes al desarrollar sus potencialidades con miras a volverse autónomo, solidario y competente.
 
 Para que este principio se consolide es necesario crear espacios y condiciones que permitan a los estudiantes participación en actividades encaminadas a resolver problemas en los que actúan con: iniciativa; libertad y compromiso.
 
@@ -44,7 +44,22 @@ El protagonismo como premisa en el Club Juvenil permite un vinculo entre los dir
 - Informar al responsable del club si no pudiera participar de algún encuentro ya pactado previamente.
 - Queda prohibido el uso de celulares excepto cuando se soliciten para la realización de la actividad.
 
+{{% notice style="info" title="Horarios de los clubes"%}}
+- Para el turno mañana: Viernes 7:45 a 9:05 hs.
+- Para el turno tarde: Lunes 13:30 a 14:50 hs.
+{{% /notice %}}
 
-### Clubes por turno:
+#### Clubes por turno:
 
 {{% children type="card" description=true sort="title" image="false" %}}
+
+<hr>
+
+### Talleres
+
+En 2026 se trabaja con 2 líneas de acción para poder aprovechar los horarios en este espacio, se suma a la propuesta de los alumnos la creación de talleres para aquellas materias en los que los estudiantes de 2do a 6to año adeudan, algunos ejemplos de estos talleres que se ofrecen tanto en el turno mañana como a la tarde son:
+
+- **RECUPERACION DE MATEMATICA**, llevado a cabo por Ciarlantini Alejandra.
+- **RECUPERACION SOCIALES**, llevado a cabo por Ravanal Alejandra.
+- **RECUPERACION LENGUA Y LITERATURA**, llevado a cabo por Cabriza, Inés y Topa Damián.
+- **RECUPERACION COMPUTACION**, llevado a cabo por Pedraza y Durán.

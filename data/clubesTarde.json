@@ -1,16 +1,16 @@
 [
   {
-    "id": "1",
-    "nombre": "Ajedrez",
-    "horario": "Martes de 13:30 a 14:50",
-    "ubicacion": "Primer Piso, Biblioteca",
-    "descripcion": "ipso"
-  },
-  {
-    "id": "2",
-    "nombre": "ñembo’e guaraníme (Club de aprendizaje en guaraní)",
-    "horario": "Martes de 13:30 a 14:50",
-    "ubicacion": "Segundo Piso, aula xx",
+    "id": "web",
+    "nombre": "DESARROLLO DE LA WEB E.T 12",
+    "referentes": [
+      "Alconz, Maycol 6°7°",
+      "Lopez, Angel 6°7°",
+      "Lisazoain, Ezequiel 6°7°",
+      "Martinez, Alina 6°7°",
+      "Pasandi, Luka 6°7°",
+      "Zerpa, Sebastian 6°7°"
+    ],
+    "ubicacion": "Tercer Piso, aula 22",
     "descripcion": "ipso"
   }
 ]

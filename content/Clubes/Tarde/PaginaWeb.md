@@ -1,5 +1,5 @@
 +++
-title = "Ajedrez"
+title = "DESARROLLO DE LA WEB E.T 12"
 weight = 1
 description = "Información de los diversos clubes de la ET12 de la tarde"
 tags = [ "Clubes" ]
@@ -10,7 +10,7 @@ keywords = [
   "ajedrez",
   "tarde"
 ]
-club_id = 1
+club_id = "web"
 +++
 
 {{<clubes "clubesTarde">}}

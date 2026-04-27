@@ -5,10 +5,23 @@
 {{ range $datos }}
     {{ if eq (printf "%v" .id) $idBuscado }}
     <div class="club-card">
-        <h3>{{ .nombre }}</h3>
-        <p><strong>Horario:</strong> {{ .horario }}</p>
-        <p><strong>Ubicación:</strong> {{ .ubicacion }}</p>
-        <p><strong>Descripción:</strong> {{ .descripcion }}</p>
+
+        
+        {{ if .referentes }}
+            {{ if eq (len .referentes) 1 }}
+                <h6><strong>Referente:</strong> {{ index .referentes 0 }}</h6>
+            {{ else }}
+                <h6><strong>Referentes:</strong></h6>
+                <ul>
+                    {{ range .referentes }}
+                    <li>{{ . }}</li>
+                    {{ end }}
+                </ul>
+            {{ end }}
+        {{ end }}
+        
+        <h6><strong>Ubicación:</strong> {{ .ubicacion }}</h6>
+        <h6><strong>Descripción:</strong> {{ .descripcion }}</h6>
         <hr>
     </div>
     {{ end }}
