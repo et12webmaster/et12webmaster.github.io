@@ -2,7 +2,7 @@
 title: Streambe - Generación T
 date: 2023-04-30T18:22:56.635Z
 description: Prácticas de Streambe - Generación T
-review: https://i.postimg.cc/YSgxq240/photo-2025-09-25-21-48-40.jpg
+preview: https://i.postimg.cc/YSgxq240/photo-2025-09-25-21-48-40.jpg
 images:
     - https://i.postimg.cc/YSgxq240/photo-2025-09-25-21-48-40.jpg
 tags:

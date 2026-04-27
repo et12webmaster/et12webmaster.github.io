@@ -1,4 +1,4 @@
-{{ $actuales := index .Site.Data.abanderados 0 }}
+{{ $actuales := index hugo.Data.abanderados 0 }}
 {{ $parametro := dict "titulo" "Abanderados" "ciclo" $actuales}}
 {{ partial "alumnosConTitulo" $parametro}}
 <hr>
