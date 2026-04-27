@@ -3,6 +3,9 @@ linktitle: Labo 5°8° 2024
 title: Proyectos de Laboratorio de 5°8°
 description: Proyectos de Labo. 5°8° para la Expo Técnica 2024
 image: https://kinsta.com/es/wp-content/uploads/sites/8/2024/03/wp-oop-in-php.jpg
+images:
+    - https://kinsta.com/es/wp-content/uploads/sites/8/2024/03/wp-oop-in-php.jpg
+preview: https://kinsta.com/es/wp-content/uploads/sites/8/2024/03/wp-oop-in-php.jpg
 tags:
     - Computación
     - Proyectos
@@ -18,7 +21,6 @@ keywords:
     - Benitez
     - Gavilan
     - Silupu Pardavé
-preview: /imgs/et12.png
 publishDate: 2024-08-09
 ---
 

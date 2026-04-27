@@ -2,6 +2,7 @@
 title = "Reparación de Computadoras"
 description = "Ofrecemos servicios de reparación de computadoras a través de una estructura de empresa simulada."
 date = 2024-04-15T14:42:42.000Z
+image = "img/folletoRC.jpg"
 preview = "img/folletoRC.jpg"
 images = ["img/folletoRC.jpg"]
 keywords = [

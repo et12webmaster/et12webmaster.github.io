@@ -8,19 +8,20 @@ keywords:
     - san martin
     - versiones
     - changelog
+preview: https://www.campusmvp.es/recursos/image.axd?picture=/2020/2T/git-post-blog.png
 ---
 ## v3
 
-* Logo animado ([Luis Armoa](#Armoaaa))
-* Creación de Sección PIA ([Elio Aucachi](#ElioAucachi), [Axel Cruz](#AxelMarianoCruz))
+* Logo animado ([Luis Armoa](#LuisArmoa))
+* Creación de Sección PIA ([Elio Aucachi](#ElioAucachi), [Axel Cruz](#AxelCruz))
 * Creación de sección CATE, Proyectos y Practicas ([Vanina Condorpocco](#VaninaCondorpocco), [Mariangel Valerio](#MariangelValerio), [Iliana Duarte](#IlianaDuarte))
 * Documentación de las carpetas ([Vanina Condorpocco](#VaninaCondorpocco), [Mariangel Valerio](#MariangelValerio), [Iliana Duarte](#IlianaDuarte), [Elio Aucachi](#ElioAucachi), [Axel Cruz](#AxelCruz))
 * Más información para el home([Elio Aucachi](#ElioAucachi), [Axel Cruz](#AxelCruz))
 * Actualización del changelog ([Matias Huanca](#MatiasHuanca) , [Fernando Vasquez]( #FernandoVasquez) , [Facundo Recalde]( #FacundoRecalde) ,[Brian Coria]( #BrianCoria), [Vanina Condorpocco](#VaninaCondorpocco), [Miguel Verduguez](#MiguelVerduguez) )
 
-* Cambio y diseño de hojas de estilo, actualización de temas ([Gonzalo Arancibia]( #GonzaloArancibia) , [Jacky Huaman]( #JackyHuaman) , [Evelyn Siles]( #EvelynSiles), [Armin Mercado]( #ArminMercado))
+* Cambio y diseño de hojas de estilo, actualización de temas ([Gonzalo Arancibia]( #GonzaloArancibia) , [Jacky Huaman]( #JackyHuaman) , [Evelyn Siles]( #EvelynSiles), [Armin Mercado]( #ArminMercado) , [LukaPasandi](#LukaPasandi))
 
-* Lectura de datos dinámicos de archivos estructurados(.json) ([Fernando Vasquez]( #FernandoVasquez),[Facundo Recalde]( #FacundoRecalde), [Tomás Terrile]( #TomasTerrile))
+* Lectura de datos dinámicos de archivos estructurados (.json) ([Fernando Vasquez]( #FernandoVasquez),[Facundo Recalde]( #FacundoRecalde), [Tomás Terrile]( #TomasTerrile))
 
 * Implementación de Shortcodes, Partials y Layouts ([Fernando Vasquez]( #FernandoVasquez), [Facundo Recalde]( #FacundoRecalde), [Armin Mercado]( #ArminMercado), [Nayla Juarez]( #NaylaJuarez), [Miguel Verduguez](#MiguelVerduguez))
 
