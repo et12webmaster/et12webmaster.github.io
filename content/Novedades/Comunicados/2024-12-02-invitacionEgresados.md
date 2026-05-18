@@ -4,8 +4,9 @@ description: Invitación a la Entrega de Diplomas 2024
 date: 2024-12-02T18:57:43.000Z
 ordersectionsby: date
 preview: /imgs/Banner Comunicado.png
+image: https://i.postimg.cc/NM0F8076/IMG-20241204-WA0003.jpg
 images:
-    - /imgs/Banner Comunicado.png
+    - https://i.postimg.cc/NM0F8076/IMG-20241204-WA0003.jpg
 tags:
     - Invitacion
 categories:

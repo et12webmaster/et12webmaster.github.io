@@ -1,7 +1,10 @@
 ---
-menuPre : '<i class="fa-solid fa-computer"></i> '
+menuPre: '<i class="fa-solid fa-computer"></i> '
 title: Computacion
 description: Proyectos de Computación en la ET12
+preview: img/proyectocomputacion.png
+images:
+    - img/proyectocomputacion.png
 tags:
     - Computación
     - Proyectos
@@ -12,8 +15,8 @@ keywords:
     - proyectos
 ---
 
-![Banner Proyecto Computacion](/imgs/proyectocomputacion.png?lightbox=false)
+![Banner Proyecto Computación](img/proyectocomputacion.png?width=98vw&lightbox=false)
 
 ### Proyectos
 
-{{% children sort="publishdate" description="true" style="h6"%}}
+{{% children type="card" description=true sort="publishdate"%}}

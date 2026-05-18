@@ -3,15 +3,13 @@ menuPre = '<i class="fa-solid fa-person-running"></i> '
 title = "Deportes"
 weight = 6
 description = "Deportes que se realizan en la ET12"
-preview = "/imgs/Banner Deportes.png"
-images = [
-    "/imgs/Banner Deportes.png"
-]
+images = [ "img/Banner Deportes.png" ]
 tags = [ "deporte" ]
 keywords = [ "et12", "san martin", "deportes" ]
+preview = "img/Banner Deportes.png"
 +++
 
-![Banner Deportes](/imgs/Banner%20Deportes.png)
+![Banner Deportes](img/Banner%20Deportes.png?width=98vw&lightbox=false)
 
 El voleibol es uno de los deportes más populares en nuestro colegio, y nuestro equipo ha dejado huella en numerosas competiciones a lo largo de los años. Estamos orgullosos de contar con un grupo de talentosos y apasionados jugadores y entrenadores que se esfuerzan por representar a nuestra institución de la mejor manera posible.
 

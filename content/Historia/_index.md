@@ -10,6 +10,6 @@ preview = "/imgs/BannerHistoria.png"
 images = ["/imgs/BannerHistoria.png"]
 +++
 
-![Club de Ciencias](/imgs/BannerHistoria.png)
+![Club de Ciencias](/imgs/BannerHistoria.png?width=98vw&lightbox=false)
 
 {{<historia>}}

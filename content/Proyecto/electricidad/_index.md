@@ -3,6 +3,9 @@ menuPre : '<i class="fa-solid fa-bolt"></i> '
 title: Electricidad
 draft: true
 description: Proyectos de Electricidad de la ET12
+preview: img/proyectoelectricidad.png
+images:
+    - img/proyectoelectricidad.png
 tags:
     - Electricidad
     - Proyectos
@@ -12,4 +15,9 @@ keywords:
     - san martin
     - proyectos
 ---
-![Banner Proyecto Electricidad](/imgs/proyectoelectricidad.png?lightbox=false)
+
+![Banner Proyecto Electricidad](img/proyectoelectricidad.png?width=98vw&lightbox=false)
+
+### Proyectos
+
+{{% children type="card" description=true sort="publishdate"%}}

@@ -1,17 +1,45 @@
 
-<div id="grid-container">
-	{{range $.Site.Data.contribuidores}}
-	<div id="card-container">
+<div id="chang-container">
+	{{range hugo.Data.contribuidores}}
+	<div id="chang">
 		{{if .github}}
-		<img src="https://github.com/{{.github}}.png">
+		<div class="estilo">
+		<img src="https://github.com/{{.github}}.png"></div>
 		{{else}}
 		<img src="/imgs/et12.svg">
 		{{ end }}
 		<h6 id="{{.nombre}}{{.apellido}}"><a href="https://github.com/{{.github}}">
 				{{.nombre}} {{.apellido}}</a></h6>
 		<p>{{.cargo}}</p>
-		
 	</div>
+
 	{{end}}
 </div>
- 
+<style>
+	#chang-container{
+	width: 100%;
+	height: auto;
+	display: grid;
+	grid-template-columns: repeat(auto-fill,minmax(300px, 1fr));
+	grid-template-rows: auto;
+	}
+	#chang {
+		display: inline-block;
+		text-align: center;
+	}
+
+	#chang h6 {
+		margin: 0;
+		padding: 0;
+	}
+
+	#chang .estilo img {
+		width: 190px;
+		border-radius: 100%;
+		border-color: chartreuse;
+	}
+	#chang img {
+		width: 190px;
+		border-color: chartreuse;
+	}
+</style>

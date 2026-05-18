@@ -9,7 +9,7 @@ tags = [ ]
 keywords = [ "email", "et12", "san martin", "telefono", "direccion" ]
 +++
 
-![Banner Escuela](/imgs/EscuelaWEB6.jpg)
+![Banner Escuela](/imgs/EscuelaWEB6.jpg?width=98vw&lightbox=false)
 
 - {{% icon icon="envelope" %}} Email Institucional: **det_12_de1@bue.edu.ar**
 - {{% icon icon="envelope" %}} Email Oficina de Empleo (mail para empresas): **practicasET12@gmail.com**

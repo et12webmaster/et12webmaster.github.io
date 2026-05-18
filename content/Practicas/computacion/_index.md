@@ -1,7 +1,6 @@
 ---
 menuPre : '<i class="fa-solid fa-computer"></i> '
 title: Computacion
-date: 2024-04-30T18:22:56.635Z
 preview: /imgs/computacion700.svg
 weight: 2
 description: Prácticas Profesionalizantes de Computación en la ET12
@@ -10,7 +9,7 @@ tags:
     - computación
 ---
 
-![Banner Proyecto Computación](/imgs/proyectocomputacion.png?lightbox=false)
+![Banner Proyecto Computación](/imgs/banners/Practicas-Computacion.svg?width=98vw&lightbox=false)
 
 {{% notice style="info" title="Perfil Técnico en Computación" icon="computer"%}}
 Los alumnos de computación que están cursando 6to año en la ET12, están capacitados en diferentes aspectos dentro del area:
@@ -28,4 +27,4 @@ Los alumnos de computación que están cursando 6to año en la ET12, están capa
 
 ### Nuestras prácticas
 
-{{% children sort="publishdate" description="true" style="h6"%}}
+{{% children type="card" description=true sort="publishdate" depth="2"%}}

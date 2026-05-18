@@ -166,6 +166,12 @@
     "cargo": "Alumno",
     "github": "miguel2433",
     "id": "24"
+  },
+  {
+    "id": "25",
+    "nombre": "Luka",
+    "apellido": "Pasandi",
+    "cargo": "Alumno",
+    "github": "PasandiLuka"
   }
-  
 ]

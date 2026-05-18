@@ -12,28 +12,28 @@
     "apellido": "Volpe"
   },
   {
-    "cargo": "Regente T.Mañana",
+    "cargo": "Regente T. Mañana",
     "titulo": "Prof.",
     "nombre": "Gabriela",
     "apellido": "Simone"
   },
   {
-    "cargo": "Regente T.Tarde",
+    "cargo": "Regente T. Tarde",
     "titulo": "Prof.",
     "nombre": "Carolina",
     "apellido": "Krampitz"
   },
   {
-    "cargo": "Regente T.Noche",
-    "titulo": "Prof.",
+    "cargo": "Regente T. Noche",
+    "titulo": "Lic.",
     "nombre": "Marcelo",
     "apellido": "Grispino"
   },
   {
-    "cargo": "Sub-Regente",
+    "cargo": "Subregente",
     "titulo": "Prof.",
-    "nombre": "Maria Laura",
-    "apellido": "Ferreyra"
+    "nombre": "Viviana F. Gómez ",
+    "apellido": "Díaz Samson"
   },
   {
     "cargo": "Jefe Gral. Ens. Prácticas",
@@ -43,14 +43,20 @@
   },
   {
     "cargo": "Secretario",
-    "titulo": "",
-    "nombre": "Sergio",
-    "apellido": "Sarmientos"
+    "titulo": "Prof.",
+    "nombre": "Maximiliano",
+    "apellido": "Ayestaran"
   },
   {
-    "cargo": "Pro Secretaria",
-    "titulo": "",
+    "cargo": "Prosecretaria",
+    "titulo": "Prof.",
     "nombre": "Florencia",
     "apellido": "Asis"
+  },
+  {
+    "titulo": "Lic.",
+    "cargo": "Asesora Pedagógica",
+    "nombre": "Evangelina ",
+    "apellido": "Torandel"
   }
 ]

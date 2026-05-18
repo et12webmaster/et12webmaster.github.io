@@ -2,9 +2,9 @@
 menuPre: '<i class="fa-solid fa-microchip"></i> '
 title: Electronica
 description: Especialidad Electronica en la ET12
-preview: /imgs/electronica700.svg
+preview: /imgs/banners/Practicas-Electronica.svg
 images:
-    - /imgs/electronica700.svg
+    - /imgs/banners/Practicas-Electronica.svg
 tags:
     - especialidad
     - electronica
@@ -13,7 +13,8 @@ keywords:
     - san martin
     - electronica
 ---
-{{< figure src="/imgs/electronica700.svg" width="150%" >}}
+
+![Banner Electronica](/imgs/banners/Practicas-Electronica.svg?width=98vw&lightbox=false)
 
 El Técnico en Electrónica de Nivel Secundario será capaz de:
 
@@ -38,7 +39,7 @@ El Técnico en Electrónica de Nivel Secundario será capaz de:
     - Equipos que desarrollen tensiones estáticas de hasta 50000 V.
 
 
-{{% button href="https://drive.google.com/file/d/1lPt6qrmoZgL4mn9Mdz8slXsaoX_WGata/view?usp=sharing" icon="download" style="blue"%}}Bajate el plan de estudio{{% /button %}}
+{{% button href="https://drive.google.com/file/d/1lPt6qrmoZgL4mn9Mdz8slXsaoX_WGata/?target=_blank" icon="download" style="blue"%}}Bajate el plan de estudio{{% /button %}}
 
 {{% notice style="info" icon="fa-solid fa-circle-info" style="orange" title="Información"%}}
 La especialidad se dicta en los turnos: **Mañana** y **Tarde**.
