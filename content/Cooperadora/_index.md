@@ -23,3 +23,5 @@ Horarios:
 - Martes de 17:00 a 19:00
 {{% /notice %}}
 
+## Nuestro Merchandansing
+- [Apoyá a la escuela comprando nuestros productos 😃](./Merch/_index.md)

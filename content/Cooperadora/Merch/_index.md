@@ -1,9 +1,7 @@
 ---
 menuPre: '<i class="fa-solid fa-computer"></i> '
 title: "Merchandising"
-description: Proyectos de Computación en la ET12
-draft: true
-preview: img/proyectocomputacion.png
+description: Merchandising oficial de la ET12
 images:
     - img/proyectocomputacion.png
 tags:
@@ -16,8 +14,4 @@ keywords:
     - proyectos
 ---
 
-![Banner Proyecto Computación](img/proyectocomputacion.png?width=98vw&lightbox=false)
-
-### Merchandising
-
-{{% children type="card" description=true sort="publishdate"%}}
+{{% children type="card" sort="publishdate"%}}
