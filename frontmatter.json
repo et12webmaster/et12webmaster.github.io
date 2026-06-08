@@ -225,46 +225,6 @@
       }
     },
     {
-      "id": "contribuidores",
-      "title": "Contribuidores",
-      "file": "[[workspace]]/data/clubes.json",
-      "fileType": "json",
-      "labelField": "github",
-      "singleEntry": false,
-      "schema": {
-        "title": "Contribuidores",
-        "type": "object",
-        "required": [
-          "nombre",
-          "apellido",
-          "cargo",
-          "id"
-        ],
-        "properties": {
-          "nombre": {
-            "type": "string",
-            "title": "Nombre"
-          },
-          "apellido": {
-            "type": "string",
-            "title": "Apellido"
-          },
-          "cargo": {
-            "type": "string",
-            "title": "Cargo"
-          },
-          "github": {
-            "type": "string",
-            "title": "Github"
-          },
-          "id": {
-            "type": "string",
-            "title": "Id"
-          }
-        }
-      }
-    },
-    {
     "id": "clubesManana",
     "title": "Clubes - Turno Mañana",
     "file": "[[workspace]]/data/clubesMañana.json",

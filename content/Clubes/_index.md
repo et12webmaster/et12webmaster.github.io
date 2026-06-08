@@ -51,7 +51,7 @@ El protagonismo como premisa en el Club Juvenil permite un vinculo entre los dir
 
 #### Clubes por turno:
 
-{{% children type="card" description=true sort="title" image="false" %}}
+{{% children description=true image="false" %}}
 
 <hr>
 
@@ -61,5 +61,5 @@ En 2026 se trabaja con 2 líneas de acción para poder aprovechar los horarios e
 
 - **RECUPERACION DE MATEMATICA**, llevado a cabo por Ciarlantini Alejandra.
 - **RECUPERACION SOCIALES**, llevado a cabo por Ravanal Alejandra.
-- **RECUPERACION LENGUA Y LITERATURA**, llevado a cabo por Cabriza, Inés y Topa Damián.
+- **RECUPERACION LENGUA Y LITERATURA**, llevado a cabo por Cabriza Inés y Topa Damián.
 - **RECUPERACION COMPUTACION**, llevado a cabo por Pedraza y Durán.
