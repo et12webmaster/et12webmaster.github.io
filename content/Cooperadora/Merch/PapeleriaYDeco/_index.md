@@ -1,5 +1,5 @@
 ---
-menuPre: '<i class="fa-solid fa-computer"></i> '
+menuPre: '<i class="fa-solid fa-pen"></i>'
 title: "Papeleria y Deco"
 description: Proyectos de Computación en la ET12
 preview: https://w7.pngwing.com/pngs/776/145/png-transparent-books-illustration-book-book-rectangle-presentation-desktop-wallpaper-thumbnail.png

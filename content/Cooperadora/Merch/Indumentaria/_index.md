@@ -1,7 +1,7 @@
 ---
-menuPre: '<i class="fa-solid fa-computer"></i> '
+menuPre: '<i class="fa-solid fa-shirt"></i>'
 title: "Indumentaria"
-description: Proyectos de Computación en la ET12
+description: Productos de vestimenta
 preview: https://png.pngtree.com/png-vector/20230808/ourmid/pngtree-red-tshirt-vector-png-image_6878962.png
 images:
     - https://png.pngtree.com/png-vector/20230808/ourmid/pngtree-red-tshirt-vector-png-image_6878962.png
@@ -14,4 +14,7 @@ keywords:
     - san martin
     - proyectos
 ---
+
+En este apartado se encuentra los productos relacionados a prendas de vestir
+
 {{%children description="true" type="card"%}}

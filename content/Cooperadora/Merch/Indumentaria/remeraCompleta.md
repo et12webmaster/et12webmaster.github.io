@@ -1,5 +1,5 @@
 ---
-title: Remera - 01
+title: Remera Completa
 description: "Remera con escudo bordado al frente y frase en la espalda."
 date: 2026-06-01T18:58:43.170Z
 preview: img/Banner Cooperadora.png
