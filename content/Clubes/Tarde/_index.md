@@ -9,6 +9,8 @@ keywords = [
   "info",
   "tarde"
 ]
+collapsibleMenu = false
+alwaysopen = false
 +++
 
 {{% children type="card" description=true sort="title" image="false" %}}
