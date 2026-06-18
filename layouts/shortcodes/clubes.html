@@ -1,4 +1,4 @@
-{{ $nombreArchivo := .Get 0 }}
+{{/*  {{ $nombreArchivo := .Get 0 }}
 {{ $datos := index .Site.Data $nombreArchivo }}
 {{ $idBuscado := printf "%v" .Page.Params.club_id }}
 
@@ -25,4 +25,45 @@
         <hr>
     </div>
     {{ end }}
+{{ end }}  */}}
+
+{{ $nombreArchivo := .Get 0 }}
+{{ $clubId := .Page.Params.club_id }}
+{{ $club := index .Site.Data $nombreArchivo $clubId }}
+
+{{ with $club }}
+<div class="club-card">
+
+    {{/* Referentes: Solo si existen en el JSON */}}
+    {{ if .referentes }}
+        {{ if eq (len .referentes) 1 }}
+            <h6><strong>Referente:</strong> {{ index .referentes 0 }}</h6>
+        {{ else }}
+            <h6><strong>Referentes:</strong></h6>
+            <ul>
+                {{ range .referentes }}
+                <li>{{ . }}</li>
+                {{ end }}
+            </ul>
+        {{ end }}
+    {{ end }}
+    
+    {{/* Ubicación: Se muestra solo si tiene un dato real */}}
+    {{ if and .ubicacion (not (eq .ubicacion "-")) }}
+        <h6><strong>Ubicación:</strong> {{ .ubicacion }}</h6>
+    {{ end }}
+    
+    {{/* Descripción: Prioriza la metadata (.Page.Description). Si está vacía o es "-", usa la del JSON */}}
+    {{ $descripcion := $.Page.Description }}
+    {{ if or (eq $descripcion "") (eq $descripcion "-") }}
+        {{ $descripcion = .descripcion }}
+    {{ end }}
+
+    {{/* Render de la descripción si contiene un dato real */}}
+    {{ if and $descripcion (not (eq $descripcion "-")) }}
+        <h6><strong>Descripción:</strong> {{ $descripcion }}</h6>
+    {{ end }}
+    
+    <hr>
+</div>
 {{ end }}

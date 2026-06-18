@@ -225,97 +225,105 @@
       }
     },
     {
-    "id": "clubesManana",
-    "title": "Clubes - Turno Mañana",
-    "file": "[[workspace]]/data/clubesMañana.json",
-    "fileType": "json",
-    "labelField": "nombre",
-    "singleEntry": false,
-    "schema": {
-      "title": "Configuración de Club",
-      "type": "object",
-      "required": [
-        "id",
-        "nombre",
-        "referentes",
-        "ubicacion",
-        "descripcion"
-      ],
-      "properties": {
-        "id": {
-          "type": "string",
-          "title": "ID Único",
-          "description": "Usa un slug corto (ej: web, ajedrez, robotica)"
-        },
-        "nombre": {
-          "type": "string",
-          "title": "Nombre del Club"
-        },
-        "referentes": {
-          "type": "array",
-          "title": "Referentes",
-          "description": "Añade cada referente por separado.",
-          "items": {
-            "type": "string"
+      "id": "clubesManana",
+      "title": "Clubes - Turno Mañana",
+      "file": "[[workspace]]/data/clubesMañana.json",
+      "fileType": "json",
+      "labelField": "nombre",
+      "singleEntry": false,
+      "schema": {
+        "title": "Configuración de Clubes Mañana",
+        "type": "array",
+        "rowKey": "id",
+        "items": {
+          "type": "object",
+          "required": [
+            "id",
+            "nombre",
+            "referentes",
+            "ubicacion",
+            "descripcion"
+          ],
+          "properties": {
+            "id": {
+              "type": "string",
+              "title": "ID Único (Llave del club)",
+              "description": "Usa un término corto en minúsculas (ej: ajedrez, artedibujo). Servirá como la clave de búsqueda."
+            },
+            "nombre": {
+              "type": "string",
+              "title": "Nombre del Club"
+            },
+            "referentes": {
+              "type": "array",
+              "title": "Referentes",
+              "description": "Añade cada referente por separado.",
+              "items": {
+                "type": "string"
+              }
+            },
+            "ubicacion": {
+              "type": "string",
+              "title": "Ubicación"
+            },
+            "descripcion": {
+              "type": "string",
+              "title": "Descripción"
+            }
           }
-        },
-        "ubicacion": {
-          "type": "string",
-          "title": "Ubicación"
-        },
-        "descripcion": {
-          "type": "string",
-          "title": "Descripción"
+        }
+      }
+    },
+    {
+      "id": "clubesTarde",
+      "title": "Clubes - Turno Tarde",
+      "file": "[[workspace]]/data/clubesTarde.json",
+      "fileType": "json",
+      "labelField": "nombre",
+      "singleEntry": false,
+      "schema": {
+        "title": "Configuración de Clubes Tarde",
+        "type": "array",
+        "rowKey": "id",
+        "items": {
+          "type": "object",
+          "required": [
+            "id",
+            "nombre",
+            "referentes",
+            "ubicacion",
+            "descripcion"
+          ],
+          "properties": {
+            "id": {
+              "type": "string",
+              "title": "ID Único (Llave del club)",
+              "description": "Usa un término corto en minúsculas (ej: ajedrez, artedibujo). Servirá como la clave de búsqueda."
+            },
+            "nombre": {
+              "type": "string",
+              "title": "Nombre del Club"
+            },
+            "referentes": {
+              "type": "array",
+              "title": "Referentes",
+              "description": "Añade cada referente por separado.",
+              "items": {
+                "type": "string"
+              }
+            },
+            "ubicacion": {
+              "type": "string",
+              "title": "Ubicación"
+            },
+            "descripcion": {
+              "type": "string",
+              "title": "Descripción"
+            }
+          }
         }
       }
     }
-  },
-  {
-    "id": "clubesTarde",
-    "title": "Clubes - Turno Tarde",
-    "file": "[[workspace]]/data/clubesTarde.json",
-    "fileType": "json",
-    "labelField": "nombre",
-    "singleEntry": false,
-    "schema": {
-      "title": "Configuración de Club",
-      "type": "object",
-      "required": [
-        "id",
-        "nombre",
-        "referentes",
-        "ubicacion",
-        "descripcion"
-      ],
-      "properties": {
-        "id": {
-          "type": "string",
-          "title": "ID Único",
-          "description": "Usa un slug corto (ej: web, ajedrez, robotica)"
-        },
-        "nombre": {
-          "type": "string",
-          "title": "Nombre del Club"
-        },
-        "referentes": {
-          "type": "array",
-          "title": "Referentes",
-          "description": "Añade cada referente por separado.",
-          "items": {
-            "type": "string"
-          }
-        },
-        "ubicacion": {
-          "type": "string",
-          "title": "Ubicación"
-        },
-        "descripcion": {
-          "type": "string",
-          "title": "Descripción"
-        }
-      }
-    }
-  }
   ],
   
   "frontMatter.framework.startCommand": "hugo server -D --renderToMemory"

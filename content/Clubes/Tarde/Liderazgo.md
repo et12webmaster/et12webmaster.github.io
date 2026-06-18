@@ -1,5 +1,5 @@
 +++
-title = "DESARROLLO DE LA WEB E.T 12"
+title = "Liderazgo Juvenil"
 description = "Información de los diversos clubes de la ET12 de la tarde"
 tags = [ "Clubes" ]
 keywords = [
@@ -8,7 +8,7 @@ keywords = [
   "info",
   "tarde"
 ]
-club_id = "web"
+club_id = "liderazgo"
 +++
 
 {{<clubes "clubesTarde">}}

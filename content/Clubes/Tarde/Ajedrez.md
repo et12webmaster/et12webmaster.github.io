@@ -1,0 +1,69 @@
++++
+title = "Bendito Ajedrez"
+description = "Información de los diversos clubes de la ET12 de la tarde"
+tags = [ "Clubes" ]
+keywords = [
+  "et12",
+  "club",
+  "info",
+  "tarde"
+]
+club_id = "ajedrez"
++++
+
+{{<clubes "clubesTarde">}}
+
+{
+    "id": "web",
+    "nombre": "Desarrollo de la Web",
+    "referentes": [
+      "Alconz, Maycol 6°7°",
+      "Lopez, Angel 6°7°",
+      "Lisazoain, Ezequiel 6°7°",
+      "Martinez, Alina 6°7°",
+      "Pasandi, Luka 6°7°",
+      "Zerpa, Sebastian 6°7°"
+    ],
+    "ubicacion": "Tercer Piso, aula 22",
+    "descripcion": "ipso"
+  },
+  {
+    "referentes": [
+      "Ramirez, Camila 4°7°",
+      "Opoka, Joaquín 4°7°"
+    ],
+    "id": "asteria",
+    "nombre": "Asteria - Desarrollo Creativo",
+    "ubicacion": "-",
+    "descripcion": "Desarrollar habilidades lúdicas para detectar diferentes talentos en los jóvenes."
+  },
+  {
+    "referentes": [
+      "Piriz, Lourdes 5° 6°",
+      "Fernandez, Nahim 6° 1°"
+    ],
+    "id": "liderazgo",
+    "nombre": "Liderazgo Juvenil",
+    "ubicacion": "-",
+    "descripcion": "Poder aprender a liderar grupos y a la práctica de la resolución de problemas."
+  },
+  {
+    "referentes": [
+      "Cahripa, Hector 1° 5°",
+      "Lares, Samuel 1° 5°"
+    ],
+    "id": "ajedrez",
+    "nombre": "Bendito Ajedrez",
+    "ubicacion": "-",
+    "descripcion": "Mejorar la práctica del juego mediante el aprendizaje contínuo."
+  },
+  {
+    "referentes": [
+      "Corso, Geraldine 1°4°",
+      "Martinez Rivero, Jazmin 1°4°"
+    ],
+    "id": "artedibujo",
+    "nombre": "Arte y Dibujo",
+    "ubicacion": "-",
+    "descripcion": "-"
+  }

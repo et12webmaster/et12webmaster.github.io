@@ -1,16 +1,14 @@
 +++
-title = "Aprendizaje en guaraní"
-weight = 1
+title = "Asteria - Desarrollo Creativo"
 description = "Información de los diversos clubes de la ET12 de la tarde"
 tags = [ "Clubes" ]
 keywords = [
   "et12",
   "club",
   "info",
-  "guarani",
   "tarde"
 ]
-club_id = 2
+club_id = "asteria"
 +++
 
 {{<clubes "clubesTarde">}}

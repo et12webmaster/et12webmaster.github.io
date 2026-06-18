@@ -13,4 +13,4 @@ collapsibleMenu = false
 alwaysopen = false
 +++
 
-{{% children type="card" description=true sort="title" image="false" %}}
+{{% children type="tree" description=true sort="title" image="false" %}}
