@@ -1,1 +1,80 @@
-{{ partial "product-card.html" .Page }}
+{{/*  <div class="product-card">
+    {{ with .Page.Params.description }}
+    <p class="product-description">{{ . }}</p>
+    {{ end }}
+    <!--more-->
+    <div style="width: 100%; height: 250px; border-radius: 4px; margin-bottom: 12px;">
+        {{ if and (isset .Page.Params "images") (gt (len .Page.Params.images) 0) }}
+        {{ $image := index .Page.Params.images 0 }}
+        {{ printf "![%s](%s)" .Page.Title $image | markdownify }}
+        {{ end }}
+    </div>
+    <p>Ultimo Precio: {{ .Page.Params.precio }} $</p>
+</div>  */}}
+<style>
+    .product-card-grid {
+        display: grid;
+        grid-template-columns: 1fr 1fr; /* 1 fila, 2 columnas en PC */
+        gap: 20px;
+        align-items: center;
+        max-width: 650px;
+        border: 1px solid #e0e0e0;
+        padding: 20px;
+        border-radius: 8px;
+        background-color: #ffffff;
+        margin: 15px auto;
+        box-sizing: border-box; /* Asegura que el padding no estire la tarjeta */
+    }
+
+    /* Forzamos a que CUALQUIER elemento interno de la imagen respete el contenedor */
+    .product-card-grid .product-img-wrapper * {
+        max-width: 100% !important;
+    }
+
+    .product-card-grid .product-img-wrapper img {
+        width: 100% !important;
+        height: 100% !important;
+        object-fit: contain !important;
+        display: block;
+    }
+
+    /* Vista Mobile: Colapso limpio a 2x1 */
+    @media (max-width: 768px) {
+        .product-card-grid {
+            grid-template-columns: 1fr !important; /* Pasa estrictamente a 1 columna */
+            max-width: 90%; /* Evita que la tarjeta toque los bordes de la pantalla del celular */
+        }
+        
+        /* Corregimos el orden: Texto arriba, Imagen abajo */
+        .product-card-grid .product-info {
+            order: 1 !important;
+            text-align: center;
+            margin-bottom: 15px;
+        }
+        
+        .product-card-grid .product-img-wrapper {
+            order: 2 !important;
+            height: auto !important; /* Permitimos que la altura sea flexible en celular */
+            min-height: 200px;
+            max-height: 280px;
+        }
+    }
+</style>
+
+<div class="product-card-grid">
+    <div class="product-info">
+        {{ with .Page.Params.description }}
+        <p class="product-description" style="margin-top: 0; line-height: 1.5; color: #333;">{{ . }}</p>
+        {{ end }}
+        <p style="font-size: 1.25rem; font-weight: bold; margin-bottom: 0; color: #000;">
+            Último Precio: {{ .Page.Params.precio }} $
+        </p>
+    </div>
+
+    <div class="product-img-wrapper" style="width: 100%; height: 250px; border-radius: 4px; background-color: #f9f9f9; display: flex; align-items: center; justify-content: center; overflow: hidden;">
+        {{ if and (isset .Page.Params "images") (gt (len .Page.Params.images) 0) }}
+        {{ $image := index .Page.Params.images 0 }}
+        {{ printf "![%s](%s)" .Page.Title $image | markdownify }}
+        {{ end }}
+    </div>
+</div>

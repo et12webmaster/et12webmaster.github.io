@@ -13,5 +13,9 @@ keywords:
     - et12
     - san martin
     - proyectos
+collapsibleMenu: false
+alwaysopen: false
 ---
-{{%children description="true" type="card"%}}
+En este apartado se encuentra los productos relacionados a los objetos de Papeleria y Decoración.
+
+{{%children description="true" type="tree"%}}

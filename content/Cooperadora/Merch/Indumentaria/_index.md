@@ -13,8 +13,10 @@ keywords:
     - et12
     - san martin
     - proyectos
+collapsibleMenu: false
+alwaysopen: false
 ---
 
-En este apartado se encuentra los productos relacionados a prendas de vestir
+En este apartado se encuentra los productos relacionados a la Indumentaria.
 
-{{%children description="true" type="card"%}}
+{{%children description="true" type="tree"%}}

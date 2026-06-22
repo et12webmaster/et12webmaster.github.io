@@ -24,5 +24,5 @@ Horarios:
 {{% /notice %}}
 
 ### Nuestro Merchandansing
-- Lo recaudado es reinvertido en proporcionar una educación de calidad a todo nuestro alumnado, mejorando las instalaciones o adquiriendo nuevo equipamiento para uso de todos.
-- [Apoyá a la escuela comprando nuestros productos 😃](./Merch/_index.md)
+Lo recaudado es reinvertido en proporcionar una educación de calidad a todo nuestro alumnado, mejorando las instalaciones o adquiriendo nuevo equipamiento para uso de todos.
+- [**Apoyá a la escuela comprando nuestros productos 😃**](./Merch/_index.md)
