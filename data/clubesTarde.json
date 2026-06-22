@@ -1,1 +1,44 @@
-[]
+[
+  {
+    "referentes": [
+      "Avalos, José G. 4º 7º"
+    ],
+    "id": "asteria",
+    "nombre": "Asteria - Desarrollo Creativo",
+    "ubicacion": "-",
+    "descripcion": "Desarrollar habilidades lúdicas para detectar diferentes talentos en los jóvenes."
+  },
+  {
+    "referentes": [
+      "Cahripa, Hector 1°5°",
+      " Lares, Samuel 1°5°"
+    ],
+    "id": "ajedrez",
+    "nombre": "Bendito Ajedrez",
+    "ubicacion": "-",
+    "descripcion": "Mejorar la práctica del juego mediante el aprendizaje contínuo"
+  },
+  {
+    "referentes": [
+      "Aguirre, Eric 6°7°",
+      "Leon, Celedonio 6°7°",
+      "Martinez, Alina 6°7°",
+      "Pasandi, Luka 6°7°",
+      "Zerpa, Sebastian 6°7°"
+    ],
+    "id": "web",
+    "nombre": "Desarrollo de la Web ET12",
+    "ubicacion": "Aula 20",
+    "descripcion": ""
+  },
+  {
+    "referentes": [
+      "Casimiro, Enzo 6º 7º",
+      "Cuello, Valentino 6º 7º"
+    ],
+    "id": "aero",
+    "nombre": "Aeronautico - E.T. 12 D.E. 1",
+    "ubicacion": "-",
+    "descripcion": "Comprender en mayor profundidad los fundamentos de la física aplicada a la aeronáutica, también un recorrido por la historia aeroespacial mundial."
+  }
+]
