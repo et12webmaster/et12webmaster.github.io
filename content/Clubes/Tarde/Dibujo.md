@@ -1,6 +1,6 @@
 +++
 title = "Arte y Dibujo"
-description = "Información de los diversos clubes de la ET12 de la tarde"
+description = "Un espacio creativo y colaborativo abierto a todos los niveles, ideal para explorar nuevas técnicas de dibujo, compartir ideas y conectar a través de la pasión por el arte."
 tags = [ "Clubes" ]
 keywords = [
   "et12",

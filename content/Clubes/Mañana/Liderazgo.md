@@ -1,6 +1,6 @@
 +++
 title = "Liderazgo Juvenil"
-description = "Información de los diversos clubes de la ET12 de la tarde"
+description = "Poder aprender a liderar grupos y a la práctica de la resolución de problemas."
 tags = [ "Clubes" ]
 keywords = [
   "et12",
@@ -11,4 +11,4 @@ keywords = [
 club_id = "liderazgo"
 +++
 
-{{<clubes "clubesTarde">}}
+{{<clubes "clubesMañana">}}

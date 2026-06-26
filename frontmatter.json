@@ -238,8 +238,7 @@
           "id",
           "nombre",
           "referentes",
-          "ubicacion",
-          "descripcion"
+          "ubicacion"
         ],
         "properties": {
           "id": {
@@ -262,10 +261,6 @@
           "ubicacion": {
             "type": "string",
             "title": "Ubicación"
-          },
-          "descripcion": {
-            "type": "string",
-            "title": "Descripción"
           }
         }
       }
@@ -284,8 +279,7 @@
           "id",
           "nombre",
           "referentes",
-          "ubicacion",
-          "descripcion"
+          "ubicacion"
         ],
         "properties": {
           "id": {
@@ -308,10 +302,6 @@
           "ubicacion": {
             "type": "string",
             "title": "Ubicación"
-          },
-          "descripcion": {
-            "type": "string",
-            "title": "Descripción"
           }
         }
       }

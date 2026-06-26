@@ -1,6 +1,6 @@
 +++
 title = "DESARROLLO DE LA WEB E.T 12"
-description = "Información de los diversos clubes de la ET12 de la tarde"
+description = "Creamos, innovamos y mantenemos viva la presencia digital de nuestra escuela, uniendo diseño y programación en cada actualización."
 tags = [ "Clubes" ]
 keywords = [
   "et12",

@@ -1,22 +1,21 @@
 [
   {
     "referentes": [
-      "Avalos, José G. 4º 7º"
+      "Ramirez, Camila 4º 7º",
+      "Opoka, Joaquín 4º 7º"
     ],
     "id": "asteria",
     "nombre": "Asteria - Desarrollo Creativo",
-    "ubicacion": "-",
-    "descripcion": "Desarrollar habilidades lúdicas para detectar diferentes talentos en los jóvenes."
+    "ubicacion": "-"
   },
   {
     "referentes": [
       "Cahripa, Hector 1°5°",
-      " Lares, Samuel 1°5°"
+      "Lares, Samuel 1°5°"
     ],
     "id": "ajedrez",
     "nombre": "Bendito Ajedrez",
-    "ubicacion": "-",
-    "descripcion": "Mejorar la práctica del juego mediante el aprendizaje contínuo"
+    "ubicacion": "-"
   },
   {
     "referentes": [
@@ -28,8 +27,7 @@
     ],
     "id": "web",
     "nombre": "Desarrollo de la Web ET12",
-    "ubicacion": "Aula 20",
-    "descripcion": ""
+    "ubicacion": "Aula 20"
   },
   {
     "referentes": [
@@ -38,7 +36,25 @@
     ],
     "id": "aero",
     "nombre": "Aeronautico - E.T. 12 D.E. 1",
+    "ubicacion": "Aula 22"
+  },
+  {
+    "referentes": [
+      "Prof. Rios, Matías",
+      "Cristaldo, Brian 4°7°",
+      "Veliz, Fran 4°7°"
+    ],
+    "id": "pingpong",
+    "nombre": "Ping Pong",
+    "ubicacion": "-"
+  },
+  {
+    "referentes": [
+      "Corso, Geraldine 1° 4°",
+      "Martinez Rivero, Jazmín 1° 4°"
+    ],
+    "id": "arte",
     "ubicacion": "-",
-    "descripcion": "Comprender en mayor profundidad los fundamentos de la física aplicada a la aeronáutica, también un recorrido por la historia aeroespacial mundial."
+    "nombre": "Arte y Dibujo"
   }
 ]
