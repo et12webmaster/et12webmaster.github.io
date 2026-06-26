@@ -1,12 +1,12 @@
 ---
-title: Remera Completa
-date: 2026-06-01T18:58:43.170Z
-description: Remera con escudo bordado al frente y frase en la espalda.
+title: Chomba
+description: Chomba del colegio con escudo.
+date: 2026-06-26T00:22:58.653Z
 preview: img/Banner Cooperadora.png
 image: "/imgs/404.jpg"
 images: 
     - "/imgs/404.jpg"
-precio: 25000.00
+precio: 27000.00
 fmContentType: Producto Tienda ET12
 ---
 

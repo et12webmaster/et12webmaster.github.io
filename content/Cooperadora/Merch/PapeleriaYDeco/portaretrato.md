@@ -1,12 +1,12 @@
 ---
-title: Remera Completa
-date: 2026-06-01T18:58:43.170Z
-description: Remera con escudo bordado al frente y frase en la espalda.
+title: Porta Retrato Acrílico
+description: Porta retrato acrílico 10cmx15cm con tarjeta.
+date: 2026-06-26T00:12:46.876Z
 preview: img/Banner Cooperadora.png
 image: "/imgs/404.jpg"
 images: 
     - "/imgs/404.jpg"
-precio: 25000.00
+precio: 2700.00
 fmContentType: Producto Tienda ET12
 ---
 
