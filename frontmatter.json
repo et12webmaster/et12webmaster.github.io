@@ -8,6 +8,10 @@
     {
       "title": "imgs",
       "path": "[[workspace]]/static/imgs"
+    },
+    {
+      "title": "Tienda ET12",
+      "path": "[[workspace]]/content/tienda"
     }
   ],
   "frontMatter.content.publicFolder": "static",
@@ -259,6 +263,134 @@
           }
         }
       }
+    },
+    {
+      "id": "productos",
+      "title": "Productos / Merchandising",
+      "file": "[[workspace]]/data/productos.json",
+      "fileType": "json",
+      "labelField": "nombre",
+      "singleEntry": false,
+      "schema": {
+        "title": "Producto",
+        "type": "object",
+        "required": [
+          "nombre",
+          "descripcion",
+          "ImageUrl",
+          "precio"
+        ],
+        "properties": {
+          "nombre": {
+            "type": "string",
+            "title": "Nombre"
+          },
+          "descripcion": {
+            "type": "string",
+            "title": "Descripcion"
+          },
+          "ImageUrl": {
+            "type": "string",
+            "title": "ImageUrl"
+          },
+          "precio": {
+            "type": "number",
+            "title": "Precio"
+          }
+        }
+      }
+    }
+  ],
+  "frontMatter.taxonomy.contentTypes": [
+    {
+      "name": "default",
+      "pageBundle": false,
+      "previewPath": null,
+      "fields": [
+        {
+          "title": "Title",
+          "name": "title",
+          "type": "string"
+        },
+        {
+          "title": "Description",
+          "name": "description",
+          "type": "string"
+        },
+        {
+          "title": "Publishing date",
+          "name": "date",
+          "type": "datetime",
+          "default": "{{now}}",
+          "isPublishDate": true
+        },
+        {
+          "title": "Content preview",
+          "name": "preview",
+          "type": "image"
+        },
+        {
+          "title": "Is in draft",
+          "name": "draft",
+          "type": "draft"
+        },
+        {
+          "title": "Tags",
+          "name": "tags",
+          "type": "tags"
+        },
+        {
+          "title": "Categories",
+          "name": "categories",
+          "type": "categories"
+        }
+      ]
+    },
+    {
+      "name": "Producto Tienda ET12",
+      "pageBundle": false,
+      "filePrefix": "Cooperadora/Merch/",
+      "fields": [
+        { 
+          "title": "Nombre del Producto", 
+          "name": "title", 
+          "type": "string" 
+        },
+        { 
+          "title": "Descripción Corta", 
+          "name": "description", 
+          "type": "string" 
+        },
+        {
+          "title": "Fecha de Publicación",
+          "name": "date",
+          "type": "datetime",
+          "default": "{{now}}",
+          "isPublishDate": true
+        },
+        {
+          "title": "Banner de Preview",
+          "name": "preview",
+          "type": "string",
+          "default": "img/Banner Cooperadora.png"
+        },
+        { 
+          "title": "URL Imagen Principal (Catálogo)", 
+          "name": "image", 
+          "type": "string"
+        },
+        {
+          "title": "Galería de Imágenes (Array para Cards)",
+          "name": "images",
+          "type": "array",
+          "multiple": true
+        },
+        { 
+          "title": "Precio ($)", 
+          "name": "precio", 
+          "type": "number" 
+        }
+      ]
     }
   ],
   "frontMatter.framework.startCommand": "hugo server -D --renderToMemory"

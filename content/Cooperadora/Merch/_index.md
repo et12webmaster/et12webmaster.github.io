@@ -1,9 +1,7 @@
 ---
-menuPre: '<i class="fa-solid fa-computer"></i> '
+menuPre: '<i class="fa-solid fa-basket-shopping"></i>'
 title: "Merchandising"
-description: Proyectos de Computación en la ET12
-draft: true
-preview: img/proyectocomputacion.png
+description: Merchandising oficial de la ET12
 images:
     - img/proyectocomputacion.png
 tags:
@@ -16,8 +14,14 @@ keywords:
     - proyectos
 ---
 
-![Banner Proyecto Computación](img/proyectocomputacion.png?width=98vw&lightbox=false)
+{{<estilo-layoutcard>}}
 
-### Merchandising
+{{% notice style="tip" icon="fa-solid fa-handshake" title="Comunicado" style="lightblue"%}}
+Comunicamos que los precios vistos **pueden variar**, ante cualquier duda o consulta preguntar via mail:
+- cooperadora.tecnica12de1@bue.edu.ar
 
-{{% children type="card" description=true sort="publishdate"%}}
+Si tiene dudas sobre el como abonar, acceda al siguiente enlace:
+- [Información de Pago](../InformacionPago.md)
+{{% /notice %}}
+
+{{% children type="card" sort="publishdate"%}}

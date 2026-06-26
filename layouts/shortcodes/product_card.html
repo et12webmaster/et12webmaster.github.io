@@ -1,1 +1,20 @@
-{{ partial "product-card.html" .Page }}
+<link rel="stylesheet" type="text/css" href="/css/productos.css">
+<source src="/css/productos.css"/>
+
+<div class="product-card-grid">
+    <div class="product-info" style="color: inherit;">
+        {{ with .Page.Params.description }}
+        <p class="product-description" style="margin-top: 0; line-height: 1.5; color: inherit;">{{ . }}</p>
+        {{ end }}
+        <p style="font-size: 1.25rem; font-weight: bold; margin-bottom: 0; color: inherit;">
+            Último Precio: {{ .Page.Params.precio }} $
+        </p>
+    </div>
+
+    <div class="product-img-col">
+        {{ if and (isset .Page.Params "images") (gt (len .Page.Params.images) 0) }}
+        {{ $image := index .Page.Params.images 0 }}
+        <img src="{{ $image | safeURL }}" alt="{{ .Page.Title }}" loading="lazy" class="product-card-img" />
+        {{ end }}
+    </div>
+</div>

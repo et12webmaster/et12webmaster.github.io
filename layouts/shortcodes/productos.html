@@ -1,0 +1,13 @@
+<div id="grid-container">
+  
+  
+  {{range $.Site.Data.productos}}
+    <div id="card-container" class="card-1">
+      <img src="{{ .ImageUrl }}" alt="{{ .name }}">
+      <h6>{{ .nombre }}</h3>
+      <p><strong>${{ .precio }}</strong></p>
+      <p>{{ .descripcion}}</p>
+    </div>
+
+  {{ end }}
+</div>

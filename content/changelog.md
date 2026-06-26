@@ -10,6 +10,8 @@ keywords:
     - changelog
 preview: https://www.campusmvp.es/recursos/image.axd?picture=/2020/2T/git-post-blog.png
 ---
+
+{{<estilo-galeria>}}
 ## v3
 
 * Logo animado ([Luis Armoa](#LuisArmoa))
