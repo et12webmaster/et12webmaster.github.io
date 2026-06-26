@@ -14,9 +14,14 @@ keywords:
     - proyectos
 ---
 
+{{<estilo-layoutcard>}}
+
 {{% notice style="tip" icon="fa-solid fa-handshake" title="Comunicado" style="lightblue"%}}
 Comunicamos que los precios vistos **pueden variar**, ante cualquier duda o consulta preguntar via mail:
 - cooperadora.tecnica12de1@bue.edu.ar
+
+Si tiene dudas sobre el como abonar, acceda al siguiente enlace:
+- [Información de Pago](../InformacionPago.md)
 {{% /notice %}}
 
 {{% children type="card" sort="publishdate"%}}
