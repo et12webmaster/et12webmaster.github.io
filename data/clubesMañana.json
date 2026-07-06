@@ -1,11 +1,22 @@
 [
   {
     "referentes": [
-      "Piriz, Lourdes 5°7°",
+      "Piriz, Lourdes 5°6°",
       "Fernandez, Nahin 6°1°"
     ],
     "id": "liderazgo",
     "nombre": "Liderazgo Juvenil",
     "ubicacion": "-"
+  },
+  {
+    "referentes": [
+      "Mendoza, Federico 5°8°",
+      "Fermoselle, Thiago 5°8°",
+      "Gonzales, Carmelo 6°8°",
+      "Torren, Ruben 6°8°"
+    ],
+    "id": "programacionJuegos",
+    "nombre": "Programación de videojuegos",
+    "ubicacion": "Lab 19"
   }
 ]

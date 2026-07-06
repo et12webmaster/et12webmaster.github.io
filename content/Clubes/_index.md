@@ -63,3 +63,7 @@ En 2026 se trabaja con 2 líneas de acción para poder aprovechar los horarios e
 - **RECUPERACION SOCIALES**, llevado a cabo por Ravanal Alejandra.
 - **RECUPERACION LENGUA Y LITERATURA**, llevado a cabo por Cabriza Inés y Topa Damián.
 - **RECUPERACION COMPUTACION**, llevado a cabo por Pedraza y Durán.
+
+{{% notice icon="microphone" style="magenta" title="Taller de Radio"%}}
+En la actualidad, también disponemos del club/taller de Radio que se da los Jueves de 12:10 a 13:25, en el 2° piso a cargo del profesor Claudio Czernochvsky
+{{% /notice %}}
