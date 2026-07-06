@@ -1,0 +1,37 @@
+{{ $nombreArchivo := .Get 0 }}
+{{ $datos := index .Site.Data $nombreArchivo }}
+{{ $clubId := .Page.Params.club_id }}
+
+{{ range $datos }}
+    {{ if eq .id $clubId }}
+    <div class="club-card">
+
+        {{/* Referentes: Solo si existen en el JSON */}}
+        {{ if .referentes }}
+            {{ if eq (len .referentes) 1 }}
+                <h6><strong>Referente:</strong> {{ index .referentes 0 }}</h6>
+            {{ else }}
+                <h6><strong>Referentes:</strong></h6>
+                <ul>
+                    {{ range .referentes }}
+                    <li>{{ . }}</li>
+                    {{ end }}
+                </ul>
+            {{ end }}
+        {{ end }}
+        
+        {{/* Ubicación: Se muestra solo si tiene un dato real */}}
+        {{ if and .ubicacion (not (eq .ubicacion "-")) }}
+            <h6><strong>Ubicación:</strong> {{ .ubicacion }}</h6>
+        {{ end }}
+        
+        {{/* Descripción: Lee SÍ O SÍ la metadata (.Page.Description) */}}
+        {{ $descripcion := $.Page.Description }}
+        {{ if and $descripcion (not (eq $descripcion "-")) (not (eq $descripcion "")) }}
+            <h6><strong>Descripción:</strong> {{ $descripcion }}</h6>
+        {{ end }}
+        
+        <hr>
+    </div>
+    {{ end }}
+{{ end }}

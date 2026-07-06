@@ -1,0 +1,60 @@
+[
+  {
+    "referentes": [
+      "Ramirez, Camila 4º 7º",
+      "Opoka, Joaquín 4º 7º"
+    ],
+    "id": "asteria",
+    "nombre": "Asteria - Desarrollo Creativo",
+    "ubicacion": "-"
+  },
+  {
+    "referentes": [
+      "Cahripa, Hector 1°5°",
+      "Lares, Samuel 1°5°"
+    ],
+    "id": "ajedrez",
+    "nombre": "Bendito Ajedrez",
+    "ubicacion": "-"
+  },
+  {
+    "referentes": [
+      "Aguirre, Eric 6°7°",
+      "Leon, Celedonio 6°7°",
+      "Martinez, Alina 6°7°",
+      "Pasandi, Luka 6°7°",
+      "Zerpa, Sebastian 6°7°"
+    ],
+    "id": "web",
+    "nombre": "Desarrollo de la Web ET12",
+    "ubicacion": "Aula 20"
+  },
+  {
+    "referentes": [
+      "Casimiro, Enzo 6º 7º",
+      "Cuello, Valentino 6º 7º"
+    ],
+    "id": "aero",
+    "nombre": "Aeronautico - E.T. 12 D.E. 1",
+    "ubicacion": "Aula 22"
+  },
+  {
+    "referentes": [
+      "Prof. Rios, Matías",
+      "Cristaldo, Brian 4°7°",
+      "Veliz, Fran 4°7°"
+    ],
+    "id": "pingpong",
+    "nombre": "Ping Pong",
+    "ubicacion": "-"
+  },
+  {
+    "referentes": [
+      "Corso, Geraldine 1° 4°",
+      "Martinez Rivero, Jazmín 1° 4°"
+    ],
+    "id": "arte",
+    "ubicacion": "-",
+    "nombre": "Arte y Dibujo"
+  }
+]
