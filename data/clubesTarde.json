@@ -46,7 +46,7 @@
     ],
     "id": "pingpong",
     "nombre": "Ping Pong",
-    "ubicacion": "-"
+    "ubicacion": "3° Piso"
   },
   {
     "referentes": [
@@ -56,5 +56,30 @@
     "id": "arte",
     "ubicacion": "-",
     "nombre": "Arte y Dibujo"
+  },
+  {
+    "referentes": [
+      "Castro, Thiago Alexander 1°5°"
+    ],
+    "id": "grafiti",
+    "nombre": "Grafiti",
+    "ubicacion": "-"
+  },
+  {
+    "referentes": [
+      "Cubillas Gonzalez, Angel 1° 5°"
+    ],
+    "id": "recicla",
+    "nombre": "LOS RECICLABLES",
+    "ubicacion": "-"
+  },
+  {
+    "referentes": [
+      "Vargas, Melany 3° 5°",
+      "Palencia, Annali 3° 5°"
+    ],
+    "id": "pop",
+    "nombre": "CULTURA K - POP",
+    "ubicacion": "2° Piso"
   }
 ]
