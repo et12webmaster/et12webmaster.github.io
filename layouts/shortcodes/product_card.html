@@ -18,3 +18,14 @@
         {{ end }}
     </div>
 </div>
+
+{{/* Generador dinámico de tabla Markdown para los talles */}}
+{{ with .Page.Params.talles }}
+<div class="product-sizes-container">
+    {{ $tablaMarkdown := "| Talle | Ancho | Largo |\n| :---: | :---: | :---: |\n" }}
+    {{ range . }}
+        {{ $tablaMarkdown = printf "%s| **%s** | %v cm. | %v cm. |\n" $tablaMarkdown .talle .ancho .largo }}
+    {{ end }}
+    {{ $tablaMarkdown | markdownify }}
+</div>
+{{ end }}

@@ -53,6 +53,18 @@
         border-radius: 6px;
     }
 
+    .product-sizes-container {
+        max-width: 975px;
+        margin: 0 auto 25px auto;
+        padding: 0 40px; 
+        box-sizing: border-box;
+    }
+
+    .product-sizes-container table {
+        width: 100%;
+        margin-top: 15px;
+    }
+
     @media (max-width: 768px) {
         .product-card-grid {
             grid-template-columns: 1fr !important;
@@ -77,5 +89,10 @@
         .product-card-grid .product-img-col {
             order: 2 !important;
             height: 240px; 
+        }
+
+        .product-sizes-container {
+        max-width: 90%;
+        padding: 0 25px;
         }
     }
