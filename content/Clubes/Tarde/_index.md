@@ -13,4 +13,4 @@ collapsibleMenu = false
 alwaysopen = false
 +++
 
-{{% children type="tree" description=true sort="title" image="false" %}}
+{{% pages description="true" display="tree" image="false" orderby="linktitle" %}}

@@ -44,14 +44,14 @@ El protagonismo como premisa en el Club Juvenil permite un vinculo entre los dir
 - Informar al responsable del club si no pudiera participar de algún encuentro ya pactado previamente.
 - Queda prohibido el uso de celulares excepto cuando se soliciten para la realización de la actividad.
 
-{{% notice style="info" title="Horarios de los clubes"%}}
+{{% callout style="info" title="Horarios de los clubes"%}}
 - Para el turno mañana: Viernes 7:45 a 9:05 hs.
 - Para el turno tarde: Lunes 13:30 a 14:50 hs.
-{{% /notice %}}
+{{% /callout %}}
 
 #### Clubes por turno:
 
-{{% children description=true image="false" %}}
+{{% pages description="true" display="tree" image="false" %}}
 
 <hr>
 
@@ -64,6 +64,6 @@ En 2026 se trabaja con 2 líneas de acción para poder aprovechar los horarios e
 - **RECUPERACION LENGUA Y LITERATURA**, llevado a cabo por Cabriza Inés y Topa Damián.
 - **RECUPERACION COMPUTACION**, llevado a cabo por Pedraza y Durán.
 
-{{% notice icon="microphone" style="magenta" title="Taller de Radio"%}}
+{{% callout icon="microphone" style="magenta" title="Taller de Radio"%}}
 En la actualidad, también disponemos del club/taller de Radio que se da los Jueves de 12:10 a 13:25, en el 2° piso a cargo del profesor Claudio Czernochvsky
-{{% /notice %}}
+{{% /callout %}}

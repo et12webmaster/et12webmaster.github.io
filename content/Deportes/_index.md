@@ -23,4 +23,4 @@ Los **Clubes de Deportes** son comunidades en marcha que esperan tu compromiso. 
 - **Desarrollo de Habilidades:** Más allá del juego, la pertenencia a estos espacios fomenta la comunicación asertiva, la resiliencia ante la derrota y la planificación estratégica bajo presión.
 Te invitamos a recorrer las opciones disponibles y a elegir el espacio que mejor se adapte a tus afinidades. En la ET N° 12, el movimiento y la técnica avanzan de la mano. **Tu lugar en el equipo te está esperando.**
 
-{{% children type="card" description=true sort="title" %}}
+{{% pages description="true" display="cards" orderby="linktitle" %}}

@@ -21,10 +21,10 @@ keywords:
 
 Si sos alumno egresado de nuestra institución y estás en busca de nuevas oportunidades laborales podés hacernos llegar tu CV través de nuestra Bolsa de Trabajo (**practicaset12@gmail.com**) para ser considerado en futuras vacantes.
 
-{{% notice style="primary" title="Importante" icon="warning"%}}
+{{% callout style="primary" title="Importante" icon="warning"%}}
 - Debés tener el título con **todas las materias aprobadas**.
 - Especificá tu especialidad y año de egreso al enviar el correo electrónico.
-{{% /notice %}}
+{{% /callout %}}
 
 
 {{% button href="mailto:practicaset12@gmail.com?subject=Bolsa%20de%20Trabajo%20-%20CV&body=Especialidad:%0AAño%20de%20egreso:" icon="envelope" style="primary" %}}Enviar CV a la Bolsa de Trabajo{{% /button %}}

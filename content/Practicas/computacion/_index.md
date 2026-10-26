@@ -11,7 +11,7 @@ tags:
 
 ![Banner Proyecto Computación](/imgs/banners/Practicas-Computacion.svg?width=98vw&lightbox=false)
 
-{{% notice style="info" title="Perfil Técnico en Computación" icon="computer"%}}
+{{% callout style="info" title="Perfil Técnico en Computación" icon="computer"%}}
 Los alumnos de computación que están cursando 6to año en la ET12, están capacitados en diferentes aspectos dentro del area:
 
 **Hardware**
@@ -23,8 +23,8 @@ Los alumnos de computación que están cursando 6to año en la ET12, están capa
 - Capacidad de comprender y diseñar Bases de Datos Relacionales (MySQL), como implementar objetos dentro de la misma (procedimientos, disparadores, gestión de usuarios).
 
 - Capacidad de poder desarrollar una aplicación orientado a objetos, modularizando en capas y documentando.
-{{% /notice %}}
+{{% /callout %}}
 
 ### Nuestras prácticas
 
-{{% children type="card" description=true sort="publishdate" depth="2"%}}
+{{% pages description="true" display="cards" levels="2" orderby="publishdate" %}}

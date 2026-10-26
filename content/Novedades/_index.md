@@ -11,4 +11,4 @@ keywords:
 
 En este espacio, podes ver las ultimas novedades de nuestra Escuela.
 
-{{% children sort="publishdate" %}}
+{{% pages display="tree" orderby="publishdate" %}}

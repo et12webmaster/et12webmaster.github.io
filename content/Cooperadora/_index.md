@@ -17,8 +17,8 @@ images = ["img/Banner Cooperadora.png"]
 
 ![Cooperadora](img/Banner%20Cooperadora.png?width=98vw&lightbox=false)
 
-{{% notice style="info" icon="fa-solid fa-handshake" style="orange" title="Asociación Cooperadora 'MARÍA L.PRAT DE LOUIT'"%}}
+{{% callout style="info" icon="fa-solid fa-handshake" style="orange" title="Asociación Cooperadora 'MARÍA L.PRAT DE LOUIT'"%}}
 Horarios: 
 - Lunes y Miercoles de 07:45 a 11:00 
 - Martes de 17:00 a 19:00
-{{% /notice %}}
+{{% /callout %}}
