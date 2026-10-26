@@ -42,7 +42,7 @@ Fundado aproximadamente en 2005 por el profesor Daniel Frijón, quien estuvo a c
 
 Los integrantes participan en diversas competencias, donde pueden presentar sus proyectos innovadores y obtener reconocimiento por su trabajo.
 
-{{% notice style="info" title="Información a tener en cuenta"%}}
+{{% callout style="info" title="Información a tener en cuenta"%}}
 **Horarios**
 
 - Las sesiones del club se organizan en horarios flexibles, permitiendo que los estudiantes asistan según su disponibilidad.
@@ -53,4 +53,4 @@ Los integrantes participan en diversas competencias, donde pueden presentar sus 
 
 - Tener tiempo libre dentro de los horarios establecidos del club.
 - No hay mas requisitos para entrar al club. Algunos estudiantes llegan con proyectos planificados, y al finalizar, pueden optar por quedarse y colaborar en nuevos desafíos. Los integrantes incluyen alumnos de diferentes niveles, desde 1° año hasta 6° año.
-{{% /notice %}}
+{{% /callout %}}

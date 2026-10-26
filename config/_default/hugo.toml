@@ -1,5 +1,5 @@
 baseURL = 'https://et12.edu.ar/'
-languageCode = 'es-ar'
+locale = 'es-ar'
 defaultContentLanguage = 'es'
 title = 'ET12'
 ordersectionsby = 'weight'

@@ -29,9 +29,9 @@ Puedes acercarte al tercer piso y contactar a cualquiera de los referentes del e
 - Presidente: Ángel López 6°7
 - Manager: Alina Martínez 6°7
 
-{{% notice style="info" title="Horarios de los referentes"%}}
+{{% callout style="info" title="Horarios de los referentes"%}}
 - Todos los dias desde 14:10hs a 17:00hs
-{{% /notice %}}
+{{% /callout %}}
 
 ¡Te esperamos para seguir haciendo crecer el básquet en la ET12!
 

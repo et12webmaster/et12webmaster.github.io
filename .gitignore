@@ -1,0 +1,10 @@
+# Front Matter CMS
+.frontmatter/cache/
+.frontmatter/database/
+.frontmatter/ui/
+.frontmatter/*.log
+
+# Go Hugo
+public/
+resources/_gen/
+.hugo_build.lock

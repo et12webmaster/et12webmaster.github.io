@@ -1,5 +1,5 @@
 {{ $nombreArchivo := .Get 0 }}
-{{ $datos := index .Site.Data $nombreArchivo }}
+{{ $datos := index hugo.Data $nombreArchivo }}
 {{ $clubId := .Page.Params.club_id }}
 
 {{ range $datos }}

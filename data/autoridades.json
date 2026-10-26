@@ -20,14 +20,14 @@
   {
     "cargo": "Regente T. Tarde",
     "titulo": "Prof.",
-    "nombre": "Carolina",
-    "apellido": "Krampitz"
+    "nombre": "Rocío",
+    "apellido": "Pérez"
   },
   {
     "cargo": "Regente T. Noche",
-    "titulo": "Lic.",
-    "nombre": "Marcelo",
-    "apellido": "Grispino"
+    "titulo": "Prof.",
+    "nombre": "Luis",
+    "apellido": "Di Francisco"
   },
   {
     "cargo": "Subregente",
@@ -56,7 +56,7 @@
   {
     "titulo": "Lic.",
     "cargo": "Asesora Pedagógica",
-    "nombre": "Evangelina ",
-    "apellido": "Torandel"
+    "nombre": "Carolina",
+    "apellido": "Martín"
   }
 ]

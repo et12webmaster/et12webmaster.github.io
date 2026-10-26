@@ -20,4 +20,4 @@ keywords:
 
 ### Proyectos
 
-{{% children type="card" description=true sort="publishdate"%}}
+{{% pages description="true" display="cards" orderby="publishdate" %}}
